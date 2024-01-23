@@ -1,4 +1,6 @@
+ 
 # date
+- session 
 
 ## recap
 - end of previous session
@@ -11,3 +13,6 @@
 
 ## missions
 - active plots
+
+## wiki links
+- ##  [baston grimm](../../lore.md#baston-grimm)
