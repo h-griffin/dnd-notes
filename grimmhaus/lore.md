@@ -4,7 +4,7 @@
 
 ## grimmhaus lore notes
 
-![world map](./assets/Ab_Aeterno_World_Map.png)
+![world map](../assets/Ab_Aeterno_World_Map.png)
 
 # AB Aeterno: Grimmhaus Wiki
 ## twilight counsil
@@ -19,6 +19,7 @@
 
 ## aetheric shard
 - consumed by prime manor to teleport building
+- functions like a magic bettery/reserve
 
 # === CHARACTERS ===
 ## Baston Grimm
@@ -32,12 +33,28 @@
 
 ## Indigo
 - baston grimms second oldest son etan, known as indigo
+- sent verana on her missions to defeat the dread
 
-## kato ra el
+## Kato-Ra El
 - devil?
 
 ## Ambrosius Fog
 - employer of ambrosius casino
+
+## Count Felix Defluff
+- huelfryn 
+
+## VeeVee
+- female ninja
+- stole an aetheric shard from ambrosius casino vault
+
+## Shaza El
+- dread master?
+
+## Sand Sculptor
+- sand man "we the sarab" desert guide
+
+
 
 # === MONSTERS ===
 ## gibbering mouther
@@ -45,6 +62,8 @@
 
 ## shambling mound
 - larger mouther, rot, decay, fungus
+
+
 
 
 
@@ -64,14 +83,14 @@
     - ### city of hamarat, taloa
         - las vegas, desert casino - aetheric shards
         - ### ambrosius casino
-        
-
+            - owned by ambrosius fog
 
 ## city of grimmwold, eastern dalsead
 - home to grimmhaus manor
 
 ## prime manor
 - home base! magic teleporting house, manned by indigo with automitron keepers
+- indigo works for "caelus", "isac", "calem", "the trubador"- owners of prime manor
 - do not go top south west room "you will die"
     - rooms
         - kitchen

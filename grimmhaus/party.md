@@ -2,24 +2,28 @@
 
 ## Paul
 - [Dungeon Master](https://www.dndbeyond.com/members/CourtofAvalon)
+    - [dndbeyond grimmhaus campaign](https://www.dndbeyond.com/campaigns/4131697)
 
 ## Ally
 - [Auri Ravenwoood](https://www.dndbeyond.com/characters/101109154)
     - female wood elf, druid/ranger 
     - antlers, one arm, heterochromia
+    - session#11 hair and eyes split, loses one antler
 
 ## Xander
 - [Huelfryn Zenith](https://www.dndbeyond.com/characters/101227134)
     - male fire genasi, bard 
     - tiger family? fire hair and red/black eyes
     - taloa is dangerous: huel is in debt and being followed by secret fire genasi hitmen
-- monkey companion
+    - familiar:
+        - monkey companion
 
 ## Jayven
 - [Koromu Kaminari](https://www.dndbeyond.com/characters/101114671)
     - male variant human, cleric/fighter 
     - blue white black hair
-    - ken the gecko
+    - familiar:
+        - ken the gecko
 
 ## Eli
 - [Dripper](https://www.dndbeyond.com/characters/101107786)
@@ -31,9 +35,11 @@
     - goblin, warlock
     - small goblin rogue and bear familiar
     - related (sister?) to auri 
-    - ursa the bear  
-    - ### stubby the pigeon 
-        - sir stubble of the south wind
+    - sent on missions to defeat all creatures of the dread by indigo
+    - familiar:
+        - ursa the bear  
+        - ### stubby the pigeon 
+            - sir stubble of the south wind
 - [Verana](https://www.dndbeyond.com/characters/106559591)
     - female high elf, fighter 
     - high elf from holy isle
@@ -47,7 +53,8 @@
 - [Kith](https://www.dndbeyond.com/characters/78128606)
     - male half-orc, barbarian 
     - father normans guard
-- walter, cursed pool floatie companion
+- ### walter the pool floatie
+    - cursed pool floatie companion from the ambrosia casino vault
 
 ## Griffin
 - [Zazriel Fealkuus](https://www.dndbeyond.com/characters/101667382)
@@ -57,9 +64,13 @@
 ## Hunter
 - [Kaneki](https://www.dndbeyond.com/characters/101107728)
     - male shadar-kai, fighter 
-    - half masked face, mutant death experiment
-    - the crow, does not speak bird
+    - half masked face, mutant death experiment, pale 'shadow elf', sunken sad blue eyes
+    - "malakor" scientist injection
+    - demon familiar: the crow, rat, scorpion
+        - does not speak bird
         - changes to a rat session#6
+        - changes to scorpion session#12
+
 
 
 
