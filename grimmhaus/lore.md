@@ -84,6 +84,7 @@
         - las vegas, desert casino - aetheric shards
         - ### ambrosius casino
             - owned by ambrosius fog
+            - celestial vessel sunken ship burried 3 flors below desert floor
 
 ## city of grimmwold, eastern dalsead
 - home to grimmhaus manor
