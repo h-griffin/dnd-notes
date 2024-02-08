@@ -22,7 +22,7 @@
 
 
 # AB AETERNO: Grimmhaus
-![world map](./assets/Ab_Aeterno_World_Map.png)
+![world map](../assets/Ab_Aeterno_World_Map.png)
 
 # important links
 - [Lore notes](./lore.md)
