@@ -20,6 +20,7 @@
 ## aetheric shard
 - consumed by prime manor to teleport building
 - functions like a magic bettery/reserve
+- see [Prime manor](#prime-manor) for aetheric shard house charges inventory
 
 # === CHARACTERS ===
 ## Baston Grimm
@@ -30,6 +31,9 @@
     2. etan - smoke (indigo)
     3. isen
     4. tylus
+    5. 
+    6. 
+    7. 
 
 ## Indigo
 - baston grimms second oldest son etan, known as indigo
@@ -38,30 +42,42 @@
 ## Kato-Ra El
 - devil?
 
+- he came with the darkness and cut out the light, trapped the all bloom within a strange prison
+ 
 ## Ambrosius Fog
 - employer of ambrosius casino
 
 ## Count Felix Defluff
 - huelfryn 
+- feline person, curled mustache
 
 ## VeeVee
 - female ninja
-- stole an aetheric shard from ambrosius casino vault
+- stole an aetheric shard from ambrosius casino vault creating a portal
 
 ## Shaza El
-- dread master?
+- dread master? 
+- temple of shaza el mabad in desert north of takrati, taloa
+- "a nessicary trragedy"
+- one regret is sari
 
 ## Sand Sculptor
-- sand man "we the sarab" desert guide
+- "sand man" desert guide
+- "we the sarab"
+- daughter rameek, killed by kaneki session#14
+- killed by kaneki session#14 
 
+## Zara the Weaver
+- owner of weaving/tapestry shop in takraki, taloa
+- patterns/portraits come to her in a vision
 
+## Azar Alshams
+- king of the south wind
+- refers to zazriel as princess, she does not recognize him
 
-# === MONSTERS ===
-## gibbering mouther
-- congealed bodies makup undead monstrosity
-
-## shambling mound
-- larger mouther, rot, decay, fungus
+## Susano The Storm Lord 
+- father to Azar Alshams king of the south wind and princess "delila"
+- koromus diety?
 
 
 
@@ -84,13 +100,17 @@
         - las vegas, desert casino - aetheric shards
         - ### ambrosius casino
             - owned by ambrosius fog
-            - celestial vessel sunken ship burried 3 flors below desert floor
+            - celestial vessel sunken ship burried 3 flors below desert floor 1 above with deck roof
 
 ## city of grimmwold, eastern dalsead
 - home to grimmhaus manor
 
 ## prime manor
 - home base! magic teleporting house, manned by indigo with automitron keepers
+    ### hermmunculi
+    1. cardimum - adventurer, pirate -weapons room
+    2. cumin - "delicioso!"
+    3. coriander - 
 - indigo works for "caelus", "isac", "calem", "the trubador"- owners of prime manor
 - do not go top south west room "you will die"
     - rooms
@@ -105,10 +125,30 @@
         - alchemy room - huel
         - glowing platn room - kaneki
         - ornate skull candle room - kith
-    ### hermmunculi
-    1. cardimum - adventurer, weapons room
-    2. cumin - 
-    3. coriander - 
     ### skylark
     - trapped (?) woman near magic panel "please 4186"
+- aetheric shard house charges 
+    - session #9 [7] huel loots from ambrosius casino vault
+    - session #11 [6/6][+1] huel keeps one from indigo
+    - session #13 [4/6][+1] kaneki uses 2 from indigo (takrati>hamarat>takrati)
+    - session #13 [4/6][+2] dripper has an extra aetheric shard
+
     
+
+
+
+
+
+
+# === MONSTERS ===
+## gibbering mouther
+- congealed bodies makup undead monstrosity
+- killed in altar room of grimmhaus manor session #4
+
+## shambling mound
+- larger mouther, rot, decay, fungus
+- killed in altar room of grimmhaus manor session #4
+
+
+
+

@@ -16,6 +16,8 @@
 10. [Return to Prime Manor](./grimmhaus/act-II/23-8-16.md)
 11. [City of Takrati](./grimmhaus/act-II/23-8-23.md)
 12. [The Sand Sculptor](./grimmhaus/act-II/23-8-30.md)
+13. [Preparing for Desert Trip](./grimmhaus/act-II/23-9-6.md)
+14. [The Vacant Town](./grimmhaus/act-II/23-9-13.md)
 
 # important links
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)
@@ -23,7 +25,7 @@
 ```
 
 # title
-- session #
+- session #00
 - date YY-MM-DD
 
 ## recap
@@ -39,5 +41,5 @@
 - active plots
 
 ## wiki links
-- ##  [baston grimm](../lore.md#baston-grimm)
+- [baston grimm](../lore.md#baston-grimm)
 ```
