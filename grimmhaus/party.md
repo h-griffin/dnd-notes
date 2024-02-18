@@ -1,4 +1,7 @@
 # party
+- level
+    - 3 session#4 grummhaus dungeon
+    - 4 session#16 takrati desert manticores
 
 ## Paul
 - [Dungeon Master](https://www.dndbeyond.com/members/CourtofAvalon)
@@ -65,9 +68,13 @@
 - [Kaneki](https://www.dndbeyond.com/characters/101107728)
     - male shadar-kai, fighter 
     - half masked face, mutant death experiment, pale 'shadow elf', sunken sad blue eyes
-    - "malakor" scientist injection
-    - demon familiar: the crow, rat, scorpion
-        - does not speak bird
+        - "malakor" scientist injection
+    - dripper knows kaneki from town named "deemah" 
+        - used to be in a drio with a princess named Rose (incident/amnesia?)
+        - kaneki does not remember
+
+    - demon familiar: calvenaugh/calv the crow, rat, scorpion
+        - does not speak bird, not visible to anyone but kaneki
         - changes to a rat session#6
         - changes to scorpion session#12
 
