@@ -1,8 +1,11 @@
-<style>table { width: 100%;}</style>
-
-| | [Table of Contents](/grimmhaus/README.md) | |
-| :--- | :----: | ---: |
-| [&larr; &nbsp; Current: [ACT I]](/grimmhaus/act-I/) | | [Next: [ACT II] &nbsp; &rarr;](/grimmhaus/act-II/) |
+<div align="center"> 
+  <h3 align="center"><a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/" >[GRIMMHAUS]</a></h3>
+  <p align="center"> 
+    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-I" >&larr; &nbsp; [ACT I]</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
+    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-II" >[ACT II] &nbsp; &rarr;</a>
+  </p>
+</div>
 
 # Grimmhaus > Act-I
 
