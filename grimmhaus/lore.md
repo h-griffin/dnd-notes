@@ -76,6 +76,7 @@
 - refers to zazriel as princess, she does not recognize him
 
 ## Susano The Storm Lord 
+- god of lightning and thunder
 - father to Azar Alshams king of the south wind and princess "delila"
 - koromus diety?
 
