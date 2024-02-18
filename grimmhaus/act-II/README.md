@@ -1,3 +1,10 @@
+<style>table { width: 100%;}</style>
+
+| | [Table of Contents](/grimmhaus/README.md) | |
+| :--- | :----: | ---: |
+| [&larr; &nbsp; Previous: [ACT I]](/grimmhaus/act-I/) | | [Next: [ACT III] &nbsp; &rarr;](/grimmhaus/act-III/) |
+
+
 # Grimmhaus > Act-II
 
 # Table of Contents 
@@ -11,6 +18,9 @@
 12. [The Sand Sculptor](../act-II/23-8-30.md)
 13. [Preparing for Desert Trip](../act-II/23-9-6.md)
 14. [The Vacant Town](../act-II/23-9-13.md)
+15. [Into the Desert](../act-II/23-9-20.md)
+16. [Desert Manticores](../act-II/23-9-27.md)
+17. [The Temple of Shaza El](../act-II/23-9-13.md)
 
 ## AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)

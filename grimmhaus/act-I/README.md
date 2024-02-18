@@ -1,5 +1,10 @@
-# Grimmhaus > Act-I
+<style>table { width: 100%;}</style>
 
+| | [Table of Contents](/grimmhaus/README.md) | |
+| :--- | :----: | ---: |
+| [&larr; &nbsp; Current: [ACT I]](/grimmhaus/act-I/) | | [Next: [ACT II] &nbsp; &rarr;](/grimmhaus/act-II/) |
+
+# Grimmhaus > Act-I
 
 # Table of Contents
 ## ACT I: Clear Grimmhaus Manor
