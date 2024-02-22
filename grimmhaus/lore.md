@@ -1,9 +1,8 @@
-## AB Aeterno lore notes
+![world map](../assets/Ab_Aeterno_World_Map.png)
+
+# AB Aeterno lore notes
 - dragons not seen in aetarno in millions of years
 - ebonguard: evil school of magic
-
-## grimmhaus lore notes
-![world map](../assets/Ab_Aeterno_World_Map.png)
 
 # AB Aeterno: Grimmhaus Wiki
 ## twilight counsil
@@ -15,8 +14,9 @@
 ## dread
 - untimate evil
 - dread seed in taloa (continent in the west)
+    - session#19 shaza el absorbs dread seed, shrinks to a doll to be taken to city of dys
 - can only be unmade using the dream shard
-- dread/malakor destoryed with flame of valor
+- dread/malakor destoryed with pure fire or flame of valor
 
 ## aetheric shard
 - Magic Shard
@@ -29,10 +29,13 @@
 - stone of immense power from fragment of reality - power of the universe
 - can unmake the dread
 
+
+
+
+
 # === CHARACTERS ===
 ## Baston Grimm
-- owner of grimmhaus manor
-- missing 20+ years
+- owner of grimmhaus manor - missing 20+ years
 - 7 kids
     1. hestin - metalic liquid in jar experiment
     2. etan (indigo) - smoke 
@@ -67,14 +70,14 @@
 ## Shaza El
 - dread master? 
 - temple of shaza el mabad in desert north of takrati, taloa
+- session#19 absorbs dread seed and shrivels into doll (norman: fetish of shaza el), must be taken to city of dyss and time will be undone
 - "a nessicary trragedy"
     - ### sari
         - shazas one regret is sari
         - young girl living at the temple of shaza el cleaning stones
         - shazas pregnant wife that died because of baston grimm
         - lives on as a quatle - feathered winged serpent that feeds on souls
-        - session#19 explodes into a million stars 
-- session#19 absorbs dread seed and shrivels into doll (norman: fetish of shaza el), must be taken to city of dyss and time will be undone
+        - session#19 explodes into a million stars after shaza absorbs dread seed
 
 ## Sand Sculptor
 - "sand man" desert guide
@@ -104,6 +107,9 @@
 
 
 
+
+
+
 # === PLACES ===
 ## holly isle
 - elven homeland, only ancient/royal elves are allowed in, all else are banished
@@ -113,10 +119,11 @@
 - continent in the west
     - empire of dawn, the jade confederacy, the dragon wall, the pride lands, the lost coast, epros, nightmare bay
 - dread seed in taloa 
-    - session#19 norman gives dread seed to shaza el
+    - session#19 norman gives dread seed to shaza el 
 - ### city of dys, taloa
     - get more aetheric shards here
     - the crystal desert - desert of glass
+    - bring shaza el doll here and time will be unmade
 - ### city of tikradi, taloa
     - baston grimm last journal entry, expidition to pride lands 
 - ### city of hamarat, taloa
