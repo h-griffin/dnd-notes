@@ -148,7 +148,7 @@
     1. cardimum - adventurer, pirate -weapons room
     2. cumin - "delicioso!"
     3. coriander - 
-- indigo works for "caelus", "isac", "calem", "the trubador"- owners of prime manor
+- indigo works for "caelus", "isac", "calem", "the trubador"- owner of prime manor
 - do not go top south west room "you will die"
     - rooms
         - kitchen

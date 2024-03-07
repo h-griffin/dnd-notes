@@ -10,11 +10,17 @@
 # Grimmhaus > Act-III
 
 # Table of Contents 
-## ACT III:   
-**find Shaza El**
+## ACT III: Find Shaza El
+11. [City of Takrati](../act-III/shaza-el/23-8-23.md)
+12. [The Sand Sculptor](../act-III/shaza-el/23-8-30.md)
+13. [Preparing for Desert Trip](../act-III/shaza-el/23-9-6.md)
+14. [The Vacant Town](../act-III/shaza-el/23-9-13.md)
+15. [Into the Desert](../act-III/shaza-el/23-9-20.md)
+16. [Desert Manticores](../act-III/shaza-el/23-9-27.md)
+17. [The Temple of Shaza El](../act-III/shaza-el/23-10-4.md)
+18. [The Chamber of the El](../act-III/shaza-el/23-10-11.md)
+19. [Shaza Els Deal](../act-III/shaza-el/23-10-18.md)
 
-11. [City of Takrati](../act-II/shaza-el/23-8-23.md)
- 
 
 ## AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)
