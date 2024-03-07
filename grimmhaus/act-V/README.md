@@ -1,9 +1,9 @@
 <div align="center"> 
   <h3 align="center"><a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/" >[GRIMMHAUS]</a></h3>
   <p align="center"> 
-    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-I" >&larr; &nbsp; [ACT II]</a>
+    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-IV" >&larr; &nbsp; [ACT IV]</a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
-    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-IV" >[ACT IV] &nbsp; &rarr;</a>
+    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-VI" >[ACT VI] &nbsp; &rarr;</a>
   </p>
 </div>
 

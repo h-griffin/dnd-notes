@@ -1,17 +1,17 @@
 <div align="center"> 
   <h3 align="center"><a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/" >[GRIMMHAUS]</a></h3>
   <p align="center"> 
-    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-III" >&larr; &nbsp; [ACT III]</a>
+    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-V" >&larr; &nbsp; [ACT V]</a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
-    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-V" >[ACT V] &nbsp; &rarr;</a>
+    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-VII" >[ACT VII] &nbsp; &rarr;</a>
   </p>
 </div>
 
 
-# Grimmhaus > Act-IV
+# Grimmhaus > Act-VI
 
 # Table of Contents 
-## ACT IV:  
+## ACT VI:  
  
 
 # AB AETERNO: Grimmhaus

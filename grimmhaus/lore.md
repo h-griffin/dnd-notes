@@ -71,6 +71,7 @@
 - dread master? 
 - temple of shaza el mabad in desert north of takrati, taloa
 - session#19 absorbs dread seed and shrivels into doll (norman: fetish of shaza el), must be taken to city of dyss and time will be undone
+    - fetish of shaza el: 3 spells
 - "a nessicary trragedy"
     - ### sari
         - shazas one regret is sari
@@ -164,6 +165,7 @@
         - ornate skull candle room - kith
     ### skylark
     - trapped (?) woman near magic panel "please 4186"
+    - 4 digit passcode - 6s & 9s
 - aetheric shard house charges 
     - session #9 [7] huel loots from ambrosius casino vault
     - session #11 [6/6][+1] huel keeps one from indigo
