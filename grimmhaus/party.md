@@ -1,7 +1,9 @@
 # party
+- team name: the idiots, the bird watchers
 - level
     - 3 session#4 grummhaus dungeon
     - 4 session#16 takrati desert manticores
+
 
 ## Paul
 - [Dungeon Master](https://www.dndbeyond.com/members/CourtofAvalon)
@@ -12,6 +14,11 @@
     - female wood elf, druid/ranger 
     - antlers, one arm, heterochromia
     - session#11 hair and eyes split, loses one antler
+    - unknown parents
+        - aranis ravenwood - father
+        - deleria ravenwood - mother
+    - kuda - diety?
+    - session#20 merges with kalos(split hari and eyes): life and death, give and take
 
 ## Xander
 - [Huelfryn Zenith](https://www.dndbeyond.com/characters/101227134)
@@ -20,6 +27,7 @@
     - taloa is dangerous: huel is in debt and being followed by secret fire genasi hitmen
     - familiar:
         - monkey companion
+    - huel has a dead brother he blames himself - only one of family to survive
 
 ## Jayven
 - [Koromu Kaminari](https://www.dndbeyond.com/characters/101114671)
@@ -32,6 +40,7 @@
 - [Dripper](https://www.dndbeyond.com/characters/101107786)
     - male kenku, rogue 
     - small flightless kenku bird in a blue hood
+    - cursed by the king, cannot fly (war of air and sky)
 
 ## Mckenzie
 - [Kalos](https://www.dndbeyond.com/characters/101676565)
@@ -43,14 +52,18 @@
         - ursa the bear  
         - ### stubby the pigeon 
             - sir stubble of the south wind
+            - batallion 5 hq in pillar of clouds
 - [Verana](https://www.dndbeyond.com/characters/106559591)
     - female high elf, fighter 
     - high elf from holy isle
+    - has two sentient swords (souls of her brothers)
+        - dawnbreaker
 
 ## Matt
 - [Father Norman McDonald](https://www.dndbeyond.com/characters/101451279)
     - male variant human, cleric 
     - high priest of reverand mother
+    - session#19 carrying doll of shaza el
 
 ## Shay
 - [Kith](https://www.dndbeyond.com/characters/78128606)
