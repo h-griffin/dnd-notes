@@ -90,6 +90,7 @@
         - does not speak bird, not visible to anyone but kaneki
         - changes to a rat session#6
         - changes to scorpion session#12
+        - changes to a raven session#21
 
 
 
