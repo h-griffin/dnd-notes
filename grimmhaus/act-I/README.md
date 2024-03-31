@@ -1,8 +1,8 @@
-<div align="center"> 
+<div align="center">
   <h3 align="center"><a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/" >[GRIMMHAUS]</a></h3>
-  <p align="center"> 
+  <p align="center">
     <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-I" >&larr; &nbsp; [ACT I]</a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-II" >[ACT II] &nbsp; &rarr;</a>
   </p>
 </div>
@@ -24,5 +24,3 @@
 - [Lore notes](../lore.md)
 - [Party notes](../party.md)
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)
- 
- 
