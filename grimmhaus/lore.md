@@ -23,112 +23,120 @@
 # AB Aeterno: Grimmhaus Wiki
 
 ## twilight counsil
-- mages /political intelligence
+- mages /political intelligence *S5*
 
 ## order of ox
-- military following huelfryn?
+- military following huelfryn? *S7*
 
 ## dread
-- untimate evil
-- dread seed in taloa (continent in the west)
+- untimate evil *S4*
+- dread seed in taloa (continent in the west) *S5*
     - session#19 shaza el absorbs dread seed, shrinks to a doll to be taken to city of dys
-- can only be unmade using the dream shard
-- dread/malakor destoryed with pure fire or flame of valor
+- can only be unmade using the dream shard *S19*
+- dread/malakor destoryed with pure fire or flame of valor *S19*
 
 ## aetheric shard
 - Magic Shard
 - functions like a magic bettery/reserve
-- consumed by prime manor to teleport building
+- consumed by prime manor to teleport building *S6*
 - see [Prime manor](#prime-manor) for aetheric shard house charges inventory
 
 ## dream shard
 - Reality shard
 - stone of immense power from fragment of reality - power of the universe
-- can unmake the dread
+- can unmake the dread *S18*
 
 # === CHARACTERS ===
 
 ## Baston Grimm
-- owner of grimmhaus manor - missing 20+ years
+- owner of grimmhaus manor - missing 20+ years *S1*
 - 7 kids
-    1. hestin - metalic liquid in jar experiment
-    2. etan (indigo) - smoke
+    1. hestin - metalic liquid in jar experiment *S2*
+    2. etan (indigo) - smoke *S2*
     3. isen
     4. tylus
     5.
     6.
     7.
-- the body of baston grimm lays in the harbor of ebbonguard, dead mans island
-- the spirit of baston grimm resides in the planes of tartarus
+- the body of baston grimm lays in the harbor of ebbonguard, dead mans island *S18*
+- the spirit of baston grimm resides in the planes of tartarus *S18*
 
 ## Indigo
-- baston grimms second oldest son etan, known as indigo
+- baston grimms second oldest son etan, known as indigo *S5*
 - sent verana on her missions to defeat the dread
 
 ## Kato-Ra El
-- devil?
+- devil? *S6*
 -
 - he came with the darkness and cut out the light, trapped the all bloom within a strange prison
 
 ## Ambrosius Fog
-- employer of ambrosius casino
+- employer of ambrosius casino *S7*
 
 ## Count Felix Defluff
-- huelfryn
+- huelfryn and auri followed to kitchen in ambrosious casino *S9*
 - feline person, curled mustache
 
 ## VeeVee
 - female ninja
-- stole an aetheric shard from ambrosius casino vault creating a portal
+- stole an aetheric shard from ambrosius casino vault creating a portal *S9*
 
 ## Shaza El
-- dread master?
-- temple of shaza el mabad in desert north of takrati, taloa
+- dread master? *S11*
+- temple of shaza el mabad in desert north of takrati, taloa *S14*
 - session#19 absorbs dread seed and shrivels into doll (norman: fetish of shaza el), must be taken to city of dyss and time will be undone
     - fetish of shaza el: 3 spells
-- "a nessicary trragedy"
+- "a nessicary trragedy" *S15*
     - ### sari
-        - shazas one regret is sari
-        - young girl living at the temple of shaza el cleaning stones
+        - shazas one regret is sari *S15*
+        - young girl living at the temple of shaza el cleaning stones *S17*
         - shazas pregnant wife that died because of baston grimm
-        - lives on as a quatle - feathered winged serpent that feeds on souls
+        - lives on as a quatle - feathered winged serpent that feeds on souls *S19*
         - session#19 explodes into a million stars after shaza absorbs dread seed
 
 ## Sand Sculptor
-- "sand man" desert guide
-- "we the sarab"
+- "sand man" desert guide *S12*
+- "we the sarab" *S12*
 - daughter rameek, killed by kaneki session#14
 - killed by kaneki session#14
 
 ## Zara the Weaver
-- owner of weaving/tapestry shop in takraki, taloa
-- patterns/portraits come to her in a vision
+- owner of weaving/tapestry shop in takraki, taloa *S12*
+- patterns/portraits come to her in a vision *S12*
 
 ## Azar Alshams
-- king of the south wind
-- refers to zazriel as princess, she does not recognize him
+- king of the south wind *S15*
+- refers to zazriel as princess, she does not recognize him *S15*
 
 ## Susano The Storm Lord
-- god of lightning and thunder
-- father to Azar Alshams king of the south wind and princess "delila"
+- god of lightning and thunder *S16*
+- father to Azar Alshams king of the south wind and princess "delila" *S15*
 - koromus diety?
 - war between air and sky (dripper vs koromu)
 
 ## Reverend Mother
-- allMother - Pura
+- allMother - Pura *S9*
 - norman is high priest of reverend mother
-- shaza el thinks she is a harlet, cause of the dread
+- shaza el thinks she is a harlet, cause of the dread *S19*
 
 ## Razzle Mac
-- city of night representative
+- city of night representative *S20*
 
 ## saas the whisper wind
+- trader - poisons, psychedellics, away out of here, "information" *S20*
 
 ## alino green leaf
-- staff with mushrooms topped with honeycomb dripping
+- staff with mushrooms topped with honeycomb dripping *S20*
 
 ## bodo the grump
-- troll, expert bridge repair
+- troll, expert bridge repair *S20*
+
+## herold greyson of the high pass
+- huel needs to find *S20*
+- in bruke, bogflats, eastern dalstead *S20*
+
+## father dominicus
+- church of five points
 
 # === PLACES ===
 
@@ -139,21 +147,22 @@
 ## taloa
 - continent in the west
     - empire of dawn, the jade confederacy, the dragon wall, the pride lands, the lost coast, epros, nightmare bay
-- dread seed in taloa
+- dread seed in taloa *S5*
     - session#19 norman gives dread seed to shaza el
 
 - ### city of dys, taloa
-    - get more aetheric shards here
-    - the crystal desert - desert of glass
+    - baston grimms last jounral entry *S6*
+    - get more aetheric shards here *S6*
+    - the crystal desert - desert of glass *S19*
     - bring shaza el doll here and time will be unmade
 
 - ### city of tikradi, taloa
-    - baston grimm last journal entry, expidition to pride lands
+    - baston grimm last journal entry points to expidition to pride lands/tikradi *S6*
 
 - ### city of hamarat, taloa
-    - las vegas, desert casino - aetheric shards
+    - las vegas, desert casino - aetheric shards *S6*
     - #### ambrosius casino
-        - owned by ambrosius fog
+        - owned by ambrosius fog, abandoned ship in desert *S6*
         - celestial vessel sunken ship burried 3 flors below desert floor 1 above with deck roof
 
 - ### empire of dawn, taloa
@@ -164,31 +173,38 @@
     - the finnian league, bogflats, tarleigh hold
 
 - ### city of grimmwold, eastern dalsead
-    - home to grimmhaus manor
+    - home to grimmhaus manor *S6*
 
 - ### county of tarleigh hold, eastern dalstead
-    - Tarleigh Hold is a c, controlled by the Tarleigh family
+    - Tarleigh Hold is a county, controlled by the Tarleigh family
     - find smuel "sisek" the missing arokokra bird
     - #### city of tarleigh, tarleigh hold, eastern dalstead
+    - #### city of angakkar, tarleigh hold, eastern dalstead
+        - family of missing arakokra bird "samuel/sisek" *S22*
 - ### city of bruke, the bogflats, eastern dalstead
-    - find herold greyson of the high pass here
+    - find herold greyson of the high pass here *S20*
+    - #### thomnas light post
+        - "bandersnatch beware the beautiful bovine" *S22*
 
 ## dead mans island
+- harbor of ebonguard *S20*
 
 ## pillar of clouds
-- secret base of arakokra bird army batallion 5
+- secret base of arakokra bird army batallion 5 *S20*
 
 ## court of clouds
-- dripper helping find samuel missing arakokra bird in exchange for passage
+- dripper helping find samuel missing arakokra bird in exchange for passage *S20*
+
+## jade confederacy
+- koromu needs to go here (huel knows) *S20*
 
 ## prime manor
 - home base! magic teleporting house, manned by indigo with automitron keepers
-
-### hermmunculi
-    1. cardimum - adventurer, pirate -weapons room
+- ### hermmunculi
+    1. cardimum - adventurer, pirate -weapons room *S6*
     2. cumin - "delicioso!"
     3. coriander -
-- indigo works for "caelus", "isac", "calem", "the trubador"- owner of prime manor
+- indigo works for "caelus", "isac", "calem", "the trubador"- owner of prime manor *S11*
 - do not go top south west room "you will die"
     - rooms
         - kitchen
@@ -204,7 +220,7 @@
         - ornate skull candle room - kith
 
 ### skylark
-- trapped (?) woman near magic panel "please 4186"
+- trapped (?) woman near magic panel "please 4186" *S5*
 - 4 digit passcode - 6s & 9s
 - aetheric shard house charges
     - session #9 [7] huel loots from ambrosius casino vault
@@ -212,15 +228,12 @@
     - session #13 [4/6][+1] kaneki uses 2 from indigo (takrati>hamarat>takrati)
     - session #13 [4/6][+2] dripper has an extra aetheric shard
 
-## jade confederacy
-- koromu needs to go here (huel knows)
-
 # === MONSTERS ===
 
 ## gibbering mouther
-- congealed bodies makup undead monstrosity
+- congealed bodies makup undead monstrosity *S4*
 - killed in altar room of grimmhaus manor session #4
 
 ## shambling mound
-- larger mouther, rot, decay, fungus
+- larger mouther, rot, decay, fungus *S4*
 - killed in altar room of grimmhaus manor session #4
