@@ -34,6 +34,8 @@
     - blue white black hair
     - familiar:
         - ken the gecko
+- splint
+    - kobold /dragonoid very far removed, but prideful of dragon heritage
 
 ## Eli
 - [Dripper](https://www.dndbeyond.com/characters/101107786)
