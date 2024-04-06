@@ -1,5 +1,5 @@
 # party
-- team name: the idiots, the bird watchers
+- team name: the idiots, the bird watchers, smail team 6
 - level
     - 3 session#4 grummhaus dungeon
     - 4 session#16 takrati desert manticores
@@ -32,6 +32,7 @@
 - [Koromu Kaminari](https://www.dndbeyond.com/characters/101114671)
     - male variant human, cleric/fighter
     - blue white black hair
+    - west wind *S24*
     - familiar:
         - ken the gecko
 - splint
@@ -72,6 +73,7 @@
     - father normans guard
 - ### walter the pool floatie
     - cursed pool floatie companion from the ambrosia casino vault *S11*
+    - creator named "solomon" *S29*
 
 ## Griffin
 - [Zazriel Fealkuus](https://www.dndbeyond.com/characters/101667382)

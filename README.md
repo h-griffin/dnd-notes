@@ -28,6 +28,14 @@
 ## ACT IV
 20. [The Pillar of Clouds](./grimmhaus/act-IV/23-10-25.md)
 21. [The Bridge City](./grimmhaus/act-IV/23-11-1.md)
+22. [The Storm Gem](./grimmhaus/act-IV/23-11-8.md)
+23. [Thomnas Lightpost](./grimmhaus/act-IV/23-11-15.md)
+24. [The VIP Room](./grimmhaus/act-IV/23-11-29.md)
+25. [The Bridge Lockdown](./grimmhaus/act-IV/23-12-06.md)
+26. [City of Angakkar](./grimmhaus/act-IV/23-12-013.md)
+27. [Recap and Planning](./grimmhaus/act-IV/23-12-27.md)
+28. [The Toad Mother](./grimmhaus/act-IV/24-01-02.md)
+29. [The Shade and Mushrooms](./grimmhaus/act-IV/24-01-10.md)
 
 ## ACT V
 

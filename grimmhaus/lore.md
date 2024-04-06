@@ -46,6 +46,14 @@
 - stone of immense power from fragment of reality - power of the universe
 - can unmake the dread *S18*
 
+## storm gem
+- koromu says dont touch,very valuable to his people, not for stealing *22*
+- built of metal blue eyes and blue electricity (lightning not steam) *22*
+- auri and kaneki stole from rodderick the warforged (his heart) guarding the bridge city Bruke, tarleigh hold, eastern dalstead *S22*
+
+## all bloom
+- all bloom cultist from north, planting hypnotic moonlight iris in angakkar, tarleighhold, eastern dalstead*S28*
+
 # === CHARACTERS ===
 
 ## Baston Grimm
@@ -74,12 +82,15 @@
 - employer of ambrosius casino *S7*
 
 ## Count Felix Defluff
-- huelfryn and auri followed to kitchen in ambrosious casino *S9*
 - feline person, curled mustache
+- huelfryn and auri followed to kitchen in ambrosious casino *S9*
 
 ## VeeVee
 - female ninja
 - stole an aetheric shard from ambrosius casino vault creating a portal *S9*
+- lady in blue *S24*
+- counterpart is dead *S24*
+- thumnas lampost vip portal: turns wall to glass and shatters *S24*
 
 ## Shaza El
 - dread master? *S11*
@@ -123,20 +134,23 @@
 - city of night representative *S20*
 
 ## saas the whisper wind
-- trader - poisons, psychedellics, away out of here, "information" *S20*
+- trader - poisons, psychedellics, away out of here, "information" - bruke, bogflats, eastern dalstead *S20*
 
 ## alino green leaf
-- staff with mushrooms topped with honeycomb dripping *S20*
+- staff with mushrooms topped with honeycomb dripping - bruke, bogflats, eastern dalstead *S20*
 
 ## bodo the grump
-- troll, expert bridge repair *S20*
+- troll, expert bridge repair - bruke, bogflats, eastern dalstead *S20*
 
 ## herold greyson of the high pass
-- huel needs to find *S20*
+- huel needs to find information broker *S20*
 - in bruke, bogflats, eastern dalstead *S20*
+- works for the butcher (ad owes him money), can be a guide into the wilds *S24*
 
 ## father dominicus
-- church of five points
+- church of five points *S22*
+    - prosperous (major notra dam) no gold on this building, no waste, all equal, money spent on community
+- acting strange? *S23*
 
 # === PLACES ===
 
