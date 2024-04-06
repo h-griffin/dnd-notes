@@ -12,8 +12,8 @@
 # Table of Contents
 ## ACT IV  
 20. [The Pillar of Clouds](../act-IV/23-10-25.md)
-21. [The Bridge City](../act-IV/23-11-1.md)
-22. [The Storm Gem](../act-IV/23-11-8.md)
+21. [The Bridge City](./23-11-01.md)
+22. [The Storm Gem](./23-11-08.md)
 23. [Thomnas Lightpost](../act-IV/23-11-15.md)
 24. [The VIP Room](../act-IV/23-11-29.md)
 25. [The Bridge Lockdown](../act-IV/23-12-06.md)
