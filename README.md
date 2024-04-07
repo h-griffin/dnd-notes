@@ -25,7 +25,7 @@
 18. [The Chamber of the El](./grimmhaus/act-III/23-10-11.md)
 19. [Shaza Els Deal](./grimmhaus/act-III/23-10-18.md)
 
-## ACT IV
+## ACT IV: Investigate the AllBloom
 20. [The Pillar of Clouds](./grimmhaus/act-IV/23-10-25.md)
 21. [The Bridge City](./grimmhaus/act-IV/23-11-01.md)
 22. [The Storm Gem](./grimmhaus/act-IV/23-11-08.md)
@@ -36,10 +36,20 @@
 27. [Recap and Planning](./grimmhaus/act-IV/23-12-27.md)
 28. [The Toad Mother](./grimmhaus/act-IV/24-01-02.md)
 29. [The Shade and Mushrooms](./grimmhaus/act-IV/24-01-10.md)
+30. [Agents of The All Bloom](./grimmhaus/act-IV/24-01-17.md)
+31. [Pancakes for Angakkar](./grimmhaus/act-IV/24-01-24.md)
+32. [Defending Angarkar: myconid](./grimmhaus/act-IV/24-01-31.md)
+33. [Defending Angarkar: himiwari](./grimmhaus/act-IV/24-02-07.md)
+34. [The Burned Cabin and the Missing Arakokra](./grimmhaus/act-IV/24-02-14.md)
+35. [The Feast of Saint Carles](./grimmhaus/act-IV/24-02-21.md)
+36. [The Doctor](./grimmhaus/act-IV/24-02-28.md)
 
 ## ACT V
-
-## ACT VI
+37. [Port Artorious](./grimmhaus/act-V/24-03-06.md)
+38. [The Pirate Games](./grimmhaus/act-V/24-03-13.md)
+39. [The Cartographers Guild](./grimmhaus/act-V/24-03-20.md)
+40. [The Cathedral](./grimmhaus/act-V/24-03-27.md)
+41. [Prison Break](./grimmhaus/act-V/24-04-03.md)
 
 ## important links
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)
@@ -48,6 +58,15 @@
 ![world map](./assets/Ab_Aeterno_World_Map.png)
 
 ```text
+
+<div align="center">
+  <h3 align="center"><a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/" >[GRIMMHAUS]</a></h3>
+  <p align="center">
+    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-I" >&larr; &nbsp; [ACT I]</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-II" >[ACT II] &nbsp; &rarr;</a>
+  </p>
+</div>
 
 # title
 - session #00

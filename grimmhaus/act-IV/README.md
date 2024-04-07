@@ -10,7 +10,7 @@
 # Grimmhaus > Act-IV
 
 # Table of Contents
-## ACT IV  
+## ACT IV: Investigate the AllBloom
 20. [The Pillar of Clouds](./23-10-25.md)
 21. [The Bridge City](./23-11-01.md)
 22. [The Storm Gem](./23-11-08.md)

@@ -10,7 +10,7 @@
 # Grimmhaus > Act-V
 
 # Table of Contents
-## ACT V: Find Baston Grimm
+## ACT V
 37. [Port Artorious](./24-03-06.md)
 38. [The Pirate Games](./24-03-13.md)
 39. [The Cartographers Guild](./24-03-20.md)

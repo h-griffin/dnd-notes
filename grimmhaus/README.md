@@ -13,7 +13,7 @@
 9. [The Vault](./act-II/23-08-07.md)
 10. [Return to Prime Manor](./act-II/23-08-16.md)
 
-## ACT II: Find Shaza El**
+## ACT II: Find Shaza El
 11. [City of Takrati](./act-III/23-08-23.md)
 12. [The Sand Sculptor](./act-III/23-08-30.md)
 13. [Preparing for Desert Trip](./act-III/23-09-06.md)
@@ -24,7 +24,7 @@
 18. [The Chamber of the El](./act-III/23-10-11.md)
 19. [Shaza Els Deal](./act-III/23-10-11.md)
 
-## ACT IV
+## ACT IV: Investigate the AllBloom
 20. [The Pillar of Clouds](./act-IV/23-10-25.md)
 21. [The Bridge City](./act-IV/23-11-01.md)
 22. [The Storm Gem](./act-IV/23-11-08.md)
