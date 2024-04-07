@@ -1,0 +1,13 @@
+{
+    "default": true,
+    "MD030": false,
+    "MD032": false,
+    "MD041": false,
+    "MD022": false,
+    "MD013": false, 
+    "MD023": false, 
+    "MD052": false, 
+    "MD029": false, 
+    "ul-indent": { "indent": 4 },
+    "MD033": false
+}
