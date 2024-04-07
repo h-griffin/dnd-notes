@@ -35,10 +35,20 @@
 27. [Recap and Planning](./act-IV/23-12-27.md)
 28. [The Toad Mother](./act-IV/24-01-02.md)
 29. [The Shade and Mushrooms](./act-IV/24-01-10.md)
+30. [Agents of The All Bloom](./act-IV/24-01-17.md)
+31. [Pancakes for Angakkar](./act-IV/24-01-24.md)
+32. [Defending Angarkar: myconid](./act-IV/24-01-31.md)
+33. [Defending Angarkar: himiwari](./act-IV/24-02-07.md)
+34. [The Burned Cabin and the Missing Arakokra](./act-IV/24-02-14.md)
+35. [The Feast of Saint Carles](./act-IV/24-02-21.md)
+36. [The Doctor](./act-IV/24-02-28.md)
 
 ## ACT V
-
-## ACT VI
+37. [Port Artorious](./act-V/24-03-06.md)
+38. [The Pirate Games](./act-V/24-03-13.md)
+39. [The Cartographers Guild](./act-V/24-03-20.md)
+40. [The Cathedral](./act-V/24-03-27.md)
+41. [Prison Break](./act-V/24-04-03.md)
 
 ## important links
 - [Lore notes](./lore.md)

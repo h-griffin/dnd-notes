@@ -11,11 +11,11 @@
 
 # Table of Contents
 ## ACT II: Find Baston Grimm
-6. [City of Hamarat](../act-II/23-07-17.md)
-7. [Ambrosius Casino](../act-II/23-07-26.md)
-8. [VIP Room](../act-II/23-08-02.md)
-9. [The Vault](../act-II/23-08-07.md)
-10. [Return to Prime Manor](../act-II/23-08-16.md)
+6. [City of Hamarat](./23-07-17.md)
+7. [Ambrosius Casino](./23-07-26.md)
+8. [VIP Room](./23-08-02.md)
+9. [The Vault](./23-08-07.md)
+10. [Return to Prime Manor](./23-08-16.md)
 
 ## AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)

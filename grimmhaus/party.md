@@ -1,8 +1,11 @@
 # party
 - team name: the idiots, the bird watchers, smail team 6
+- can of endless spagetti & enless water canteen
 - level
     - 3 session#4 grummhaus dungeon
     - 4 session#16 takrati desert manticores
+    - 5 session#20 temple of shaza el
+    - 6 session#30 angakkar flowers
 
 ## Paul
 - [Dungeon Master](https://www.dndbeyond.com/members/CourtofAvalon)
@@ -18,6 +21,7 @@
         - deleria ravenwood - mother
     - kuda - diety?
     - session#20 merges with kalos(split hari and eyes): life and death, give and take
+    - session#30 blag goo runs from her eyes and spreads across body antlers MELT, mushrooms sprout from wood arm and staff, large mushroom cap appears on her head, both eyes are now toxic green
 
 ## Xander
 - [Huelfryn Zenith](https://www.dndbeyond.com/characters/101227134)
@@ -35,7 +39,8 @@
     - west wind *S24*
     - familiar:
         - ken the gecko
-- splint
+- [Splinter Yorveld](https://dndbeyond.com/characters/120449013)
+    - male kobold, monk
     - kobold /dragonoid very far removed, but prideful of dragon heritage
 
 ## Eli
@@ -43,6 +48,10 @@
     - male kenku, rogue
     - small flightless kenku bird in a blue hood
     - cursed by the king, cannot fly (war of air and sky) *S19*
+    - lost a leg to kanekis laser beam, grew back a wood vine material like auris arm *29*
+    - killed by skylarks kiss *S37*
+- [Honu Shellback](https://www.dndbeyond.com/characters/120255894)
+    - male tortle, ranger
 
 ## Mckenzie
 - [Kalos](https://www.dndbeyond.com/characters/101676565)
@@ -60,6 +69,7 @@
     - high elf from holy isle
     - has two sentient swords (souls of her brothers)
         - dawnbreaker
+    - leaves party and returns with no memories *S34*
 
 ## Matt
 - [Father Norman McDonald](https://www.dndbeyond.com/characters/101451279)
@@ -89,8 +99,7 @@
         - used to be in a drio with a princess named Rose (incident/amnesia?) *S15*
         - kaneki does not remember
 
-    - demon familiar: calvenaugh/calv the crow, rat, scorpion
+    - demon familiar: calvenaugh/calv  
         - does not speak bird, not visible to anyone but kaneki
-        - changes to a rat session#6
-        - changes to scorpion session#12
-        - changes to a raven session#21
+        - rat S6,scorpion S12,raven S21,mushroom dog S31
+        - steals drippers name *S36*
