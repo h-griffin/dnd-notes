@@ -1,5 +1,5 @@
 # party
-- team name: the idiots, the bird watchers, smail team 6
+- team name: the idiots, the bird watchers, smail team 6, seal team idiot
 - can of endless spagetti & enless water canteen
 - level
     - 3 session#4 grummhaus dungeon
