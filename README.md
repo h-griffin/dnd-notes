@@ -50,6 +50,7 @@
 39. [The Cartographers Guild](./grimmhaus/act-V/24-03-20.md)
 40. [The Cathedral](./grimmhaus/act-V/24-03-27.md)
 41. [Prison Break](./grimmhaus/act-V/24-04-03.md)
+42. [Lauhyu Yugan](./grimmhaus/act-V/24-04-10.md)
 
 ## important links
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)

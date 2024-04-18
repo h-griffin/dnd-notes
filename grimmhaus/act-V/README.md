@@ -16,6 +16,8 @@
 39. [The Cartographers Guild](./24-03-20.md)
 40. [The Cathedral](./24-03-27.md)
 41. [Prison Break](./24-04-03.md)
+42. [Lauhyu Yugan](./24-04-10.md)
+43. [Decklins Island](./24-04-17.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)
