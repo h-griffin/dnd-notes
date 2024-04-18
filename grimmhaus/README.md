@@ -49,6 +49,8 @@
 39. [The Cartographers Guild](./act-V/24-03-20.md)
 40. [The Cathedral](./act-V/24-03-27.md)
 41. [Prison Break](./act-V/24-04-03.md)
+42. [Lauhyu Yugan](./act-V/24-04-10.md)
+43. [Decklins Island](./act-V/24-04-17.md)
 
 ## important links
 - [Lore notes](./lore.md)
