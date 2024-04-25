@@ -18,6 +18,7 @@
 41. [Prison Break](./24-04-03.md)
 42. [Lauhyu Yugan](./24-04-10.md)
 43. [Decklins Island](./24-04-17.md)
+44. [ ](./24-04-24.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)
