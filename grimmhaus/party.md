@@ -1,5 +1,5 @@
 # party
-- team name: the idiots, the bird watchers, smail team 6, seal team idiot
+- team name: the idiots, the bird watchers, snail team 6, seal team idiot, team biscuit, norman and the soggy bottom boys, the eightfold company, the ninefold company?
 - can of endless spagetti & enless water canteen
 - level
     - 3 session#4 grummhaus dungeon
