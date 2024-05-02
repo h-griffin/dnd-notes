@@ -19,6 +19,7 @@
 42. [Lauhyu Yugan](./24-04-10.md)
 43. [Decklins Island](./24-04-17.md)
 44. [ ](./24-04-24.md)
+44. [Requiems Wake](./24-05-01.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)
