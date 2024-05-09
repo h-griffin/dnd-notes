@@ -51,8 +51,9 @@
 41. [Prison Break](./act-V/24-04-03.md)
 42. [Lauhyu Yugan](./act-V/24-04-10.md)
 43. [Decklins Island](./act-V/24-04-17.md)
-44. [ ](./act-V/24-04-24.md)
+44. [Dragon Emporor](./act-V/24-04-24.md)
 44. [Requiems Wake](./act-V/24-05-01.md)
+44. [Cannons & Treasure Fever](./act-V/24-05-01.md)
 
 ## important links
 - [Lore notes](./lore.md)
