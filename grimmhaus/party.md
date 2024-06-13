@@ -6,6 +6,8 @@
     - 4 session#16 takrati desert manticores
     - 5 session#20 temple of shaza el
     - 6 session#30 angakkar flowers
+    - 7
+    - 8 session#50 hyaru moth coccoon
 
 ## Paul
 - [Dungeon Master](https://www.dndbeyond.com/members/CourtofAvalon)
