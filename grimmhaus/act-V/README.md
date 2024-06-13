@@ -19,8 +19,12 @@
 42. [Lauhyu Yugan](./24-04-10.md)
 43. [Decklins Island](./24-04-17.md)
 44. [Dragon Emporor](./24-04-24.md)
-44. [Requiems Wake](./24-05-01.md)
-44. [Cannons & Treasure Fever](./24-05-08.md)
+45. [Requiems Wake](./24-05-01.md)
+46. [Cannons & Treasure Fever](./24-05-08.md)
+47. [Hyaru Beach](./24-05-22.md)
+48. [Hyaru City](./24-05-29.md)
+49. [The Erd Tree](./24-06-05.md)
+50. [The Moth](./24-06-12.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)

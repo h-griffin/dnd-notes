@@ -43,7 +43,7 @@
 35. [The Feast of Saint Carles](./act-IV/24-02-21.md)
 36. [The Doctor](./act-IV/24-02-28.md)
 
-## ACT V
+## ACT V: Defeat the AllBloom
 37. [Port Artorious](./act-V/24-03-06.md)
 38. [The Pirate Games](./act-V/24-03-13.md)
 39. [The Cartographers Guild](./act-V/24-03-20.md)
@@ -52,8 +52,15 @@
 42. [Lauhyu Yugan](./act-V/24-04-10.md)
 43. [Decklins Island](./act-V/24-04-17.md)
 44. [Dragon Emporor](./act-V/24-04-24.md)
-44. [Requiems Wake](./act-V/24-05-01.md)
-44. [Cannons & Treasure Fever](./act-V/24-05-01.md)
+45. [Requiems Wake](./act-V/24-05-01.md)
+46. [Cannons & Treasure Fever](./act-V/24-05-01.md)
+47. [Hyaru Beach](./act-V/24-05-22.md)
+48. [Hyaru City](./act-V/24-05-29.md)
+49. [The Erd Tree](./act-V/24-06-05.md)
+50. [The Moth](./act-V/24-06-12.md)
+
+## ACT VI
+51. 
 
 ## important links
 - [Lore notes](./lore.md)

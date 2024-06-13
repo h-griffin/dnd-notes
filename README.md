@@ -51,6 +51,17 @@
 40. [The Cathedral](./grimmhaus/act-V/24-03-27.md)
 41. [Prison Break](./grimmhaus/act-V/24-04-03.md)
 42. [Lauhyu Yugan](./grimmhaus/act-V/24-04-10.md)
+43. [Decklins Island](./grimmhaus/act-V/24-04-17.md)
+44. [Dragon Emporor](./grimmhaus/act-V/24-04-24.md)
+45. [Requiems Wake](./grimmhaus/act-V/24-05-01.md)
+46. [Cannons & Treasure Fever](./grimmhaus/act-V/24-05-08.md)
+47. [Hyaru Beach](./grimmhaus/act-V/24-05-22.md)
+48. [Hyaru City](./grimmhaus/act-V/24-05-29.md)
+49. [The Erd Tree](./grimmhaus/act-V/24-06-05.md)
+50. [The Moth](./grimmhaus/act-V/24-06-12.md)
+
+## ACT VI
+51. 
 
 ## important links
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)
