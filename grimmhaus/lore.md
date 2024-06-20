@@ -31,7 +31,7 @@
     - session#19 shaza el absorbs dread seed, shrinks to a doll to be taken to city of dys
 - can only be unmade using the dream shard *S19*
 - dread/malakor destoryed with pure fire or flame of valor *S19*
-- pure fire much easier to come by than a fabric of reality, pir (sun) has dr calem randalls "pure fire" *S36*
+- pure fire much easier to come by than a fabric of reality, pir (sun) has dr calem/isac randalls "pure fire" *S36*
 
 ## Aetheric Shard
 - Magic Shard
@@ -44,7 +44,7 @@
 - Reality shard
 - stone of immense power from fragment of reality - power of the universe
 - can unmake the dread *S18*
-- very hard to come by the fabric of reality -dr calem randall *S36*
+- very hard to come by the fabric of reality -dr calem/isac randall *S36*
 
 ## Storm Gem
 - koromu says dont touch,very valuable to his people, not for stealing *22*
@@ -53,7 +53,7 @@
 ## All Bloom
 - all bloom cultist from north, planting hypnotic moonlight iris in angakkar, tarleighhold, eastern dalstead *S28*
 - walter says kato ra el defeated the all bloom long ago "what we paid for that was immesnse" trapped all bloom in a strange prison *S31*
-- "this is not on the timeline" -dr calem randall *S36*
+- "this is not on the timeline" -dr calem/isac randall *S36*
 - ### Agents of the All Bloom
     - subaki: woman with a flower parasol *S30*
     - sakura: a tree man with sword, samurai of cherry blossoms *S30*
@@ -79,7 +79,7 @@
     - baston grimms second oldest son etan, known as indigo *S5*
     - sent verana on her missions to defeat the dread
 - tomb of dread - the dark grimmuar
-    - ramblings of a man man -dr calem randall *S37*
+    - ramblings of a man man -dr calem/isac randall *S37*
 
 ## Kato-Ra El
 - devil? *S6*
@@ -111,7 +111,7 @@
         - shazas pregnant wife that died because of baston grimm
         - lives on as a quatle - feathered winged serpent that feeds on souls *S19*
         - session#19 explodes into a million stars after shaza absorbs dread seed
-- liar, con man, trickster, half baked blind man -dr calem randall *S37*
+- liar, con man, trickster, half baked blind man -dr calem/isac randall *S37*
 
 ## Sand Sculptor
 - "sand man" desert guide *S12*
@@ -178,11 +178,12 @@
 - living with father dominicus at church of 5 points *S39*
 
 ## Doctor Calem Randall
-- the trubadoor, ezok, caelis *S36*
+- the trubadoor, ezok, caelis, isac *S36*
 - prime manor master *S36*
 - hair ice white long jacket shifting with alchemy sympbols eternally adjusting themselves, long traveled individual
 - has not been here for 100s of years, has had dinners with many adventurers off to save the world *S37*
 - has normans/baston grimms dark grimmuar when leaving with prime manor *S37*
+- gnome size automiton escribed "I Randall" *S51*
 
 # === PLACES ===
 
@@ -245,8 +246,8 @@
 
 ## Prime Manor
 - home base! magic teleporting house, manned by indigo with automitron keepers
-- indigo works for "caelus", "isac", "calem", "the trubador"- owner of prime manor *S11*
-- master: dr calem randall, the trubadoor *S36*
+- indigo works for "caelus", "isac", "calem/isac", "the trubador"- owner of prime manor *S11*
+- master: dr calem/isac randall, the trubadoor *S36*
 - rooms: do not go top south west room "you will die"
     - kitchen
     - dining
@@ -272,7 +273,7 @@
     - session #11 [6/6][+1] huel keeps one from indigo
     - session #13 [4/6][+1] kaneki uses 2 from indigo (takrati>hamarat>takrati)
     - session #13 [4/6][+2] dripper has an extra aetheric shard
-- kicked from prime manor (attacked by slimes) and left in port artorious - calem kept normans/baston grimms dark grimmuar *S37*
+- kicked from prime manor (attacked by slimes) and left in port artorious - calem/isac kept normans/baston grimms dark grimmuar *S37*
 
 # === MONSTERS ===
 

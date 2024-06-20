@@ -11,7 +11,7 @@
 
 # Table of Contents
 ## ACT VI
-51. 
+51. [Hopetown](./24-06-19.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)
