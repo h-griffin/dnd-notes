@@ -60,7 +60,7 @@
 50. [The Moth](./act-V/24-06-12.md)
 
 ## ACT VI
-51. 
+51. [Hopetown](./act-V/24-06-19.md)
 
 ## important links
 - [Lore notes](./lore.md)

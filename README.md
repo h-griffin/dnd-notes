@@ -61,7 +61,7 @@
 50. [The Moth](./grimmhaus/act-V/24-06-12.md)
 
 ## ACT VI
-51. 
+51. [Hopetown](./grimmhaus/act-V/24-06-19.md)
 
 ## important links
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)
