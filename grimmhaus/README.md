@@ -61,6 +61,7 @@
 
 ## ACT VI
 51. [Hopetown](./act-V/24-06-19.md)
+52. [The Hird Well](./act-V/24-06-26.md)
 
 ## important links
 - [Lore notes](./lore.md)
