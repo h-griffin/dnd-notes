@@ -62,6 +62,7 @@
 
 ## ACT VI
 51. [Hopetown](./grimmhaus/act-V/24-06-19.md)
+52. [The Hird Well](./grimmhaus/act-V/24-06-19.md)
 
 ## important links
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)
