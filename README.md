@@ -61,8 +61,9 @@
 50. [The Moth](./grimmhaus/act-V/24-06-12.md)
 
 ## ACT VI
-51. [Hopetown](./grimmhaus/act-V/24-06-19.md)
-52. [The Hird Well](./grimmhaus/act-V/24-06-19.md)
+51. [Hopetown](./grimmhaus/act-VI/24-06-19.md)
+52. [The Hird Well](./grimmhaus/act-VI/24-06-19.md)
+53. [Revenants](./grimmhaus/act-VI/24-07-03.md)
 
 ## important links
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)
