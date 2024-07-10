@@ -13,6 +13,7 @@
 ## ACT VI
 51. [Hopetown](./24-06-19.md)
 52. [The Hird Well](./24-06-26.md)
+53. [Revenants](./24-07-03.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)
