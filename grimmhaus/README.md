@@ -63,6 +63,7 @@
 51. [Hopetown](./act-VI/24-06-19.md)
 52. [The Hird Well](./act-VI/24-06-26.md)
 53. [Revenants](./act-VI/24-07-03.md)
+54. [Revenants 2](./act-VI/24-07-10.md)
 
 ## important links
 - [Lore notes](./lore.md)
