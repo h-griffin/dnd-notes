@@ -65,6 +65,8 @@
 52. [The Hird Well](./grimmhaus/act-VI/24-06-19.md)
 53. [Revenants](./grimmhaus/act-VI/24-07-03.md)
 54. [Revenants 2](./grimmhaus/act-VI/24-07-10.md)
+55. [Revenants 3](./grimmhaus/act-VI/24-07-17.md)
+56. [Recovered Wagon](./grimmhaus/act-VI/24-07-24.md)
 
 ## important links
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)

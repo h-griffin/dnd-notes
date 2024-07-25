@@ -15,6 +15,8 @@
 52. [The Hird Well](./24-06-26.md)
 53. [Revenants](./24-07-03.md)
 54. [Revenants 2](./24-07-10.md)
+55. [Revenants 3](./24-07-17.md)
+56. [Recovered Wagon](./24-07-24.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)
