@@ -3,6 +3,7 @@
 # AB Aeterno lore notes
 - dragons not seen in aetarno in millions of years
 - ebonguard: evil school of magic
+- elephants - oliephansts cross planes in desert of glass but now only held in empire
 
 # High Kingdom of Caledon
 - is a feudal system. king > semi kings > Dukes > Lords

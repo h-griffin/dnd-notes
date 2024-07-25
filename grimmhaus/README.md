@@ -64,6 +64,8 @@
 52. [The Hird Well](./act-VI/24-06-26.md)
 53. [Revenants](./act-VI/24-07-03.md)
 54. [Revenants 2](./act-VI/24-07-10.md)
+55. [Revenants 3](./act-VI/24-07-17.md)
+56. [Recovered Wagon](./act-VI/24-07-24.md)
 
 ## important links
 - [Lore notes](./lore.md)
