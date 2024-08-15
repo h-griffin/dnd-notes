@@ -17,6 +17,9 @@
 54. [Revenants 2](./24-07-10.md)
 55. [Revenants 3](./24-07-17.md)
 56. [Recovered Wagon](./24-07-24.md)
+57. [ ](./24-07-31.md)
+58. [ ](./24-08-07.md)
+59. [ ](./24-08-14.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)
