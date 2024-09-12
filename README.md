@@ -67,6 +67,13 @@
 54. [Revenants 2](./grimmhaus/act-VI/24-07-10.md)
 55. [Revenants 3](./grimmhaus/act-VI/24-07-17.md)
 56. [Recovered Wagon](./grimmhaus/act-VI/24-07-24.md)
+57. [Hope City Planning](./act-VI/24-07-31.md)
+58. [Isle of Roses](./act-VI/24-08-07.md)
+59. [City of Dimans](./act-VI/24-08-14.md)
+60. [Jukals Managery](./act-VI/24-08-21.md)
+61. [Collegium Debate](./act-VI/24-08-26.md)
+62. [Mask Shop and Giggleworks](./act-VI/24-09-04.md)
+63. [Stockyard Boys](./act-VI/24-09-11.md)
 
 ## important links
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)
