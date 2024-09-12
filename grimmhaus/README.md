@@ -66,6 +66,13 @@
 54. [Revenants 2](./act-VI/24-07-10.md)
 55. [Revenants 3](./act-VI/24-07-17.md)
 56. [Recovered Wagon](./act-VI/24-07-24.md)
+57. [ ](./act-VI/24-07-31.md)
+58. [ ](./act-VI/24-08-07.md)
+59. [ ](./act-VI/24-08-14.md)
+60. [ ](./act-VI/24-08-21.md)
+61. [ ](./act-VI/24-08-26.md)
+62. [ ](./act-VI/24-09-04.md)
+63. [ ](./act-VI/24-09-11.md)
 
 ## important links
 - [Lore notes](./lore.md)
