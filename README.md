@@ -74,6 +74,7 @@
 61. [Collegium Debate](./act-VI/24-08-26.md)
 62. [Mask Shop and Giggleworks](./act-VI/24-09-04.md)
 63. [Stockyard Boys](./act-VI/24-09-11.md)
+64. [Giggleworks Upgrades and The Pale Man](./act-VI/24-09-18.md)
 
 ## important links
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)

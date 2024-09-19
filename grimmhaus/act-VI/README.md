@@ -24,6 +24,7 @@
 61. [Collegium Debate](./24-08-26.md)
 62. [Mask Shop and Giggleworks](./24-09-04.md)
 63. [Stockyard Boys](./24-09-11.md)
+64. [Giggleworks Upgrades and The Pale Man](./24-09-18.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)
