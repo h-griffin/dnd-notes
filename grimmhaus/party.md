@@ -91,6 +91,8 @@
 - [Zazriel Fealkuus](https://www.dndbeyond.com/characters/101667382)
     - female fire genasi, paladin/sourcerer
     - (dawn), athlete fighter
+- arryn
+    - attack twice, fancy footwork after - offhand bonus - bardic inspiration
 
 ## Hunter
 - [Kaneki](https://www.dndbeyond.com/characters/101107728)
