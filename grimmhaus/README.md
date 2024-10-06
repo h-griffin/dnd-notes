@@ -75,7 +75,7 @@
 63. [Stockyard Boys](./act-VI/24-09-11.md)
 64. [Giggleworks Upgrades and The Pale Man](./act-VI/24-09-18.md)
 65. [The Ball](./act-VI/24-09-25.md)
-
+66. [The Rats](./act-VI/24-10-02.md)
 ## important links
 - [Lore notes](./lore.md)
 - [Party notes](./party.md)
