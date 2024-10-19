@@ -27,6 +27,8 @@
 64. [Giggleworks Upgrades and The Pale Man](./24-09-18.md)
 65. [The Ball](./24-09-25.md)
 66. [The Rats](./24-10-02.md)
+67. [The Erchins](./24-10-09.md)
+68. [The Fight Club](./24-10-16.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)

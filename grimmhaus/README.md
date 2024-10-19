@@ -76,6 +76,9 @@
 64. [Giggleworks Upgrades and The Pale Man](./act-VI/24-09-18.md)
 65. [The Ball](./act-VI/24-09-25.md)
 66. [The Rats](./act-VI/24-10-02.md)
+67. [The Erchins](./act-VI/24-10-09.md)
+68. [The Fight Club](./act-VI/24-10-16.md)
+
 ## important links
 - [Lore notes](./lore.md)
 - [Party notes](./party.md)
