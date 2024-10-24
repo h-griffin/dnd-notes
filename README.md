@@ -79,12 +79,14 @@
 65. [The Rats](./grimmhaus/act-VI/24-10-02.md)
 67. [The Erchins](./grimmhaus/act-VI/24-10-09.md)
 68. [The Fight Club](./grimmhaus/act-VI/24-10-16.md)
+69. [The Astrolabe](./grimmhaus/act-VI/24-10-24.md)
 
 ## important links
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)
 
 ## AB AETERNO: Grimmhaus
-![world map](./assets/Ab_Aeterno_World_Map.png)
+![world map](./assets/image.png.png)
+[old world map](./assets/Ab_Aeterno_World_Map.png)
 
 ```text
 
