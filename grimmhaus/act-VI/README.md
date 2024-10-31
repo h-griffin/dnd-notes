@@ -30,6 +30,7 @@
 67. [The Erchins](./24-10-09.md)
 68. [The Fight Club](./24-10-16.md)
 69. [The Astrolabe](./24-10-24.md)
+70. [The Dragon Tablet](./24-10-30.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)
