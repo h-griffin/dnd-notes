@@ -80,6 +80,9 @@
 68. [The Fight Club](./act-VI/24-10-16.md)
 69. [The Astrolabe](./act-VI/24-10-24.md)
 70. [The Dragon Tablet](./act-VI/24-10-30.md)
+71. [ - ](./act-VI/24-11-06.md)
+72. arizona
+73. [Fight Night](./act-VI/24-12-04.md)
 
 ## important links
 - [Lore notes](./lore.md)

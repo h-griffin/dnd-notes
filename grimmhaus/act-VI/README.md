@@ -29,8 +29,11 @@
 66. [The Rats](./24-10-02.md)
 67. [The Erchins](./24-10-09.md)
 68. [The Fight Club](./24-10-16.md)
-69. [The Astrolabe](./24-10-24.md)
+69. [The Astrolabe](./24-10-23.md)
 70. [The Dragon Tablet](./24-10-30.md)
+71. [ - ](./24-11-06.md)
+72. arizona
+73. [Fight Night](./24-12-04.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)
