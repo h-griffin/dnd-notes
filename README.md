@@ -81,6 +81,9 @@
 68. [The Fight Club](./grimmhaus/act-VI/24-10-16.md)
 69. [The Astrolabe](./grimmhaus/act-VI/24-10-24.md)
 70. [The Dragon Tablet](./grimmhaus/act-VI/24-10-30.md)
+71. [ - ](./grimmhaus/act-VI/24-11-06.md)
+72. arizona
+73. [Fight Night](./grimmhaus/act-VI/24-12-04.md)
 
 ## important links
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)
