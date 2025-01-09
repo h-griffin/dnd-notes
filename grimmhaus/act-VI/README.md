@@ -34,6 +34,9 @@
 71. [ - ](./24-11-06.md)
 72. arizona
 73. [Fight Night](./24-12-04.md)
+73. [Fight Night](./24-12-04.md)
+73. [Fight Night](./24-12-04.md)
+73. [Fight Night](./24-12-04.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)

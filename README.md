@@ -84,6 +84,9 @@
 71. [ - ](./grimmhaus/act-VI/24-11-06.md)
 72. arizona
 73. [Fight Night](./grimmhaus/act-VI/24-12-04.md)
+73. [Fight Night](./grimmhaus/act-VI/24-12-04.md)
+73. [Fight Night](./grimmhaus/act-VI/24-12-04.md)
+73. [Fight Night](./grimmhaus/act-VI/24-12-04.md)
 
 ## important links
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)
