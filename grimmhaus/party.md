@@ -44,6 +44,7 @@
 - [Splinter Yorveld](https://dndbeyond.com/characters/120449013)
     - male kobold, monk
     - kobold /dragonoid very far removed, but prideful of dragon heritage
+- Mirko Rattlebranch
 
 ## Eli
 - [Dripper](https://www.dndbeyond.com/characters/101107786)
