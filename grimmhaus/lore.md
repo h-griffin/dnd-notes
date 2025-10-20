@@ -172,6 +172,7 @@
 ## Captian Sykes
 - found horizons end/crossed the endless ocean *S35*
 - god of pirates *S37*
+- god of oceans, first pirate (gave up being a god to adventure with freinds)
 
 ## Oliver Thislewick
 - inventor, smoke/flash grenades *S36*
