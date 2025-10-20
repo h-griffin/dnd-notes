@@ -11,8 +11,30 @@
 
 # Table of Contents
 ## ACT VII
-51. [Hopetown](./24-06-19.md)
-52.  
+ 
+
+80. [The Starpact](./25-04-23.md)
+80. [The Starpact](./25-04-30.md)
+80. [The Starpact](./25-05-07.md)
+80. [The Starpact](./25-05-14.md)
+80. [The Starpact](./25-05-21.md)
+80. [The Starpact](./25-05-28.md)
+80. [The Starpact](./25-06-04.md)
+80. [The Starpact](./25-06-11.md)
+80. [The Starpact](./25-06-18.md)
+80. [The Starpact](./25-06-25.md)
+80. [The Starpact](./25-07-02.md)
+80. [The Starpact](./25-07-23.md)
+80. [The Starpact](./25-07-30.md)
+80. [The Starpact](./25-08-06.md)
+80. [The Starpact](./25-08-06.md)
+80. [The Starpact](./25-08-20.md)
+80. [The Starpact](./25-08-27.md)
+80. [The Starpact](./25-09-07.md)
+80. [The Starpact](./25-09-14.md)
+80. [The Starpact](./25-09-21.md)
+80. [The Starpact](./25-10-05.md)
+80. [The Starpact](./25-10-19.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)
