@@ -59,7 +59,7 @@
 49. [The Erd Tree](./act-V/24-06-05.md)
 50. [The Moth](./act-V/24-06-12.md)
 
-## ACT VI
+## ACT VI: City of Dimans
 51. [Hopetown](./act-VI/24-06-19.md)
 52. [The Hird Well](./act-VI/24-06-26.md)
 53. [Revenants](./act-VI/24-07-03.md)
@@ -99,6 +99,30 @@
 87. [Rat Catcher Combat](./act-VI/25-04-02.md)
 88. [Investigate Palace and Broadway](./act-VI/25-04-02.md)
 89. [Hope](./act-VI/25-04-16.md)
+
+## ACT VII: Journey to Ebbonguard
+90. [The Scrying Pool](./act-VII/25-04-23.md)
+91. [Rescue Tristain](./act-VII/25-04-30.md)
+92. [Hope Upgrades](./act-VII/25-05-07.md)
+93. [Lucky and Blues Games with Malekai](./act-VII/25-05-14.md)
+94. [Puzzles with Indigo](./act-VII/25-05-21.md)
+95. [Quiz for Ebbonguard Keys](./act-VII/25-05-28.md)
+96. [Ebbonguard Chess Board](./act-VII/25-06-04.md)
+97. [Ebbonguard Chess Board 2](./act-VII/25-06-11.md)
+98. [Wizard Prison 1-5](./act-VII/25-06-18.md)
+99. [Mouth Maze and Wizard Prison 6](./act-VII/25-06-25.md)
+100. [Tylus Starts the End of the World](./act-VII/25-07-02.md)
+101. [Kpop attack on Hope](./act-VII/25-07-23.md)
+102. [Find Sarandith the Starsmith](./act-VII/25-07-30.md)
+103. [Auris House in the Wildmores](./act-VII/25-08-06.md)
+104. [Rescuing Tristain in the Wildmores](./act-VII/25-08-20.md)
+105. [Negotiating with Tristain in MossRock Lodge](./act-VII/25-08-27.md)
+106. [Ice Drake in Moss Rock](./act-VII/25-09-07.md)
+107. [Silvaris the Silver Tree](./act-VII/25-09-14.md)
+108. [Lakecity and t'arhriel the Ruined City](./act-VII/25-09-21.md)
+109. [Solaris and Celistia Burial Crypt](./act-VII/25-10-05.md)
+110. [The Starpact](./act-VII/25-10-19.md)
+
 ## important links
 - [Lore notes](./lore.md)
 - [Party notes](./party.md)
