@@ -122,6 +122,7 @@
 108. [Lakecity and t'arhriel the Ruined City](./act-VII/25-09-21.md)
 109. [Solaris and Celistia Burial Crypt](./act-VII/25-10-05.md)
 110. [The Starpact](./act-VII/25-10-19.md)
+111. [Zeit Geist World Library](./act-VII/25-10-26.md)
 
 ## important links
 - [Lore notes](./lore.md)

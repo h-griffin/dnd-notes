@@ -33,6 +33,7 @@
 108. [Lakecity and t'arhriel the Ruined City](./25-09-21.md)
 109. [Solaris and Celistia Burial Crypt](./25-10-05.md)
 110. [The Starpact](./25-10-19.md)
+111. [Zeit Geist World Library](./25-10-26.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)
