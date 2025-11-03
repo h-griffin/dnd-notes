@@ -34,6 +34,7 @@
 109. [Solaris and Celistia Burial Crypt](./25-10-05.md)
 110. [The Starpact](./25-10-19.md)
 111. [Zeit Geist World Library](./25-10-26.md)
+112. [Zeit Geist Philosophers](./25-11-02.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)

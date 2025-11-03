@@ -123,6 +123,7 @@
 109. [Solaris and Celistia Burial Crypt](./act-VII/25-10-05.md)
 110. [The Starpact](./act-VII/25-10-19.md)
 111. [Zeit Geist World Library](./act-VII/25-10-26.md)
+112. [Zeit Geist Philosophers](./act-VII/25-11-02.md)
 
 ## important links
 - [Lore notes](./lore.md)

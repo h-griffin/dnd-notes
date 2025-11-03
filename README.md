@@ -124,6 +124,7 @@
 109. [Solaris and Celistia Burial Crypt](./grimmhaus/act-VII/25-10-05.md)
 110. [The Starpact](./grimmhaus/act-VII/25-10-19.md)
 111. [Zeit Geist World Library](./grimmhaus/act-VII/25-10-26.md)
+112. [Zeit Geist Philosophers](./grimmhaus/act-VII/25-11-02.md)
 
 ## important links
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)
