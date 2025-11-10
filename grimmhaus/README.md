@@ -124,6 +124,7 @@
 110. [The Starpact](./act-VII/25-10-19.md)
 111. [Zeit Geist World Library](./act-VII/25-10-26.md)
 112. [Zeit Geist Philosophers](./act-VII/25-11-02.md)
+113. [Reverend Mother in the Garden of Riven El](./act-VII/25-11-09.md)
 
 ## important links
 - [Lore notes](./lore.md)
