@@ -125,12 +125,16 @@
 110. [The Starpact](./grimmhaus/act-VII/25-10-19.md)
 111. [Zeit Geist World Library](./grimmhaus/act-VII/25-10-26.md)
 112. [Zeit Geist Philosophers](./grimmhaus/act-VII/25-11-02.md)
+113. [Reverend Mother in the Garden of Riven El](./grimmhaus/act-VII/25-11-09.md)
+114. [Sirens Rest](./grimmhaus/act-VII/25-11-23.md)
 
 ## important links
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)
+- [lore](./grimmhaus/lore.md)
+- [party](./grimmhaus/party.md)
 
 ## AB AETERNO: Grimmhaus
-![world map](./assets/image.png.png)
+![world map](./assets/image.png)
 [old world map](./assets/Ab_Aeterno_World_Map.png)
 
 ```text
