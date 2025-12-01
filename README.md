@@ -127,6 +127,7 @@
 112. [Zeit Geist Philosophers](./grimmhaus/act-VII/25-11-02.md)
 113. [Reverend Mother in the Garden of Riven El](./grimmhaus/act-VII/25-11-09.md)
 114. [Sirens Rest](./grimmhaus/act-VII/25-11-23.md)
+115. [Port Artorious Jewels](./grimmhaus/act-VII/25-11-30.md)
 
 ## important links
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)
