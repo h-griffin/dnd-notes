@@ -35,6 +35,11 @@
 110. [The Starpact](./25-10-19.md)
 111. [Zeit Geist World Library](./25-10-26.md)
 112. [Zeit Geist Philosophers](./25-11-02.md)
+113. [Reverend Mother in the Garden of Riven El](./25-11-09.md)
+114. [Sirens Rest](./25-11-23.md)
+115. [Port Artorious Jewels](./25-11-30.md)
+116. [Prison Break Planning](./25-12-07.md)
+117. [Ragged Crew Prison Break ](./25-12-014.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)
