@@ -125,6 +125,10 @@
 111. [Zeit Geist World Library](./act-VII/25-10-26.md)
 112. [Zeit Geist Philosophers](./act-VII/25-11-02.md)
 113. [Reverend Mother in the Garden of Riven El](./act-VII/25-11-09.md)
+114. [Sirens Rest](./act-VII/25-11-23.md)
+115. [Port Artorious Jewels](./act-VII/25-11-30.md)
+116. [Prison Break Planning](./act-VII/25-12-07.md)
+117. [Ragged Crew Prison Break ](./act-VII/25-12-014.md)
 
 ## important links
 - [Lore notes](./lore.md)

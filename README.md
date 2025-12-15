@@ -129,6 +129,7 @@
 114. [Sirens Rest](./grimmhaus/act-VII/25-11-23.md)
 115. [Port Artorious Jewels](./grimmhaus/act-VII/25-11-30.md)
 116. [Prison Break Planning](./grimmhaus/act-VII/25-12-07.md)
+117. [Ragged Crew Prison Break ](./grimmhaus/act-VII/25-12-014.md)
 
 ## important links
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)
