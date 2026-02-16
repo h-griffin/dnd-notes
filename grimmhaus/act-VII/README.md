@@ -42,6 +42,8 @@
 117. [Ragged Crew Prison Break](./25-12-14.md)
 118. [Jetsam and Dunland Point](./25-12-21.md)
 119. [Military Fort Overtake](./26-01-04.md)
+120. [Jetsam Pirate Note](./26-01-11.md)
+121. [Corallie Cay and Captain Rook](./26-02-16.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)
