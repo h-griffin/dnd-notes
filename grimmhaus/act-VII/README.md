@@ -44,6 +44,7 @@
 119. [Military Fort Overtake](./26-01-04.md)
 120. [Jetsam Pirate Note](./26-01-11.md)
 121. [Corallie Cay and Captain Rook](./26-02-16.md)
+122. [Horizons End](./26-03-01.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)
