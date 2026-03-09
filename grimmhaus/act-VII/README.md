@@ -45,6 +45,7 @@
 120. [Jetsam Pirate Note](./26-01-11.md)
 121. [Corallie Cay and Captain Rook](./26-02-16.md)
 122. [Horizons End](./26-03-01.md)
+123. [Water Wall to Attan](./26-03-08.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)
