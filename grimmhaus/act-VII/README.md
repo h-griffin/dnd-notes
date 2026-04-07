@@ -47,6 +47,8 @@
 122. [Horizons End](./26-03-01.md)
 123. [Water Wall to Attan](./26-03-08.md)
 124. [Witchs Shell](./26-03-15.md)
+125. [Underwater Beast Lair](./26-03-22.md)
+126. [Underwater City of Aton](./26-03-29.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)
