@@ -50,6 +50,7 @@
 125. [Underwater Beast Lair](./26-03-22.md)
 126. [Underwater City of Aton](./26-03-29.md)
 127. [Captain Sykes](./26-04-12.md)
+128. [Captain Sykes 2](./26-04-19.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)
