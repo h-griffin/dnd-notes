@@ -52,7 +52,8 @@
 127. [Captain Sykes](./26-04-12.md)
 128. [Captain Sykes 2](./26-04-19.md)
 129. [The Temple of Bethmora](./26-04-26.md)
-130. [The Temple of Bethmora](./26-05-03.md)
+130. [The Temple of Bethmora 2](./26-05-03.md)
+130. [The Temple of Bethmora 3](./26-05-10.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)
