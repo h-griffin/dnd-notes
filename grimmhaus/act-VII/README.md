@@ -54,7 +54,8 @@
 129. [The Temple of Bethmora](./26-04-26.md)
 130. [The Temple of Bethmora 2](./26-05-03.md)
 131. [The Temple of Bethmora 3](./26-05-10.md)
-132. [Attan](./26-05-17.md)
+132. [Atton](./26-05-17.md)
+133. [Atton's Throne'](./26-05-17.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)
