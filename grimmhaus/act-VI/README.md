@@ -1,6 +1,6 @@
 | prev | table of contents | next |
 | :------ | :------: | ------: |
-| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](./README.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
+| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](../README.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
 | ⇐ [ACT V](../act-V/README.md) | | [ACT VII](../act-VII/README.md) ⇒ |
 
 ## ACT VI: City of Dimans

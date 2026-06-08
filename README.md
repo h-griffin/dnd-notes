@@ -2,7 +2,7 @@
 
 -  [All Grimmhaus](./grimmhaus/README.md)
 
-* * *
+---
 
 1. [ACT I: Clear Grimmhaus Manor](/grimmhaus/act-I/README.md)
 
@@ -50,9 +50,11 @@ Etons associate Malekai sheds light on Shaza El and Candle Jack before the party
 
 Auri takes the party through the Wildmores and, steal an ice drake in Mossrock before speaking with Silvaris the Silver Tree where Arthas takes the place of the yellow star Solara in T'arhriel to get to Elysium.
 
-sail to Port Artorious and help the ragged crew prison break, and resand corallie cay to uncurse the boat to sail to Horizons End and flip upside down to Atton. at the bottom of the ocean Captain Sykes sheds light on Bethmora, Hydronor, and the Collector.
+sail to Port Artorious and help the ragged crew prison break, and resand corallie cay to uncurse the boat to sail to Horizons End and flip upside down to Atton. at the bottom of the ocean Captain Sykes sheds light on Hydronor before clearing The Temple of Bethmora and defeating The Collector at Aton's coral throne freeing the people of the ocean.
 
-clear The Temple of Bethmora, and defeat The Collector at Aton's coral throne and sail on to the lost island dias at the end of the world in search of Heart Seeker.
+8. [ACT VIII:](/grimmhaus/act-VIII/README.md)
+
+sail on to the lost island dias at the end of the world in search of Heart Seeker.
 
 ## important links
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)

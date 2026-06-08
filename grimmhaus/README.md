@@ -9,21 +9,19 @@
 7. [ACT VII: Journey to Ebbonguard](#act-vii-journey-to-ebbonguard)
 - [important links](#important-links)
 
-## ACT I: Clear Grimmhaus Manor
+  ## ACT I: Clear Grimmhaus Manor
 1. [Enter Grimmhaus Manor](./act-I/23-06-14.md)
 2. [Baston Grimms Experiments](./act-I/23-06-21.md)
 3. [The Underground Lab](./act-I/23-06-28.md)
 4. [The Altar Room](./act-I/23-07-05.md)
 5. [Housefire and Prime Manor](./act-I/23-07-12.md)
-
-## ACT II: Find Baston Grimm
+  ## ACT II: Find Baston Grimm
 6. [City of Hamarat](./act-II/23-07-17.md)
 7. [Ambrosius Casino](./act-II/23-07-26.md)
 8. [VIP Room](./act-II/23-08-02.md)
 9. [The Vault](./act-II/23-08-07.md)
 10. [Return to Prime Manor](./act-II/23-08-16.md)
-
-## ACT III: Find Shaza El
+  ## ACT III: Find Shaza El
 11. [City of Takrati](./act-III/23-08-23.md)
 12. [The Sand Sculptor](./act-III/23-08-30.md)
 13. [Preparing for Desert Trip](./act-III/23-09-06.md)
@@ -33,8 +31,7 @@
 17. [The Temple of Shaza El](./act-III/23-10-04.md)
 18. [The Chamber of the El](./act-III/23-10-11.md)
 19. [Shaza Els Deal](./act-III/23-10-11.md)
-
-## ACT IV: Investigate the AllBloom
+  ## ACT IV: Investigate the AllBloom
 20. [The Pillar of Clouds](./act-IV/23-10-25.md)
 21. [The Bridge City](./act-IV/23-11-01.md)
 22. [The Storm Gem](./act-IV/23-11-08.md)
@@ -52,8 +49,7 @@
 34. [The Burned Cabin and the Missing Arakokra](./act-IV/24-02-14.md)
 35. [The Feast of Saint Carles](./act-IV/24-02-21.md)
 36. [The Doctor](./act-IV/24-02-28.md)
-
-## ACT V: Defeat the AllBloom
+  ## ACT V: Defeat the AllBloom
 37. [Port Artorious](./act-V/24-03-06.md)
 38. [The Pirate Games](./act-V/24-03-13.md)
 39. [The Cartographers Guild](./act-V/24-03-20.md)
@@ -68,8 +64,7 @@
 48. [Hyaru City](./act-V/24-05-29.md)
 49. [The Erd Tree](./act-V/24-06-05.md)
 50. [The Moth](./act-V/24-06-12.md)
-
-## ACT VI: City of Dimans
+  ## ACT VI: City of Dimans
 51. [Hopetown](./act-VI/24-06-19.md)
 52. [The Hird Well](./act-VI/24-06-26.md)
 53. [Revenants](./act-VI/24-07-03.md)
@@ -109,8 +104,7 @@
 87. [Rat Catcher Combat](./act-VI/25-04-02.md)
 88. [Investigate Palace and Broadway](./act-VI/25-04-02.md)
 89. [Hope](./act-VI/25-04-16.md)
-
-## ACT VII: Journey to Ebbonguard
+  ## ACT VII: Journey to Ebbonguard
 90. [The Scrying Pool](./act-VII/25-04-23.md)
 91. [Rescue Tristain](./act-VII/25-04-30.md)
 92. [Hope Upgrades](./act-VII/25-05-07.md)
