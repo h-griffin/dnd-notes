@@ -1,16 +1,13 @@
-<div align="center">
-  <h3 align="center"><a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/" >[GRIMMHAUS]</a></h3>
-  <p align="center">
-    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-III" >&larr; &nbsp; [ACT III]</a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-V" >[ACT V] &nbsp; &rarr;</a>
-  </p>
-</div>
+| prev | table of contents | next |
+| :------ | :------: | ------: |
+| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](./README.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
+| ⇐ [ACT III](../act-III/README.md) | | [ACT V](../act-V/README.md) ⇒ |
 
-# Grimmhaus > Act-IV
-
-# Table of Contents
 ## ACT IV: Investigate the AllBloom
+investigate the war between air and sky (birds vs storm) at Batallion 5 hq in the Pilar of Clouds
+
+explore the bridge city Bruke and battle agents of the All Bloom in Angakar, the vacant enchanted grung town, while searching for Samuel the missing bird.
+
 20. [The Pillar of Clouds](./23-10-25.md)
 21. [The Bridge City](./23-11-01.md)
 22. [The Storm Gem](./23-11-08.md)
@@ -28,9 +25,6 @@
 34. [The Burned Cabin and the Missing Arakokra](./24-02-14.md)
 35. [The Feast of Saint Carles](./24-02-21.md)
 36. [The Doctor](./24-02-28.md)
-
-# AB AETERNO: Grimmhaus
-![world map](../../assets/Ab_Aeterno_World_Map.png)
 
 # important links
 - [Lore notes](./lore.md)
