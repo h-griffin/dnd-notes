@@ -56,6 +56,7 @@
 131. [The Temple of Bethmora 3](./26-05-10.md)
 132. [Atton](./26-05-17.md)
 133. [Atton's Throne'](./26-05-17.md)
+133. [Death of The Collector](./26-06-07.md)
 
 # AB AETERNO: Grimmhaus
 ![world map](../../assets/Ab_Aeterno_World_Map.png)
