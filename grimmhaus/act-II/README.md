@@ -1,7 +1,7 @@
 
 | prev | table of contents | next |
 | :------ | :------: | ------: |
-| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](./README.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
+| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](../README.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
 | ⇐ [ACT I](../act-I/README.md) | | [ACT III](../act-III/README.md) ⇒ |
 
 ## ACT II: Find Baston Grimm
@@ -14,7 +14,7 @@ explore the city of Hamarat in search of Ambrosius Casino and aetheric shards be
 8. [VIP Room](./23-08-02.md)
 9. [The Vault](./23-08-07.md)
 10. [Return to Prime Manor](./23-08-16.md)
- 
+
 # important links
 - [Lore notes](../lore.md)
 - [Party notes](../party.md)

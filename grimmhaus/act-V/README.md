@@ -1,6 +1,6 @@
 | prev | table of contents | next |
 | :------ | :------: | ------: |
-| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](./README.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
+| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](../README.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
 | ⇐ [ACT IV](../act-IV/README.md) | | [ACT VI](../act-VI/README.md) ⇒ |
 
 ## ACT V: Defeat the AllBloom
@@ -24,7 +24,7 @@ the party defeats the Moth from the cocoon blight in hyaru after seeing a forest
 48. [Hyaru City](./24-05-29.md)
 49. [The Erd Tree](./24-06-05.md)
 50. [The Moth](./24-06-12.md)
- 
+
 # important links
 - [Lore notes](./lore.md)
 - [Party notes](./party.md)

@@ -1,7 +1,7 @@
 
 | prev | table of contents | next |
 | :------ | :------: | ------: |
-| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](./README.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
+| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](../README.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
 | ⇐ | | [ACT II](../act-II/README.md) ⇒ |
 
 # ACT I: Clear Grimmhaus Manor
