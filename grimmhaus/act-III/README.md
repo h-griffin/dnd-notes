@@ -1,16 +1,13 @@
-<div align="center">
-  <h3 align="center"><a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/" >[GRIMMHAUS]</a></h3>
-  <p align="center">
-    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-II" >&larr; &nbsp; [ACT II]</a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-IV" >[ACT IV] &nbsp; &rarr;</a>
-  </p>
-</div>
+| prev | table of contents | next |
+| :------ | :------: | ------: |
+| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](./README.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
+| ⇐ [ACT II](../act-II/README.md) | | [ACT IV](../act-IV/README.md) ⇒ |
 
-# Grimmhaus > Act-III
-
-# Table of Contents
 ## ACT III: Find Shaza El
+explore the city of Tikrati and cross the sand to The Temple of Shaza El guided by the Sand Sculptor.
+
+the party endures personal nightmares and each granted one question from the el after appeasing the guardian cats then attacking them to enter.
+
 11. [City of Takrati](./23-08-23.md)
 12. [The Sand Sculptor](./23-08-30.md)
 13. [Preparing for Desert Trip](./23-09-06.md)
@@ -20,9 +17,6 @@
 17. [The Temple of Shaza El](./23-10-04.md)
 18. [The Chamber of the El](./23-10-11.md)
 19. [Shaza Els Deal](./23-10-18.md)
-
-## AB AETERNO: Grimmhaus
-![world map](../../assets/Ab_Aeterno_World_Map.png)
 
 # important links
 - [Lore notes](../lore.md)

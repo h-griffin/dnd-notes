@@ -1,16 +1,15 @@
-<div align="center">
-  <h3 align="center"><a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/" >[GRIMMHAUS]</a></h3>
-  <p align="center">
-    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-IV" >&larr; &nbsp; [ACT IV]</a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-VI" >[ACT VI] &nbsp; &rarr;</a>
-  </p>
-</div>
+| prev | table of contents | next |
+| :------ | :------: | ------: |
+| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](./README.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
+| ⇐ [ACT IV](../act-IV/README.md) | | [ACT VI](../act-VI/README.md) ⇒ |
 
-# Grimmhaus > Act-V
+## ACT V: Defeat the AllBloom
+celebrate The Pirate Games and aquire a boat in Port Artorious after releasing the Empire of Dawn's ancient tiger prisoner.
 
-# Table of Contents
-## ACT V
+investigate a beached kraken and take over Requiems Wake while laying low on Decklin's Island after the Five Points Cathedreal turns their back on the AllBloom.
+
+the party defeats the Moth from the cocoon blight in hyaru after seeing a forest of petrified elves.
+
 37. [Port Artorious](./24-03-06.md)
 38. [The Pirate Games](./24-03-13.md)
 39. [The Cartographers Guild](./24-03-20.md)
@@ -25,10 +24,7 @@
 48. [Hyaru City](./24-05-29.md)
 49. [The Erd Tree](./24-06-05.md)
 50. [The Moth](./24-06-12.md)
-
-# AB AETERNO: Grimmhaus
-![world map](../../assets/Ab_Aeterno_World_Map.png)
-
+ 
 # important links
 - [Lore notes](./lore.md)
 - [Party notes](./party.md)

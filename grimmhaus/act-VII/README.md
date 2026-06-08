@@ -1,16 +1,18 @@
-<div align="center">
-  <h3 align="center"><a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/" >[GRIMMHAUS]</a></h3>
-  <p align="center">
-    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-VI" >&larr; &nbsp; [ACT VI]</a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-VII" >[ACT VII] &nbsp; &rarr;</a>
-  </p>
-</div>
+| prev | table of contents | next |
+| :------ | :------: | ------: |
+| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](./README.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
+| ⇐ [ACT VI](../act-VI/README.md) | | ⇒ |
 
-# Grimmhaus > Act-VII
+## ACT VII: Journey to Ebbonguard
+Hope gets a scrying pool under the hird tree and the library has a breakthrough in dread books before defending city from an enchanting kpop performance.
 
-# Table of Contents
-## ACT VII
+Etons associate Malekai sheds light on Shaza El and Candle Jack before the party steps into the dark shadows and sees carter randal in another time, earning keys and entry through Ebbonguard to wizard prisons.
+
+Auri takes the party through the Wildmores and, steal an ice drake in Mossrock before speaking with Silvaris the Silver Tree where Arthas takes the place of the yellow star Solara in T'arhriel to get to Elysium.
+
+sail to Port Artorious and help the ragged crew prison break, and resand corallie cay to uncurse the boat to sail to Horizons End and flip upside down to Atton. at the bottom of the ocean Captain Sykes sheds light on Bethmora, Hydronor, and the Collector.
+
+clear The Temple of Bethmora, and defeat The Collector at Aton's coral throne and sail on to the lost island dias at the end of the world in search of Heart Seeker.
 
 90. [The Scrying Pool](./25-04-23.md)
 91. [Rescue Tristain](./25-04-30.md)
@@ -56,10 +58,7 @@
 131. [The Temple of Bethmora 3](./26-05-10.md)
 132. [Atton](./26-05-17.md)
 133. [Atton's Throne'](./26-05-17.md)
-133. [Death of The Collector](./26-06-07.md)
-
-# AB AETERNO: Grimmhaus
-![world map](../../assets/Ab_Aeterno_World_Map.png)
+134. [Death of The Collector](./26-06-07.md)
 
 # important links
 - [Lore notes](./lore.md)

@@ -1,16 +1,15 @@
-<div align="center">
-  <h3 align="center"><a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/" >[GRIMMHAUS]</a></h3>
-  <p align="center">
-    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-V" >&larr; &nbsp; [ACT V]</a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-VI" >[ACT VI] &nbsp; &rarr;</a>
-  </p>
-</div>
+| prev | table of contents | next |
+| :------ | :------: | ------: |
+| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](./README.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
+| ⇐ [ACT V](../act-V/README.md) | | [ACT VII](../act-VII/README.md) ⇒ |
 
-# Grimmhaus > Act-VI
+## ACT VI: City of Dimans
+establish, defend, and leave new hq Hope to stay at the Beaumont Estate wrangling local loose wyrds and orphans from isle of roses hidden in the partys cargo into advanced tech city Dimans (Gotham)
 
-# Table of Contents
-## ACT VI
+The Rat Catcher crashes the town ball before the city border goes under lockdown, Candle Jack evades capture. the party sweeps an underground fight club in the feather downs after confrontations with the stockyard boys.
+
+explore the sewers spying on the City of Night after investigating giggleworks formula source and suspicious arcane experiments, then setting it on fire to bait candle jack unsuccessfully.
+
 51. [Hopetown](./24-06-19.md)
 52. [The Hird Well](./24-06-26.md)
 53. [Revenants](./24-07-03.md)

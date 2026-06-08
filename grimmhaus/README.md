@@ -1,4 +1,14 @@
 # Table of Contents
+
+1. [ACT I: Clear Grimmhaus Manor](#act-i-clear-grimmhaus-manor)
+2. [ACT II: Find Baston Grimm](#act-ii-find-baston-grimm)
+3. [ACT III: Find Shaza El](#act-iii-find-shaza-el)
+4. [ACT IV: Investigate the AllBloom](#act-iv-investigate-the-allbloom)
+5. [ACT V: Defeat the AllBloom](#act-v-defeat-the-allbloom)
+6. [ACT VI: City of Dimans](#act-vi-city-of-dimans)
+7. [ACT VII: Journey to Ebbonguard](#act-vii-journey-to-ebbonguard)
+- [important links](#important-links)
+
 ## ACT I: Clear Grimmhaus Manor
 1. [Enter Grimmhaus Manor](./act-I/23-06-14.md)
 2. [Baston Grimms Experiments](./act-I/23-06-21.md)
@@ -13,7 +23,7 @@
 9. [The Vault](./act-II/23-08-07.md)
 10. [Return to Prime Manor](./act-II/23-08-16.md)
 
-## ACT II: Find Shaza El
+## ACT III: Find Shaza El
 11. [City of Takrati](./act-III/23-08-23.md)
 12. [The Sand Sculptor](./act-III/23-08-30.md)
 13. [Preparing for Desert Trip](./act-III/23-09-06.md)
@@ -128,12 +138,26 @@
 114. [Sirens Rest](./act-VII/25-11-23.md)
 115. [Port Artorious Jewels](./act-VII/25-11-30.md)
 116. [Prison Break Planning](./act-VII/25-12-07.md)
-117. [Ragged Crew Prison Break ](./act-VII/25-12-014.md)
+117. [Ragged Crew Prison Break](./act-VII/25-12-14.md)
+118. [Jetsam and Dunland Point](./act-VII/25-12-21.md)
+119. [Military Fort Overtake](./act-VII/26-01-04.md)
+120. [Jetsam Pirate Note](./act-VII/26-01-11.md)
+121. [Corallie Cay and Captain Rook](./act-VII/26-02-16.md)
+122. [Horizons End](./act-VII/26-03-01.md)
+123. [Water Wall to Attan](./act-VII/26-03-08.md)
+124. [Witchs Shell](./act-VII/26-03-15.md)
+125. [Underwater Beast Lair](./act-VII/26-03-22.md)
+126. [Underwater City of Aton](./act-VII/26-03-29.md)
+127. [Captain Sykes](./act-VII/26-04-12.md)
+128. [Captain Sykes 2](./act-VII/26-04-19.md)
+129. [The Temple of Bethmora](./act-VII/26-04-26.md)
+130. [The Temple of Bethmora 2](./act-VII/26-05-03.md)
+131. [The Temple of Bethmora 3](./act-VII/26-05-10.md)
+132. [Atton](./act-VII/26-05-17.md)
+133. [Atton's Throne'](./act-VII/26-05-17.md)
+134. [Death of The Collector](./act-VII/26-06-07.md)
 
 ## important links
 - [Lore notes](./lore.md)
 - [Party notes](./party.md)
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)
-
-## AB AETERNO: Grimmhaus
-![world map](../assets/Ab_Aeterno_World_Map.png)

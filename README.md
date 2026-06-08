@@ -1,172 +1,60 @@
 # Table of Contents
 
-## ACT I: Clear Grimmhaus Manor
-1. [Enter Grimmhaus Manor](./grimmhaus/act-I/23-06-14.md)
-2. [Baston Grimms Experiments](./grimmhaus/act-I/23-06-21.md)
-3. [The Underground Lab](./grimmhaus/act-I/23-06-28.md)
-4. [The Altar Room](./grimmhaus/act-I/23-07-05.md)
-5. [Housefire and Prime Manor](./grimmhaus/act-I/23-07-12.md)
+-  [All Grimmhaus](./grimmhaus/README.md)
 
-## ACT II: Find Baston Grimm
-6. [City of Hamarat](./grimmhaus/act-II/23-07-17.md)
-7. [Ambrosius Casino](./grimmhaus/act-II/23-07-26.md)
-8. [VIP Room](./grimmhaus/act-II/23-08-02.md)
-9. [The Vault](./grimmhaus/act-II/23-08-07.md)
-10. [Return to Prime Manor](./grimmhaus/act-II/23-08-16.md)
+* * *
 
-## ACT III: Find Shaza El
-11. [City of Takrati](./grimmhaus/act-III/23-08-23.md)
-12. [The Sand Sculptor](./grimmhaus/act-III/23-08-30.md)
-13. [Preparing for Desert Trip](./grimmhaus/act-III/23-09-06.md)
-14. [The Vacant Town](./grimmhaus/act-III/23-09-13.md)
-15. [Into the Desert](./grimmhaus/act-III/23-09-20.md)
-16. [Desert Manticores](./grimmhaus/act-III/23-09-27.md)
-17. [The Temple of Shaza El](./grimmhaus/act-III/23-10-04.md)
-18. [The Chamber of the El](./grimmhaus/act-III/23-10-11.md)
-19. [Shaza Els Deal](./grimmhaus/act-III/23-10-18.md)
+1. [ACT I: Clear Grimmhaus Manor](/grimmhaus/act-I/README.md)
 
-## ACT IV: Investigate the AllBloom
-20. [The Pillar of Clouds](./grimmhaus/act-IV/23-10-25.md)
-21. [The Bridge City](./grimmhaus/act-IV/23-11-01.md)
-22. [The Storm Gem](./grimmhaus/act-IV/23-11-08.md)
-23. [Thomnas Lightpost](./grimmhaus/act-IV/23-11-15.md)
-24. [The VIP Room](./grimmhaus/act-IV/23-11-29.md)
-25. [The Bridge Lockdown](./grimmhaus/act-IV/23-12-06.md)
-26. [City of Angakkar](./grimmhaus/act-IV/23-12-013.md)
-27. [Recap and Planning](./grimmhaus/act-IV/23-12-27.md)
-28. [The Toad Mother](./grimmhaus/act-IV/24-01-02.md)
-29. [The Shade and Mushrooms](./grimmhaus/act-IV/24-01-10.md)
-30. [Agents of The All Bloom](./grimmhaus/act-IV/24-01-17.md)
-31. [Pancakes for Angakkar](./grimmhaus/act-IV/24-01-24.md)
-32. [Defending Angarkar: myconid](./grimmhaus/act-IV/24-01-31.md)
-33. [Defending Angarkar: himiwari](./grimmhaus/act-IV/24-02-07.md)
-34. [The Burned Cabin and the Missing Arakokra](./grimmhaus/act-IV/24-02-14.md)
-35. [The Feast of Saint Carles](./grimmhaus/act-IV/24-02-21.md)
-36. [The Doctor](./grimmhaus/act-IV/24-02-28.md)
+investigate Grimmhaus Manor, the family photos and experiments in underground lab before it burns down.
 
-## ACT V: Defeat the AllBloom
-37. [Port Artorious](./grimmhaus/act-V/24-03-06.md)
-38. [The Pirate Games](./grimmhaus/act-V/24-03-13.md)
-39. [The Cartographers Guild](./grimmhaus/act-V/24-03-20.md)
-40. [The Cathedral](./grimmhaus/act-V/24-03-27.md)
-41. [Prison Break](./grimmhaus/act-V/24-04-03.md)
-42. [Lauhyu Yugan](./grimmhaus/act-V/24-04-10.md)
-43. [Decklins Island](./grimmhaus/act-V/24-04-17.md)
-44. [Dragon Emporor](./grimmhaus/act-V/24-04-24.md)
-45. [Requiems Wake](./grimmhaus/act-V/24-05-01.md)
-46. [Cannons & Treasure Fever](./grimmhaus/act-V/24-05-08.md)
-47. [Hyaru Beach](./grimmhaus/act-V/24-05-22.md)
-48. [Hyaru City](./grimmhaus/act-V/24-05-29.md)
-49. [The Erd Tree](./grimmhaus/act-V/24-06-05.md)
-50. [The Moth](./grimmhaus/act-V/24-06-12.md)
+2. [ACT II: Find Baston Grimm](/grimmhaus/act-II/README.md)
 
-## ACT VI: City of Dimans
-51. [Hopetown](./grimmhaus/act-VI/24-06-19.md)
-52. [The Hird Well](./grimmhaus/act-VI/24-06-19.md)
-53. [Revenants](./grimmhaus/act-VI/24-07-03.md)
-54. [Revenants 2](./grimmhaus/act-VI/24-07-10.md)
-55. [Revenants 3](./grimmhaus/act-VI/24-07-17.md)
-56. [Recovered Wagon](./grimmhaus/act-VI/24-07-24.md)
-57. [Hope City Planning](./grimmhaus/act-VI/24-07-31.md)
-58. [Isle of Roses](./grimmhaus/act-VI/24-08-07.md)
-59. [City of Dimans](./grimmhaus/act-VI/24-08-14.md)
-60. [Jukals Managery](./grimmhaus/act-VI/24-08-21.md)
-61. [Collegium Debate](./grimmhaus/act-VI/24-08-26.md)
-62. [Mask Shop and Giggleworks](./grimmhaus/act-VI/24-09-04.md)
-63. [Stockyard Boys](./grimmhaus/act-VI/24-09-11.md)
-64. [Giggleworks Upgrades and The Pale Man](./grimmhaus/act-VI/24-09-18.md)
-65. [The Ball](./grimmhaus/act-VI/24-09-25.md)
-65. [The Rats](./grimmhaus/act-VI/24-10-02.md)
-67. [The Erchins](./grimmhaus/act-VI/24-10-09.md)
-68. [The Fight Club](./grimmhaus/act-VI/24-10-16.md)
-69. [The Astrolabe](./grimmhaus/act-VI/24-10-24.md)
-70. [The Dragon Tablet](./grimmhaus/act-VI/24-10-30.md)
-71. [Krondis at the Collegium](./grimmhaus/act-VI/24-11-06.md)
-72. [Fight Night](./grimmhaus/act-VI/24-12-04.md)
-73. [Yulemas](./grimmhaus/act-VI/24-12-18.md)
-74. [3rd Precinct and Lord Barrow](./grimmhaus/act-VI/25-01-01.md)
-75. [The Sewer](./grimmhaus/act-VI/25-01-08.md)
-76. [The Grates](./grimmhaus/act-VI/25-01-15.md)
-77. [The Pale Man at the White House](./grimmhaus/act-VI/25-01-22.md)
-78. [Magnum Opus Hall](./grimmhaus/act-VI/25-01-29.md)
-79. [Kuromi Gets Arrested](./grimmhaus/act-VI/25-02-05.md)
-80. [Mama K interview and teh Cocksroost](./grimmhaus/act-VI/25-02-12.md)
-81. [Cletus vs Dr Richmond](./grimmhaus/act-VI/25-02-19.md)
-82. [GiggleWorks gets Demolished](./grimmhaus/act-VI/25-02-26.md)
-83. [Fight Club and Kareoke Night](./grimmhaus/act-VI/25-03-05.md)
-84. [Dr Richmond Interview at the Collegium](./grimmhaus/act-VI/25-03-12.md)
-85. [Time Warp Grove and Cletus House](./grimmhaus/act-VI/25-03-19.md)
-86. [Back into Sewers](./grimmhaus/act-VI/25-03-26.md)
-87. [Rat Catcher Combat](./grimmhaus/act-VI/25-04-02.md)
-88. [Investigate Palace and Broadway](./grimmhaus/act-VI/25-04-02.md)
-89. [Hope](./grimmhaus/act-VI/25-04-16.md)
+move into new teleporting base at Eton/Indigo's Prime Manor.
 
-## ACT VII: Journey to Ebbonguard
-90. [The Scrying Pool](./grimmhaus/act-VII/25-04-23.md)
-91. [Rescue Tristain](./grimmhaus/act-VII/25-04-30.md)
-92. [Hope Upgrades](./grimmhaus/act-VII/25-05-07.md)
-93. [Lucky and Blues Games with Malekai](./grimmhaus/act-VII/25-05-14.md)
-94. [Puzzles with Indigo](./grimmhaus/act-VII/25-05-21.md)
-95. [Quiz for Ebbonguard Keys](./grimmhaus/act-VII/25-05-28.md)
-96. [Ebbonguard Chess Board](./grimmhaus/act-VII/25-06-04.md)
-97. [Ebbonguard Chess Board 2](./grimmhaus/act-VII/25-06-11.md)
-98. [Wizard Prison 1-5](./grimmhaus/act-VII/25-06-18.md)
-99. [Mouth Maze and Wizard Prison 6](./grimmhaus/act-VII/25-06-25.md)
-100. [Tylus Starts the End of the World](./grimmhaus/act-VII/25-07-02.md)
-101. [Kpop attack on Hope](./grimmhaus/act-VII/25-07-23.md)
-102. [Find Sarandith the Starsmith](./grimmhaus/act-VII/25-07-30.md)
-103. [Auris House in the Wildmores](./grimmhaus/act-VII/25-08-06.md)
-104. [Rescuing Tristain in the Wildmores](./grimmhaus/act-VII/25-08-20.md)
-105. [Negotiating with Tristain in MossRock Lodge](./grimmhaus/act-VII/25-08-27.md)
-106. [Ice Drake in Moss Rock](./grimmhaus/act-VII/25-09-07.md)
-107. [Silvaris the Silver Tree](./grimmhaus/act-VII/25-09-14.md)
-108. [Lakecity and t'arhriel the Ruined City](./grimmhaus/act-VII/25-09-21.md)
-109. [Solaris and Celistia Burial Crypt](./grimmhaus/act-VII/25-10-05.md)
-110. [The Starpact](./grimmhaus/act-VII/25-10-19.md)
-111. [Zeit Geist World Library](./grimmhaus/act-VII/25-10-26.md)
-112. [Zeit Geist Philosophers](./grimmhaus/act-VII/25-11-02.md)
-113. [Reverend Mother in the Garden of Riven El](./grimmhaus/act-VII/25-11-09.md)
-114. [Sirens Rest](./grimmhaus/act-VII/25-11-23.md)
-115. [Port Artorious Jewels](./grimmhaus/act-VII/25-11-30.md)
-116. [Prison Break Planning](./grimmhaus/act-VII/25-12-07.md)
-117. [Ragged Crew Prison Break ](./grimmhaus/act-VII/25-12-014.md)
+explore the city of Hamarat in search of Ambrosius Casino and aetheric shards before burning down the casino.
+
+3. [ACT III: Find Shaza El](/grimmhaus/act-III/README.md)
+
+explore the city of Tikrati and cross the sand to The Temple of Shaza El guided by the Sand Sculptor.
+
+the party endures personal nightmares and each granted one question from the el after appeasing the guardian cats then attacking them to enter.
+
+4. [ACT IV: Investigate the AllBloom](/grimmhaus/act-IV/README.md)
+
+investigate the war between air and sky (birds vs storm) at Batallion 5 hq in the Pilar of Clouds.
+
+explore the bridge city Bruke and battle agents of the All Bloom in Angakar, the vacant enchanted grung town, while searching for Samuel the missing bird.
+
+5. [ACT V: Defeat the AllBloom](/grimmhaus/act-V/README.md)
+
+celebrate The Pirate Games and aquire a boat in Port Artorious after releasing the Empire of Dawn's ancient tiger prisoner.
+
+investigate a beached kraken and take over Requiems Wake while laying low on Decklin's Island after the Five Points Cathedreal turns their back on the AllBloom.
+
+the party defeats the Moth from the cocoon blight in Hyaru after seeing a forest of petrified elves.
+
+6. [ACT VI: City of Dimans](/grimmhaus/act-VI/README.md)
+
+establish, defend, and leave new hq Hope to stay at the Beaumont Estate wrangling local loose wyrds and orphans from isle of roses hidden in the partys cargo into advanced tech city Dimans (Gotham)
+
+The Rat Catcher crashes the town ball before the city border goes under lockdown, Candle Jack evades capture. the party sweeps an underground fight club in the feather downs after confrontations with the stockyard boys.
+
+explore the sewers spying on the City of Night after investigating giggleworks formula source and suspicious arcane experiments, then setting it on fire to bait candle jack unsuccessfully.
+
+7. [ACT VII: Journey to Ebbonguard](/grimmhaus/act-VII/README.md)
+
+Hope gets a scrying pool under the hird tree and the library has a breakthrough in dread books before defending city from an enchanting kpop performance.
+
+Etons associate Malekai sheds light on Shaza El and Candle Jack before the party steps into the dark shadows and sees carter randal in another time, earning keys and entry through Ebbonguard to wizard prisons.
+
+Auri takes the party through the Wildmores and, steal an ice drake in Mossrock before speaking with Silvaris the Silver Tree where Arthas takes the place of the yellow star Solara in T'arhriel to get to Elysium.
+
+sail to Port Artorious and help the ragged crew prison break, and resand corallie cay to uncurse the boat to sail to Horizons End and flip upside down to Atton. at the bottom of the ocean Captain Sykes sheds light on Bethmora, Hydronor, and the Collector.
+
+clear The Temple of Bethmora, and defeat The Collector at Aton's coral throne and sail on to the lost island dias at the end of the world in search of Heart Seeker.
 
 ## important links
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)
 - [lore](./grimmhaus/lore.md)
 - [party](./grimmhaus/party.md)
-
-## AB AETERNO: Grimmhaus
-![world map](./assets/image.png)
-[old world map](./assets/Ab_Aeterno_World_Map.png)
-
-```text
-
-<div align="center">
-  <h3 align="center"><a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/" >[GRIMMHAUS]</a></h3>
-  <p align="center">
-    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-I" >&larr; &nbsp; [ACT I]</a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/h-griffin/dnd-notes/blob/main/grimmhaus/act-II" >[ACT II] &nbsp; &rarr;</a>
-  </p>
-</div>
-
-# title
-- session #00
-- date YY-MM-DD
-
-## recap
-- end of previous session
-
-## notes
-- session notes
-
-## plans
-- next session planning
-
-## missions
-- active plots
-
-## wiki links
-- [baston grimm](../lore.md#baston-grimm)
-```
