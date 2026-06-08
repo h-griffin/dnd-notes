@@ -1,4 +1,8 @@
-# Table of Contents
+---
+layout: default
+---
+
+## Table of Contents
 
 -  [All Grimmhaus](./grimmhaus/README.md)
 
