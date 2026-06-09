@@ -5,8 +5,8 @@ title: Act VII
 
 | prev | table of contents | next |
 | :------ | :------: | ------: |
-| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](../README.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
-| ⇐ [ACT VI](../act-VI/README.md) | | ⇒ |
+| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](../index.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
+| ⇐ [ACT VI](../act-VI/index.md) | | ⇒ |
 
 # ACT VII: Journey to Ebbonguard
 Hope gets a scrying pool under the hird tree and the library has a breakthrough in dread books before defending city from an enchanting kpop performance.

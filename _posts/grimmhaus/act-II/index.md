@@ -5,8 +5,8 @@ title: Act II
 
 | prev | table of contents | next |
 | :------ | :------: | ------: |
-| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](../README.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
-| ⇐ [ACT I](../act-I/README.md) | | [ACT III](../act-III/README.md) ⇒ |
+| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](../index.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
+| ⇐ [ACT I](../act-I/index.md) | | [ACT III](../act-III/index.md) ⇒ |
 
 # ACT II: Find Baston Grimm
 move into new teleporting base at Eton/Indigo's Prime Manor.

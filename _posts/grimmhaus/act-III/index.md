@@ -6,7 +6,7 @@ title: Act III
 | prev | table of contents | next |
 | :------ | :------: | ------: |
 | ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](./README.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
-| ⇐ [ACT II](../act-II/README.md) | | [ACT IV](../act-IV/README.md) ⇒ |
+| ⇐ [ACT II](../act-II/README.md) | | [ACT IV](../act-IV/index.md) ⇒ |
 
 # ACT III: Find Shaza El
 explore the city of Tikrati and cross the sand to The Temple of Shaza El guided by the Sand Sculptor.

@@ -5,8 +5,8 @@ title: Act V
 
 | prev | table of contents | next |
 | :------ | :------: | ------: |
-| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](../README.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
-| ⇐ [ACT IV](../act-IV/README.md) | | [ACT VI](../act-VI/README.md) ⇒ |
+| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](../index.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
+| ⇐ [ACT IV](../act-IV/index.md) | | [ACT VI](../act-VI/index.md) ⇒ |
 
 # ACT V: Defeat the AllBloom
 celebrate The Pirate Games and aquire a boat in Port Artorious after releasing the Empire of Dawn's ancient tiger prisoner.

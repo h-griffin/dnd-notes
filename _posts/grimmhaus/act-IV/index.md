@@ -6,7 +6,7 @@ title: Act IV
 | prev | table of contents | next |
 | :------ | :------: | ------: |
 | ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](./README.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
-| ⇐ [ACT III](../act-III/README.md) | | [ACT V](../act-V/README.md) ⇒ |
+| ⇐ [ACT III](../act-III/README.md) | | [ACT V](../act-V/index.md) ⇒ |
 
 # ACT IV: Investigate the AllBloom
 investigate the war between air and sky (birds vs storm) at Batallion 5 hq in the Pilar of Clouds

@@ -5,8 +5,8 @@ title: Act I
 
 | prev | table of contents | next |
 | :------ | :------: | ------: |
-| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](../README.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
-| ⇐ | | [ACT II](../act-II/README.md) ⇒ |
+| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](../index.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
+| ⇐ | | [ACT II](../act-II/index.md) ⇒ |
 
 # ACT I: Clear Grimmhaus Manor
 investigate grimmhaus manor, the family photos and experiments in underground lab before it burns down.
