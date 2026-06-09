@@ -4,11 +4,11 @@ title: "Find Baston Grimm"
 layout: post
 tags: [Markdown, Jekyll]
 team_title: All Grimmhaus
-team_url: ../../grimmhaus/index.md  
+team_url: ../../grimmhaus   
 prev_title: ACT I
-prev_url: ../act-I/index.md
+prev_url: ../act-I 
 next_title: ACT III
-next_url: ../act-III/index.md
+next_url: ../act-III 
 ---  
 
 move into new teleporting base at Eton/Indigo's Prime Manor.

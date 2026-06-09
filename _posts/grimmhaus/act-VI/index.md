@@ -4,11 +4,11 @@ title: "City of Dimans"
 layout: post
 tags: [Markdown, Jekyll]
 team_title: All Grimmhaus
-team_url: ../../grimmhaus/index.md  
+team_url: ../../grimmhaus   
 prev_title: ACT V
-prev_url: ../act-V/index.md
+prev_url: ../act-V 
 next_title: ACT VII
-next_url: ../../8follies/act-VII/index.md
+next_url: ../../8follies/act-VII 
 ---  
  
 establish, defend, and leave new hq Hope to stay at the Beaumont Estate wrangling local loose wyrds and orphans from isle of roses hidden in the partys cargo into advanced tech city Dimans (Gotham)

@@ -4,11 +4,11 @@ title: "Investigate the AllBloom"
 layout: post
 tags: [Markdown, Jekyll]
 team_title: All Grimmhaus
-team_url: ../../grimmhaus/index.md  
+team_url: ../../grimmhaus   
 prev_title: ACT III
-prev_url: ../act-III/index.md
+prev_url: ../act-III 
 next_title: ACT V
-next_url: ../act-V/index.md
+next_url: ../act-V 
 ---   
 
 investigate the war between air and sky (birds vs storm) at Batallion 5 hq in the Pilar of Clouds

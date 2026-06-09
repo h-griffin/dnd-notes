@@ -4,11 +4,11 @@ title: "Journey to Ebbonguard"
 layout: post
 tags: [Markdown, Jekyll]
 team_title: All 8Follies
-team_url: ../../8follies/index.md  
+team_url: ../../8follies   
 prev_title: ACT V
-prev_url: ../../grimmhaus/act-VI/index.md
+prev_url: ../../grimmhaus/act-VI 
 next_title: ACT VIII
-next_url: ../act-VII/index.md
+next_url: ../act-VII 
 ---  
   
 Hope gets a scrying pool under the hird tree and the library has a breakthrough in dread books before defending city from an enchanting kpop performance.

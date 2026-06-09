@@ -4,9 +4,9 @@ title: "Clear Grimmhaus Manor"
 layout: post
 tags: [Markdown, Jekyll]
 team_title: All Grimmhaus
-team_url: ../../grimmhaus/index.md  
+team_url: ../../grimmhaus   
 next_title: ACT II
-next_url: ../act-II/index.md
+next_url: ../act-II 
 --- 
 
 investigate grimmhaus manor, the family photos and experiments in underground lab before it burns down.

@@ -4,11 +4,11 @@ title: "Defeat the AllBloom"
 layout: post
 tags: [Markdown, Jekyll]
 team_title: All Grimmhaus
-team_url: ../../grimmhaus/index.md  
+team_url: ../../grimmhaus   
 prev_title: ACT IV
-prev_url: ../act-IV/index.md
+prev_url: ../act-IV 
 next_title: ACT VI
-next_url: ../act-VI/index.md
+next_url: ../act-VI 
 ---   
  
 celebrate The Pirate Games and aquire a boat in Port Artorious after releasing the Empire of Dawn's ancient tiger prisoner.

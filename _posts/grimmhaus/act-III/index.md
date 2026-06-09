@@ -4,11 +4,11 @@ title: "Find Shaza El"
 layout: post
 tags: [Markdown, Jekyll]
 team_title: All Grimmhaus
-team_url: ../../grimmhaus/index.md  
+team_url: ../../grimmhaus   
 prev_title: ACT II
-prev_url: ../act-II/index.md
+prev_url: ../act-II 
 next_title: ACT IV
-next_url: ../act-IV/index.md
+next_url: ../act-IV 
 ---  
 
 explore the city of Tikrati and cross the sand to The Temple of Shaza El guided by the Sand Sculptor.
