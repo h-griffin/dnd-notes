@@ -44,7 +44,7 @@ layout: default
 
     explore the sewers spying on the City of Night after investigating giggleworks formula source and suspicious arcane experiments, then setting it on fire to bait candle jack unsuccessfully.
 
-7. [ACT VII: Journey to Ebbonguard](./_posts/grimmhaus/act-VII/index.md)
+7. [ACT VII: Journey to Ebbonguard](./_posts/8follies/act-VII/index.md)
 
     Hope gets a scrying pool under the hird tree and the library has a breakthrough in dread books before defending city from an enchanting kpop performance.
 

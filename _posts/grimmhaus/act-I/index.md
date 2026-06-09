@@ -18,6 +18,6 @@ investigate grimmhaus manor, the family photos and experiments in underground la
 5. [Housefire and Prime Manor](./23-07-12.md)
 
 ## important links
-- [Lore notes](../lore.md)
-- [Party notes](../party.md)
+- [Lore notes](../../lore.md)
+- [Party notes](../../party.md)
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)

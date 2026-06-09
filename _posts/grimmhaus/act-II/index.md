@@ -20,6 +20,6 @@ explore the city of Hamarat in search of Ambrosius Casino and aetheric shards be
 10. [Return to Prime Manor](./23-08-16.md)
 
 ## important links
-- [Lore notes](../lore.md)
-- [Party notes](../party.md)
+- [Lore notes](../../lore.md)
+- [Party notes](../../party.md)
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)

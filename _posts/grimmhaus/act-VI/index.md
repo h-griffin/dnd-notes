@@ -6,7 +6,7 @@ title: Act VI
 | prev | table of contents | next |
 | :------ | :------: | ------: |
 | ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](../index.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
-| ⇐ [ACT V](../act-V/index.md) | | [ACT VII](../act-VII/index.md) ⇒ |
+| ⇐ [ACT V](../act-V/index.md) | | [ACT VII](../../8follies/act-VII/index.md) ⇒ |
 
 # ACT VI: City of Dimans
 establish, defend, and leave new hq Hope to stay at the Beaumont Estate wrangling local loose wyrds and orphans from isle of roses hidden in the partys cargo into advanced tech city Dimans (Gotham)

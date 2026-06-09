@@ -1,4 +1,4 @@
-![world map](../assets/img/Ab_Aeterno_World_Map.png)
+![world map](./assets/img/Ab_Aeterno_World_Map.png)
 
 # AB Aeterno lore notes
 - dragons not seen in aetarno in millions of years
