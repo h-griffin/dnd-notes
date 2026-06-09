@@ -1,14 +1,17 @@
 ---
-layout: default
-title: Act VII
----
-
-| prev | table of contents | next |
-| :------ | :------: | ------: |
-| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](../../grimmhaus/index.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
-| ⇐ [ACT VI](../../grimmhaus/act-VI/index.md) | | ⇒ |
-
-# ACT VII: Journey to Ebbonguard
+date: 2025-04 - 2026-06
+session: ACT VII
+title: "Journey to Ebbonguard"
+layout: post
+tags: [Markdown, Jekyll]
+team_title: All 8Follies
+team_url: ../../8follies/index.md  
+prev_title: ACT V
+prev_url: ../../grimmhaus/act-VI/index.md
+next_title: ACT VIII
+next_url: ../act-VII/index.md
+---  
+  
 Hope gets a scrying pool under the hird tree and the library has a breakthrough in dread books before defending city from an enchanting kpop performance.
 
 Etons associate Malekai sheds light on Shaza El and Candle Jack before the party steps into the dark shadows and sees carter randal in another time, earning keys and entry through Ebbonguard to wizard prisons.
@@ -17,6 +20,7 @@ Auri takes the party through the Wildmores and, steal an ice drake in Mossrock b
 
 sail to Port Artorious and help the ragged crew prison break, and resand corallie cay to uncurse the boat to sail to Horizons End and flip upside down to Atton. at the bottom of the ocean Captain Sykes sheds light on Hydronor before clearing The Temple of Bethmora and defeating The Collector at Aton's coral throne freeing the people of the ocean.
 
+## table of contents
 90. [The Scrying Pool](./25-04-23.md)
 91. [Rescue Tristain](./25-04-30.md)
 92. [Hope Upgrades](./25-05-07.md)

@@ -1,18 +1,22 @@
 ---
-layout: default
-title: Act II
----
+date: 2023-07 - 2023-08
+session: ACT II 
+title: "Find Baston Grimm"
+layout: post
+tags: [Markdown, Jekyll]
+team_title: All Grimmhaus
+team_url: ../../grimmhaus/index.md  
+prev_title: ACT I
+prev_url: ../act-I/index.md
+next_title: ACT III
+next_url: ../act-III/index.md
+---  
 
-| prev | table of contents | next |
-| :------ | :------: | ------: |
-| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](../index.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
-| ⇐ [ACT I](../act-I/index.md) | | [ACT III](../act-III/index.md) ⇒ |
-
-# ACT II: Find Baston Grimm
 move into new teleporting base at Eton/Indigo's Prime Manor.
 
 explore the city of Hamarat in search of Ambrosius Casino and aetheric shards before burning down the casino.
 
+## table of contents
 6. [City of Hamarat](./23-07-17.md)
 7. [Ambrosius Casino](./23-07-26.md)
 8. [VIP Room](./23-08-02.md)

@@ -1,20 +1,24 @@
 ---
-layout: default
-title: Act V
----
-
-| prev | table of contents | next |
-| :------ | :------: | ------: |
-| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](../index.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
-| ⇐ [ACT IV](../act-IV/index.md) | | [ACT VI](../act-VI/index.md) ⇒ |
-
-# ACT V: Defeat the AllBloom
+date: 2024-03 - 2024-06
+session: ACT V
+title: "Defeat the AllBloom"
+layout: post
+tags: [Markdown, Jekyll]
+team_title: All Grimmhaus
+team_url: ../../grimmhaus/index.md  
+prev_title: ACT IV
+prev_url: ../act-IV/index.md
+next_title: ACT VI
+next_url: ../act-VI/index.md
+---   
+ 
 celebrate The Pirate Games and aquire a boat in Port Artorious after releasing the Empire of Dawn's ancient tiger prisoner.
 
 investigate a beached kraken and take over Requiems Wake while laying low on Decklin's Island after the Five Points Cathedreal turns their back on the AllBloom.
 
 the party defeats the Moth from the cocoon blight in hyaru after seeing a forest of petrified elves.
 
+## table of contents
 37. [Port Artorious](./24-03-06.md)
 38. [The Pirate Games](./24-03-13.md)
 39. [The Cartographers Guild](./24-03-20.md)

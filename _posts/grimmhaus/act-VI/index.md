@@ -1,20 +1,24 @@
 ---
-layout: default
-title: Act VI
----
-
-| prev | table of contents | next |
-| :------ | :------: | ------: |
-| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](../index.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
-| ⇐ [ACT V](../act-V/index.md) | | [ACT VII](../../8follies/act-VII/index.md) ⇒ |
-
-# ACT VI: City of Dimans
+date: 2024-06 - 2025-04
+session: ACT VI
+title: "City of Dimans"
+layout: post
+tags: [Markdown, Jekyll]
+team_title: All Grimmhaus
+team_url: ../../grimmhaus/index.md  
+prev_title: ACT V
+prev_url: ../act-V/index.md
+next_title: ACT VII
+next_url: ../../8follies/act-VII/index.md
+---  
+ 
 establish, defend, and leave new hq Hope to stay at the Beaumont Estate wrangling local loose wyrds and orphans from isle of roses hidden in the partys cargo into advanced tech city Dimans (Gotham)
 
 The Rat Catcher crashes the town ball before the city border goes under lockdown, Candle Jack evades capture. the party sweeps an underground fight club in the feather downs after confrontations with the stockyard boys.
 
 explore the sewers spying on the City of Night after investigating giggleworks formula source and suspicious arcane experiments, then setting it on fire to bait candle jack unsuccessfully.
 
+## table of contents
 51. [Hopetown](./24-06-19.md)
 52. [The Hird Well](./24-06-26.md)
 53. [Revenants](./24-07-03.md)

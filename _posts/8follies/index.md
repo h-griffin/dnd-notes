@@ -3,20 +3,16 @@ layout: default
 title: All 8Follies
 ---
 
-| prev | table of contents | next |
-| :------ | :------: | ------: |
-| ⠀⠀⠀⠀⠀⠀⠀⠀ | [All Posts](../index.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
-| ⇐ [ACT VI](../../grimmhaus/act-VI/index.md) | | ⇒ |
+Jump to
+7. [ACT VII: Journey to Ebbonguard](#act-vii-journey-to-ebbonguard)
+8. [ACT VIII:](#act-viii)
+- [important links](#important-links)
 
-# ACT VII: Journey to Ebbonguard
-Hope gets a scrying pool under the hird tree and the library has a breakthrough in dread books before defending city from an enchanting kpop performance.
+***
 
-Etons associate Malekai sheds light on Shaza El and Candle Jack before the party steps into the dark shadows and sees carter randal in another time, earning keys and entry through Ebbonguard to wizard prisons.
+## 8 Follies: Table of Contents
 
-Auri takes the party through the Wildmores and, steal an ice drake in Mossrock before speaking with Silvaris the Silver Tree where Arthas takes the place of the yellow star Solara in T'arhriel to get to Elysium.
-
-sail to Port Artorious and help the ragged crew prison break, and resand corallie cay to uncurse the boat to sail to Horizons End and flip upside down to Atton. at the bottom of the ocean Captain Sykes sheds light on Hydronor before clearing The Temple of Bethmora and defeating The Collector at Aton's coral throne freeing the people of the ocean.
-
+#### &nbsp;&nbsp; ACT VII: Journey to Ebbonguard
 90. [The Scrying Pool](./25-04-23.md)
 91. [Rescue Tristain](./25-04-30.md)
 92. [Hope Upgrades](./25-05-07.md)
@@ -62,6 +58,7 @@ sail to Port Artorious and help the ragged crew prison break, and resand coralli
 132. [Atton](./26-05-17.md)
 133. [Atton's Throne'](./26-05-17.md)
 134. [Death of The Collector](./26-06-07.md)
+    #### ACT VIII:
 
 ## important links
 - [Lore notes](./lore.md)

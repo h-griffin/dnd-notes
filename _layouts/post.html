@@ -23,7 +23,6 @@ layout: default
             <td style="text-align: right"> </td>
         </tr>
     {% endif %}
-     
     <tr>
       <td style="text-align: left"> ⇐ {% if page.prev_title %}<a href="{{ page.prev_url }}">session {{ page.prev_title }} {% endif %} </td>
       <td style="text-align: left"> </td>
@@ -32,9 +31,14 @@ layout: default
   </tbody>
 </table>
 
+{% if page.act_title != blank %}
+  <h1>{{ page.session }}: {{ page.title }}</h1>
+  <small>{{ page.date }} </small>
+{% else %}
+  <h1>{{ page.title }}</h1>
+  <small>session {{ page.session }} - {{ page.date | date: "%-d %B %Y" }} </small>
+{% endif %}
 
-<small>session {{ page.session }} - {{ page.date | date: "%-d %B %Y" }} </small>
-<h1>{{ page.title }}</h1>
 
 
 {{content}}

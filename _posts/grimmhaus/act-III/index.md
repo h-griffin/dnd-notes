@@ -1,18 +1,22 @@
 ---
-layout: default
-title: Act III
----
+date: 2023-08 - 2023-10
+session: ACT III 
+title: "Find Shaza El"
+layout: post
+tags: [Markdown, Jekyll]
+team_title: All Grimmhaus
+team_url: ../../grimmhaus/index.md  
+prev_title: ACT II
+prev_url: ../act-II/index.md
+next_title: ACT IV
+next_url: ../act-IV/index.md
+---  
 
-| prev | table of contents | next |
-| :------ | :------: | ------: |
-| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](./README.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
-| ⇐ [ACT II](../act-II/README.md) | | [ACT IV](../act-IV/index.md) ⇒ |
-
-# ACT III: Find Shaza El
 explore the city of Tikrati and cross the sand to The Temple of Shaza El guided by the Sand Sculptor.
 
 the party endures personal nightmares and each granted one question from the el after appeasing the guardian cats then attacking them to enter.
 
+## table of contents
 11. [City of Takrati](./23-08-23.md)
 12. [The Sand Sculptor](./23-08-30.md)
 13. [Preparing for Desert Trip](./23-09-06.md)

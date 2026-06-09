@@ -1,16 +1,18 @@
 ---
-layout: default
-title: Act I
----
+date: 2023-06 - 2023-07
+session: ACT I 
+title: "Clear Grimmhaus Manor"
+layout: post
+tags: [Markdown, Jekyll]
+team_title: All Grimmhaus
+team_url: ../../grimmhaus/index.md  
+next_title: ACT II
+next_url: ../act-II/index.md
+--- 
 
-| prev | table of contents | next |
-| :------ | :------: | ------: |
-| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](../index.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
-| ⇐ | | [ACT II](../act-II/index.md) ⇒ |
-
-# ACT I: Clear Grimmhaus Manor
 investigate grimmhaus manor, the family photos and experiments in underground lab before it burns down.
 
+## table of contents
 1. [Enter Grimmhaus Manor](./23-06-14.md)
 2. [Baston Grimms Experiments](./23-06-21.md)
 3. [The Underground Lab](./23-06-28.md)

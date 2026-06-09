@@ -4,8 +4,8 @@ title: All Posts
 ---
 
 Jump to
-- [Grimmhaus](#grimmhaus-1)
-- [8follies](#8follies-1)
+- [Grimmhaus](#grimmhaus)
+- [8follies](#8follies)
 - [important links](#important-links)
 
 ***
@@ -21,11 +21,9 @@ Jump to
 
 ## All Posts: Table of Contents
 
-- [Grimmhaus](./grimmhaus/index.md)
-
-***
-
-#### &nbsp;&nbsp; [ACT I: Clear Grimmhaus Manor](./grimmhaus/act-I/index.md)
+### [Grimmhaus](./grimmhaus/index.md)
+   ***
+#### &nbsp;&nbsp;&nbsp;&nbsp; [ACT I: Clear Grimmhaus Manor](./grimmhaus/act-I/index.md)
 1. [Enter Grimmhaus Manor](./grimmhaus/act-I/23-06-14.md)
 2. [Baston Grimms Experiments](./grimmhaus/act-I/23-06-21.md)
 3. [The Underground Lab](./grimmhaus/act-I/23-06-28.md)
@@ -57,7 +55,7 @@ Jump to
 23. [Thomnas Lightpost](./grimmhaus/act-IV/23-11-15.md)
 24. [The VIP Room](./grimmhaus/act-IV/23-11-29.md)
 25. [The Bridge Lockdown](./grimmhaus/act-IV/23-12-06.md)
-26. [City of Angakkar](./grimmhaus/act-IV/23-12-013.md)
+26. [City of Angakkar](./grimmhaus/act-IV/23-12-13.md)
 27. [Recap and Planning](./grimmhaus/act-IV/23-12-27.md)
 28. [The Toad Mother](./grimmhaus/act-IV/24-01-02.md)
 29. [The Shade and Mushrooms](./grimmhaus/act-IV/24-01-10.md)

@@ -1,18 +1,22 @@
 ---
-layout: default
-title: Act IV
----
+date: 2023-10 - 2024-02
+session: ACT IV
+title: "Investigate the AllBloom"
+layout: post
+tags: [Markdown, Jekyll]
+team_title: All Grimmhaus
+team_url: ../../grimmhaus/index.md  
+prev_title: ACT III
+prev_url: ../act-III/index.md
+next_title: ACT V
+next_url: ../act-V/index.md
+---   
 
-| prev | table of contents | next |
-| :------ | :------: | ------: |
-| ⠀⠀⠀⠀⠀⠀⠀⠀ | [Grimmhaus](./README.md) | ⠀⠀⠀⠀⠀⠀⠀⠀ |
-| ⇐ [ACT III](../act-III/README.md) | | [ACT V](../act-V/index.md) ⇒ |
-
-# ACT IV: Investigate the AllBloom
 investigate the war between air and sky (birds vs storm) at Batallion 5 hq in the Pilar of Clouds
 
 explore the bridge city Bruke and battle agents of the All Bloom in Angakar, the vacant enchanted grung town, while searching for Samuel the missing bird.
 
+## table of contents
 20. [The Pillar of Clouds](./23-10-25.md)
 21. [The Bridge City](./23-11-01.md)
 22. [The Storm Gem](./23-11-08.md)

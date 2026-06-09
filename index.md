@@ -5,7 +5,7 @@ title: "Home"
  
 -  [All Posts](./_posts/index.md)
 
-## Home
+# Home: overview
 
 1. [ACT I: Clear Grimmhaus Manor](./_posts/grimmhaus/act-I/index.md)
     [grimmhaus]()
