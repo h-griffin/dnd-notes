@@ -1,5 +1,4 @@
----
-date: 2024-06 - 2025-04
+--- 
 session: ACT VI
 title: "City of Dimans"
 layout: post

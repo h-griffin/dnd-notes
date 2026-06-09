@@ -1,5 +1,4 @@
----
-date: 2023-06 - 2023-07
+--- 
 session: ACT I 
 title: "Clear Grimmhaus Manor"
 layout: post

@@ -1,5 +1,4 @@
----
-date: 2023-07 - 2023-08
+--- 
 session: ACT II 
 title: "Find Baston Grimm"
 layout: post

@@ -1,5 +1,4 @@
----
-date: 2023-10 - 2024-02
+--- 
 session: ACT IV
 title: "Investigate the AllBloom"
 layout: post

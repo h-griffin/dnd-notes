@@ -1,5 +1,4 @@
----
-date: 2024-03 - 2024-06
+--- 
 session: ACT V
 title: "Defeat the AllBloom"
 layout: post

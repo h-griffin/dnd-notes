@@ -1,5 +1,4 @@
----
-date: 2023-08 - 2023-10
+--- 
 session: ACT III 
 title: "Find Shaza El"
 layout: post

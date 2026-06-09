@@ -1,5 +1,4 @@
----
-date: 2025-04 - 2026-06
+--- 
 session: ACT VII
 title: "Journey to Ebbonguard"
 layout: post
