@@ -60,6 +60,31 @@ Jump to
 134. [Death of The Collector](./26-06-07.md)
     #### ACT VIII:
 
+## posts
+<ul class="post-list">
+    {% for post in site.posts %}
+        <li>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <h2>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">#{{ post.session }} - {{ post.title }}</a>
+            </h2>
+        </li>
+    {% endfor %}
+</ul>
+
+## 8follies
+<ul class="post-list">
+    {% for post in site.posts.8follies %}
+        <li>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <h2>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">#{{ post.session }} - {{ post.title }}</a>
+            </h2>
+        </li>
+    {% endfor %}
+</ul>
+
+
 ## important links
 - [Lore notes](./lore.md)
 - [Party notes](./party.md)
