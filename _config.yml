@@ -1,6 +1,17 @@
 title: "Ab Aeterno"
 logo: /assets/img/map.png
-description: The 8Follies map & notes
+description: |
+  "The 8Follies map & notes 
+  <a href='https://h-griffin.github.io/dnd-notes/_posts/index.md'><strong>All Posts</strong></a> 
+  <br/><a href='https://h-griffin.github.io/dnd-notes/_posts/grimmhaus/index.md'>-- Grimmhaus</a> 
+  <a href='https://h-griffin.github.io/dnd-notes/_posts/grimmhaus/act-I/index.md'>Act-I: Clear Grimmhaus Manor</a> 
+  <a href='https://h-griffin.github.io/dnd-notes/_posts/grimmhaus/act-II/index.md'>Act-II: Find Baston Grimm</a> 
+  <a href='https://h-griffin.github.io/dnd-notes/_posts/grimmhaus/act-III/index.md'>Act-III: Find Shaza El</a> 
+  <a href='https://h-griffin.github.io/dnd-notes/_posts/grimmhaus/act-IV/index.md'>Act-IV: Investigate the AllBloom</a> 
+  <a href='https://h-griffin.github.io/dnd-notes/_posts/grimmhaus/act-V/index.md'>Act-V: Defeat the AllBloom</a> 
+  <a href='https://h-griffin.github.io/dnd-notes/_posts/grimmhaus/act-VI/index.md'>Act-VI: City of Dimans</a> 
+  <a href='https://h-griffin.github.io/dnd-notes/_posts/8follies/index.md'>-- 8follies</a> 
+  <a href='https://h-griffin.github.io/dnd-notes/_posts/8follies/act-VII/index.md'>Act-VII: Journey to Ebbonguard</a> "
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
