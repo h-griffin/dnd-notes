@@ -1,0 +1,11 @@
+title: "Ab Aeterno: Grimmhaus"
+logo: /assets/img/map.png
+description: 8 follies notes <br /> <a href='https://h-griffin.github.io/dnd-notes'>Table of Contents</a>
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+github:
+  is_project_page: true
+  repository_nwo: "Ab Aeterno: Grimmhaus notes"
+  repository_url: "https://github.com/h-griffin/dnd-notes"
+  owner_url: "https://github.com/h-griffin"

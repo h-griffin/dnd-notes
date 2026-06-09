@@ -1,8 +1,0 @@
----
-title: Ab Aeterno
-logo: /assets/image.png
-description: 8 follies notes
-plugins:
-  - jekyll-remote-theme
-remote_theme: pages-themes/minimal@v0.2.0
-markdown: GFM
