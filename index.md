@@ -59,6 +59,17 @@ title: "Home"
 
     sail on to the lost island dias at the end of the world in search of Heart Seeker.
 
+<ul class="post-list">
+    {% for post in site.posts %}
+        <li>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <h2>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+        </li>
+    {% endfor %}
+</ul>
+
 ## important links
 - [dndbeyond grimmhuas campaign](https://www.dndbeyond.com/campaigns/4131697)
 - [lore](./grimmhaus/lore.md)
