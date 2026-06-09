@@ -3,6 +3,8 @@ layout: default
 title: All Posts
 ---
 
+## All Posts: Table of Contents
+
 Jump to
 - [Grimmhaus](#grimmhaus)
 - [8follies](#8follies)
@@ -19,25 +21,25 @@ Jump to
 7. [ACT VII: Journey to Ebbonguard](#act-vii-journey-to-ebbonguard)
 8. [ACT VIII:]
 
-## All Posts: Table of Contents
-
 ### [Grimmhaus](./grimmhaus/index.md)
+
    ***
-#### &nbsp;&nbsp;&nbsp;&nbsp; [ACT I: Clear Grimmhaus Manor](./grimmhaus/act-I/index.md)
+
+#### ACT I: Clear Grimmhaus Manor
 1. [Enter Grimmhaus Manor](./grimmhaus/act-I/23-06-14.md)
 2. [Baston Grimms Experiments](./grimmhaus/act-I/23-06-21.md)
 3. [The Underground Lab](./grimmhaus/act-I/23-06-28.md)
 4. [The Altar Room](./grimmhaus/act-I/23-07-05.md)
 5. [Housefire and Prime Manor](./grimmhaus/act-I/23-07-12.md)
 
-    #### [ACT II: Find Baston Grimm](./grimmhaus/act-II/index.md)
+    #### ACT II: Find Baston Grimm
 6. [City of Hamarat](./grimmhaus/act-II/23-07-17.md)
 7. [Ambrosius Casino](./grimmhaus/act-II/23-07-26.md)
 8. [VIP Room](./grimmhaus/act-II/23-08-02.md)
 9. [The Vault](./grimmhaus/act-II/23-08-07.md)
 10. [Return to Prime Manor](./grimmhaus/act-II/23-08-16.md)
 
-    #### [ACT III: Find Shaza El](./grimmhaus/act-III/index.md)
+    #### ACT III: Find Shaza El
 11. [City of Takrati](./grimmhaus/act-III/23-08-23.md)
 12. [The Sand Sculptor](./grimmhaus/act-III/23-08-30.md)
 13. [Preparing for Desert Trip](./grimmhaus/act-III/23-09-06.md)
@@ -48,7 +50,7 @@ Jump to
 18. [The Chamber of the El](./grimmhaus/act-III/23-10-11.md)
 19. [Shaza Els Deal](./grimmhaus/act-III/23-10-11.md)
 
-    #### [ACT IV: Investigate the AllBloom](./grimmhaus/act-IV/index.md)
+    #### ACT IV: Investigate the AllBloom
 20. [The Pillar of Clouds](./grimmhaus/act-IV/23-10-25.md)
 21. [The Bridge City](./grimmhaus/act-IV/23-11-01.md)
 22. [The Storm Gem](./grimmhaus/act-IV/23-11-08.md)
@@ -67,8 +69,7 @@ Jump to
 35. [The Feast of Saint Carles](./grimmhaus/act-IV/24-02-21.md)
 36. [The Doctor](./grimmhaus/act-IV/24-02-28.md)
 
-    #### [ACT V: Defeat the AllBloom](./grimmhaus/act-V/index.md)
-37. [Port Artorious](./grimmhaus/act-V/24-03-06.md)
+    #### ACT V: Defeat the AllBloom
 38. [The Pirate Games](./grimmhaus/act-V/24-03-13.md)
 39. [The Cartographers Guild](./grimmhaus/act-V/24-03-20.md)
 40. [The Cathedral](./grimmhaus/act-V/24-03-27.md)
@@ -83,7 +84,7 @@ Jump to
 49. [The Erd Tree](./grimmhaus/act-V/24-06-05.md)
 50. [The Moth](./grimmhaus/act-V/24-06-12.md)
 
-    #### [ACT VI: City of Dimans](./grimmhaus/act-VI/index.md)
+    #### ACT VI: City of Dimans
 51. [Hopetown](./grimmhaus/act-VI/24-06-19.md)
 52. [The Hird Well](./grimmhaus/act-VI/24-06-26.md)
 53. [Revenants](./grimmhaus/act-VI/24-07-03.md)
@@ -126,7 +127,7 @@ Jump to
 
     ### [8follies](./8follies/index.md)
     ***
-    #### [ACT VII: Journey to Ebbonguard](./8follies/act-VII/index.md)
+    #### ACT VII: Journey to Ebbonguard
 90. [The Scrying Pool](./8follies/act-VII/25-04-23.md)
 91. [Rescue Tristain](./8follies/act-VII/25-04-30.md)
 92. [Hope Upgrades](./8follies/act-VII/25-05-07.md)

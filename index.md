@@ -8,7 +8,7 @@ title: "Home"
 # Home: overview
 
 1. [ACT I: Clear Grimmhaus Manor](./_posts/grimmhaus/act-I)
-    [grimmhaus]()
+
     investigate Grimmhaus Manor, the family photos and experiments in underground lab before it burns down.
 
 2. [ACT II: Find Baston Grimm](./_posts/grimmhaus/act-II)

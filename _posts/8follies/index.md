@@ -3,6 +3,8 @@ layout: default
 title: All 8Follies
 ---
 
+## 8 Follies: Table of Contents
+
 Jump to
 7. [ACT VII: Journey to Ebbonguard](#act-vii-journey-to-ebbonguard)
 8. [ACT VIII:](#act-viii)
@@ -10,9 +12,7 @@ Jump to
 
 ***
 
-## 8 Follies: Table of Contents
-
-#### &nbsp;&nbsp; ACT VII: Journey to Ebbonguard
+#### ACT VII: Journey to Ebbonguard
 90. [The Scrying Pool](./25-04-23.md)
 91. [Rescue Tristain](./25-04-30.md)
 92. [Hope Upgrades](./25-05-07.md)

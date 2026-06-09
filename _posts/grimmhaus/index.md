@@ -3,10 +3,9 @@ layout: default
 title: All Grimmhaus
 ---
 
-Jump to
-- [important links](#important-links)
+## Grimmhaus: Table of Contents
 
-***
+Jump to
 
 1. [ACT I: Clear Grimmhaus Manor](#act-i-clear-grimmhaus-manor)
 2. [ACT II: Find Baston Grimm](#act-ii-find-baston-grimm)
@@ -14,9 +13,10 @@ Jump to
 4. [ACT IV: Investigate the AllBloom](#act-iv-investigate-the-allbloom)
 5. [ACT V: Defeat the AllBloom](#act-v-defeat-the-allbloom)
 6. [ACT VI: City of Dimans](#act-vi-city-of-dimans)
+
 - [important links](#important-links)
 
-## Grimmhaus: Table of Contents
+***
 
 #### &nbsp;&nbsp; ACT I: Clear Grimmhaus Manor
 1. [Enter Grimmhaus Manor](./act-I/23-06-14.md)
