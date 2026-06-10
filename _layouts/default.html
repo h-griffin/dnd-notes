@@ -20,12 +20,7 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
-        <div id="search-demo-container">
-            <input type="search" id="search-input" placeholder="search...">
-            <ul id="results-container"></ul>
-        </div>
-
+ 
         <p style="white-space: pre-line; line-height: 1.7;">{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
@@ -46,7 +41,13 @@
       </header>
       <section>
 
-      {{ content }}
+
+        <div id="search-demo-container">
+            <input type="search" id="search-input" placeholder="search...">
+            <ul id="results-container"></ul>
+        </div>
+
+        {{ content }}
 
       </section>
       <footer>
