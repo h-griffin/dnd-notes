@@ -92,14 +92,38 @@
                     var query = document.getElementById('search-input').value;
                     
                     if (query) {
-                        // Escape regex special characters so the search doesn't crash
-                        var escapedQuery = query.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+                        // Escape query for regex
+                        const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                        console.log("--escapedQuery", escapedQuery)
+
+                        // Create the regex pattern - 5 before, the query, and 5 after
+                        const regex = new RegExp(`(?:\\s*\\S+){0,5}\\s*(${escapedQuery})\\s*(?:\\S+\\s*){0,5}`, 'i');
+                        console.log("--regex", regex)
                         
-                        // Create a regex modifier to highlight globally and case-insensitively
-                        var regex = new RegExp('(' + escapedQuery + ')', 'gi');
+                        const match = value.match(regex);
+                        console.log("--match", match, match[1], escapedQuery)
+
+                        // Replace the matched query with highlighted version
+                        const highlighted = value.replace(match[1], `<mark>${match[1]}</mark>`);
+                        return highlighted.trim();
                         
-                        // Replace the matched term with a highlighted HTML element
-                        return value.replace(regex, '<mark>$1</mark>');
+                        // // Escape regex special characters so the search doesn't crash
+                        // var escapedQuery = query.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+                        // console.log("--escapedQuery", escapedQuery)
+                        
+                        // // Create a regex modifier to highlight globally and case-insensitively
+                        // var regex = new RegExp('(' + escapedQuery + ')', 'gi');
+                        // console.log("--regex", regex)
+                        
+                        // // Replace the matched term with a highlighted HTML element
+                        // var highlighted = value.replace(regex, '<mark>$1</mark>');
+                        // console.log("--highlighted", highlighted)
+ 
+
+                        // var regexTrim = new RegExp(`(?:(\\W*\\w+){0,5})\\b(${query})\\b(?:(\\W*\\w+){0,5})\\b`, "i");
+                         
+                        // return highlighted
+
                     }
                 }
                 return value;
