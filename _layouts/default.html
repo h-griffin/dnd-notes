@@ -67,39 +67,39 @@
             searchInput: document.getElementById('search-input'),
             resultsContainer: document.getElementById('results-container'),
             json: '{{ site.baseurl }}/search.json',
-            searchResultTemplate: '<li><a href="{url}?query={query}" title="{title}"><small>{title}</small> {content}</a></li>',
+            searchResultTemplate: '<li><a href="{url}?query={query}" title="{title}"><small>{date} {title}</small> {content}</a></li>',
             noResultsText: 'No results found',
             limit: 25, // 10
             fuzzy: false,
             exclude: ['Welcome'],
             // Middleware runs on every matched field inside your search template
             templateMiddleware: function(prop, value, template) {
-                console.log("templateMiddleware: ", prop, "\n", template, "\n" , value)
 
-                if (prop === 'title' || prop === 'content' || prop === 'date') {
+                console.log("templateMiddleware: ", prop, "\n", template, "\n" , value);
+                
+                // Only apply the context & highlight logic to the 'content' property!
+                if (prop === 'content') {
                     var query = document.getElementById('search-input').value;
                     if (query) {
-                        const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-
-                        // global match to find all occurrences
+                        const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); 
                         const contextRegex = new RegExp(`(?:\\w+\\W+){0,4}?${escapedQuery}(?:\\W+\\w+){0,4}`, 'gi');
-
                         const matches = [...value.matchAll(contextRegex)];
+                        
                         if (matches.length === 0) return '';
-
+                        
                         return matches.map(matchArr => {
-                            const match = matchArr[0];
-                            // simplify the regex to exactly match the target without overlapping capture groups
-                            const highlightRegex = new RegExp(`(.*?)(${escapedQuery})(.*)`, 'i');
-                            // g1 (everything before), g2 (the exact query match), and g3 (everything after)
+                            const match = matchArr[0]; 
+                            const highlightRegex = new RegExp(`(.*?)(${escapedQuery})(.*)`, 'i'); 
                             return match.replace(highlightRegex, (fullMatch, g1, g2, g3) => {
-                                return `${g1}<mark>${g2}</mark>${g3}`;  
+                                return `${g1}<mark>${g2}</mark>${g3}`;
                             });
-                        }).join(' ... '); 
-                        }
+                        }).join(' ... ');
                     }
+                }
                 
-                return value;
+                // Return original value for all other fields (title, date, url, etc.)
+                return value; 
+ 
                 }
             }); 
  
