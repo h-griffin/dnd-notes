@@ -88,49 +88,74 @@
             exclude: ['Welcome'],
             // Middleware runs on every matched field inside your search template
             templateMiddleware: function(prop, value, template) {
-                console.log("templateMiddleware: ", prop, template, "\n" , value)
+                // console.log("templateMiddleware: ", prop, "\n", template, "\n" , value)
 
-                if (prop === 'title' || prop === 'content' || prop === 'url') {
+                if (prop === 'title' || prop === 'content' || prop === 'date') {
                     var query = document.getElementById('search-input').value;
                     if (query) {
-                        if (prop === 'title' || prop === 'url'){ 
-                            var escapedQuery = query.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+                        if (prop === 'title' || prop === 'date'){ 
+                            var escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                            var regex = new RegExp('(' + escapedQuery + ')([a-z]*)', 'gi');
                             
-                            // Replace the matched term with a highlighted HTML element
-                            // second capture group for incomplete match
-                            var highlighted = value.replace(new RegExp('(' + escapedQuery + ')([a-z]*)', 'gi'), '<mark>$1</mark>$2');
+                            // group1 (escaped query) group2 ([a-z]* group)
+                            var highlighted = value.replace(regex, function(match, group1, group2) {
+                                return `<mark>${group1}</mark>` + (group2 || '');
+                            });
 
-                            console.log(" prop title or url hightlight:", highlighted)
-                            if (prop === 'url'){
-                                return `<li><a href="{url}?query={query}" title="{title}">` + {highlighted} + `</a></li>`;
-                            }
-
-                            return `<li><a href="{url}?query={query}" title="{title}">{title}</a></li>`;
+                            return highlighted;
                         } 
                         if (prop === 'content'){
-                            
-                            // Escape regex specials
+
                             const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-                            
-                            // Create a regex to grab 4 words around the query
-                            const regex = new RegExp(`(?:\\w+\\W+){0,4}${escapedQuery}(?:\\W+\\w+){0,4}`, 'g');
-                            
-                            const matches = value.match(regex); // output [word match word, word match word]
-                            console.log("matches: ", matches)
-                            
-                            if (!matches) return '';
-                            
-                            return matches.map(match => { 
-                                // Replace the matched term with a highlighted HTML element
-                                // second cappture group
-                                var highlighted = match.replace(new RegExp('(' + escapedQuery + ')', 'gi'), '<mark>$1</mark>$2');
-                                console.log("content metches ->  highlight", match, highlighted)
 
-                                return highlighted
-                                  
-                                // return match.replace(new RegExp(escapedQuery, 'g'), `<mark>${query}</mark>`);
+                            // 1. Use global match to find all occurrences
+                            const contextRegex = new RegExp(`(?:\\w+\\W+){0,4}?${escapedQuery}(?:\\W+\\w+){0,4}`, 'gi');
 
-                            }).join(' ... ');// output "word match word... word match word"
+                            // Use matchAll to get robust iterators instead of simple match()
+                            const matches = [...value.matchAll(contextRegex)];
+                            console.log("all matches: ", matches);
+                            if (matches.length === 0) return '';
+
+                            return matches.map(matchArr => {
+                                const match = matchArr[0];
+                                // 2. Simplify the regex to exactly match the target without overlapping capture groups
+                                const highlightRegex = new RegExp(`(.*?)(${escapedQuery})(.*)`, 'i');
+                                
+                                // g1 (everything before), g2 (the exact query match), and g3 (everything after)
+                                return match.replace(highlightRegex, (fullMatch, g1, g2, g3) => {
+                                    console.log("Groups -> ", "\n", g1, "\n", g2, "\n", g3);
+
+                                    return `${g1}<mark>${g2}</mark>${g3}`;  
+                                });
+                            }).join(' ... ');
+                            
+                               
+                            // Escape regex specials
+                            // const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                            
+                            // // Create a regex to grab 4 words around the query
+                            // const regex = new RegExp(`(?:\\w+\\W+){0,4}${escapedQuery}(?:\\W+\\w+){0,4}`, 'g');
+                            
+                            // const matches = value.match(regex); // output [word match word, word match word]
+                            // console.log("matches: ", matches)
+                            // if (!matches) return '';
+                            
+                            // return matches.map(match => { 
+                            //     // Replace the matched term with a highlighted HTML element
+                            //     // second cappture group
+                                
+                                
+                            //     const result = match.replace(new RegExp('(' + escapedQuery + ')', 'gi'), (match, p1, p2) => {
+                            //         console.log("content matches ->  highlight", "\n", match, "\n", p1, " \n", p2)
+                            //         return `<mark>${p1}</mark>${p2}`;
+                            //     });
+                            //     // return highlighted
+                            //     return result
+                                
+                            //     // var highlighted = match.replace(new RegExp('(' + escapedQuery + ')', 'gi'), `<mark>$1</mark>`);
+                            //     // return match.replace(new RegExp(escapedQuery, 'g'), `<mark>${query}</mark>`);
+
+                            // }).join(' ... ');// output "word match word... word match word"
     
                         }
                     }
