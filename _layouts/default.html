@@ -92,21 +92,38 @@
                     var query = document.getElementById('search-input').value;
                     
                     if (query) {
-                        // Escape query for regex
+                        // Escape regex specials
                         const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-                        console.log("--escapedQuery", escapedQuery)
-
-                        // Create the regex pattern - 5 before, the query, and 5 after
-                        const regex = new RegExp(`(?:\\s*\\S+){0,5}\\s*(${escapedQuery})\\s*(?:\\S+\\s*){0,5}`, 'i');
-                        console.log("--regex", regex)
                         
-                        const match = value.match(regex);
-                        console.log("--match", match, match[1], escapedQuery)
-
-                        // Replace the matched query with highlighted version
-                        const highlighted = value.replace(match[1], `<mark>${match[1]}</mark>`);
-                        return highlighted.trim();
+                        // Create a regex to grab words around the query
+                        const regex = new RegExp(`(?:\\w+\\W+){0,5}${escapedQuery}(?:\\W+\\w+){0,5}`, 'g');
                         
+                        const matches = value.match(regex);
+                        if (!matches) return '';
+                        
+                        return matches.map(match => {
+                            // Highlight query
+                            return match.replace(new RegExp(escapedQuery, 'g'), `<mark>${query}</mark>`);
+                        }).join(' ... ');
+
+                        // ---- truncate and highlihgt (grabs one first match)
+                        // // Escape query for regex
+                        // const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                        // console.log("--escapedQuery", escapedQuery)
+
+                        // // Create the regex pattern - 5 before, the query, and 5 after
+                        // const regex = new RegExp(`(?:\\s*\\S+){0,5}\\s*(${escapedQuery})\\s*(?:\\S+\\s*){0,5}`, 'i');
+                        // console.log("--regex", regex)
+                        
+                        // const match = value.match(regex);
+                        // console.log("--match", match, match[1], escapedQuery)
+
+                        // // Replace the matched query with highlighted version
+                        // const highlighted = value.replace(match[1], `<mark>${match[1]}</mark>`);
+                        // return highlighted.trim();
+                        
+                        
+                        // ---- highlight and return all content
                         // // Escape regex special characters so the search doesn't crash
                         // var escapedQuery = query.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
                         // console.log("--escapedQuery", escapedQuery)
