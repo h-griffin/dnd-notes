@@ -59,18 +59,66 @@
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <script src="{{ "/assets/js/simple-jekyll-search.min.js" | relative_url }}"></script>
 
+
     <script>
-      window.simpleJekyllSearch = new SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('results-container'),
-        json: '{{ site.baseurl }}/search.json',
-        // searchResultTemplate: '<li><a href="{url}?query={query}" title="{title}">{title}</a></li>',
-        searchResultTemplate: '<li><a href="{url}?query={query}" title="{title}">{content}</a></li>',
-        noResultsText: 'No results found',
-        limit: 10,
-        fuzzy: false,
-        exclude: ['Welcome']
-      })
+
+        
+        // const text = "The quick brown fox jumps over the lazy dog and runs away quickly.";
+        // const query = "fox";
+        // const nWords = 5;
+        // Captures N words before, the query, and N words after
+        // const match = text.match(regex);
+        // const regex = new RegExp(`(?:(\\W*\\w+){0,${nWords}})\\b(${query})\\b(?:(\\W*\\w+){0,${nWords}})\\b`, "i");
+        // if (match) {
+        //     match[0] contains the full matched string
+        //     console.log(match[0]); 
+        // }
+        // Output: brown fox jumps over the lazy
+        
+        window.simpleJekyllSearch = new SimpleJekyllSearch({
+            searchInput: document.getElementById('search-input'),
+            resultsContainer: document.getElementById('results-container'),
+            json: '{{ site.baseurl }}/search.json',
+            // searchResultTemplate: '<li><a href="{url}?query={query}" title="{title}">{title}</a></li>',
+            searchResultTemplate: '<li><a href="{url}?query={query}" title="{title}">{content}</a></li>',
+            noResultsText: 'No results found',
+            limit: 20, // 10
+            fuzzy: false,
+            exclude: ['Welcome'],
+            // Middleware runs on every matched field inside your search template
+            templateMiddleware: function(prop, value, template) {
+                console.log("--templateMiddleware", prop, value, template)
+                if (prop === 'title' || prop === 'content') {
+                    var query = document.getElementById('search-input').value;
+                    
+                    if (query) {
+                        // Escape regex special characters so the search doesn't crash
+                        var escapedQuery = query.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+                        
+                        // Create a regex modifier to highlight globally and case-insensitively
+                        var regex = new RegExp('(' + escapedQuery + ')', 'gi');
+                        
+                        // Replace the matched term with a highlighted HTML element
+                        return value.replace(regex, '<mark>$1</mark>');
+                    }
+                }
+                return value;
+                }
+            });
+    //   window.simpleJekyllSearch = new SimpleJekyllSearch({
+    //     searchInput: document.getElementById('search-input'),
+    //     resultsContainer: document.getElementById('results-container'),
+    //     json: '{{ site.baseurl }}/search.json',
+    //     // searchResultTemplate: '<li><a href="{url}?query={query}" title="{title}">{title}</a></li>',
+    //     searchResultTemplate: '<li><a href="{url}?query={query}" title="{title}">{content}</a></li>',
+    //     noResultsText: 'No results found',
+    //     limit: 10,
+    //     fuzzy: false,
+    //     exclude: ['Welcome']
+    //   })
+
+
+      
     </script>
   </body>
 </html>
