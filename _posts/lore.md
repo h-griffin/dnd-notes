@@ -187,6 +187,9 @@
 - has normans/baston grimms dark grimmuar when leaving with prime manor *S37*
 - gnome size automiton escribed "I Randall" *S51*
 
+## Nocturne
+- interdimensional police force, perserve the timeline and multiverse
+
 # === PLACES ===
 
 ## Holly Isle

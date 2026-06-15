@@ -3,5 +3,11 @@
 "prettier.useTabs": false,
 "[liquid]": {
     "editor.formatOnSave": true
-}
+},
+"cSpell.words": [
+    "arryn",
+    "arthas",
+    "kaneki",
+    "koromi"
+]
 }
