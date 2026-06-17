@@ -32,7 +32,9 @@ layout: default
     <!-- jump to -->
     {{content}}
     <ol>
-        {% for name, posts in site.categories %}
+        {% for cat in site.categories %}
+        {% assign name = cat[0] %}
+        {% assign posts = cat[1] %}
             <li>
                 <h3>{{ name | replace: '-', ' ' | capitalize }}</h3>
                 <ul>
@@ -78,7 +80,7 @@ layout: default
         <tbody>
             <tr>
                 <td style="text-align: left"> </td>
-                <td style="text-align: center"> <a href="{{ '/'' | absolute_url }}">All Chapters</a> </td>
+                <td style="text-align: center"> <a href="{{ '/' | absolute_url }}">All Chapters</a> </td>
                 <td style="text-align: right"> </td>
             </tr> 
             <tr>
