@@ -1,7 +1,7 @@
 --- 
 layout: collection
 display_type: chapter
-tags: [Port Artorious on Anchorabay, Port Artorious Prison] 
+tags: [Port Artorious on Anchorabay, coral pink Cathedral, Port Artorious Prison] 
 prev_title: 4
 prev_url: ../chapter-04 
 next_title: 6

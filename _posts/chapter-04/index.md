@@ -11,7 +11,7 @@ chapter_num: chapter-04
 description: |- 
   investigate the war between air and sky (birds vs storm) at Batallion 5 hq in the Pilar of Clouds <br>
 
-  explore the bridge city Bruke and battle agents of the All Bloom in Angakar, the vacant enchanted grung town, while searching for Samuel the missing bird.
+  explore the bridge city Bruke and battle agents of the All Bloom in Angakaar, the vacant enchanted grung town, while searching for Samuel the missing bird.
 ---    
 
 ## table of contents
@@ -27,8 +27,8 @@ description: |-
 29. [The Shade and Mushrooms](./2024-01-10.md)
 30. [Agents of The All Bloom](./2024-01-17.md)
 31. [Pancakes for Angakkar](./2024-01-24.md)
-32. [Defending Angarkar: myconid](./2024-01-31.md)
-33. [Defending Angarkar: himiwari](./2024-02-07.md)
+32. [Defending Angakaar: myconid](./2024-01-31.md)
+33. [Defending Angakaar: himiwari](./2024-02-07.md)
 34. [The Burned Cabin and the Missing Arakokra](./2024-02-14.md)
 35. [The Feast of Saint Carles](./2024-02-21.md)
 36. [The Doctor](./2024-02-28.md)

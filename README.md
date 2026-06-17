@@ -6,4 +6,4 @@
 - [lore](./_posts/lore.md)
 - [party](./_posts/party.md)
 
-![map img](./assets/img/map.png)
+![map img](./assets/img/Ab_Aeterno_World_Map.png)

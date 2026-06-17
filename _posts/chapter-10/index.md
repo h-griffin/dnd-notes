@@ -16,7 +16,7 @@ description: |-
 
 ## table of contents
 79. [Kuromi Gets Arrested](./2025-02-05.md)
-80. [Mama K interview and teh Cocksroost](./2025-02-12.md)
+80. [Mama K interview and the Cocksroost](./2025-02-12.md)
 81. [Cletus vs Dr Richmond](./2025-02-19.md)
 82. [GiggleWorks gets Demolished](./2025-02-26.md)
 83. [Fight Club and Kareoke Night](./2025-03-05.md)

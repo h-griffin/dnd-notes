@@ -1,7 +1,7 @@
 ---  
 layout: collection
 display_type: chapter
-tags: [ Lucky and Blues, Tartarus the eternal wizard prison ]  
+tags: [ Lucky and Blues, The Shadows, wizard prisons, Ebbonguard dead mans island ]  
 prev_title: 10
 prev_url: ../chapter-10
 next_title: 12

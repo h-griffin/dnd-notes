@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: All Posts
-display_type: posts 
+display_type: posts
 ---
 
 **Jump to**

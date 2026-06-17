@@ -1,6 +1,7 @@
 ---  
-layout: post
-tags: [ Aton, Temple of Deeps, Horizons End, Temple of Bethmora, Atons coral throne ]  
+layout: collection
+display_type: chapter
+tags: [ lost city of Aton, Temple of Deeps, Horizons End, Temple of Bethmora, Nocturne, Atons coral throne ]  
 prev_title: 13
 prev_url: ../chapter-13
 next_title: 15
@@ -9,7 +10,15 @@ title: "Free Aton from the Collector"
 chapter_num: chapter-14
 description: |-    
    flip upside down from Horizons End to Atton. at the bottom of the ocean Captain Sykes sheds light on Hydronor before clearing The Temple of Bethmora and defeating The Collector at Aton's coral throne freeing the people of the ocean.
----   
+--- 
+
+## maybe later missions
+- return to red starholder woman in elysium
+- talk to blue about sykes/hydor
+- candle jack
+- silas working on dragon talets, aether/creation itself
+- find dream shard, piece of universe, dread can be unmade (kato ra el being released soon)
+- (pip) find automitrons from prime manor, made by issac randal
 
 ## table of contents
 123. [Water Wall to Attan](./2026-03-08.md)

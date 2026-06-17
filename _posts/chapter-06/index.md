@@ -3,9 +3,9 @@ layout: collection
 display_type: chapter
 tags: [ Requiems Wake, Hiyaro island ] 
 prev_title: 5
-prev_url: ../act-05
+prev_url: ../chapter-05
 next_title: 7
-next_url: ../act-07
+next_url: ../chapter-07
 title: "Defeat the AllBloom"
 chapter_num: chapter-06
 description: |-   
