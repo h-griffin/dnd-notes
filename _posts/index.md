@@ -4,12 +4,6 @@ title: All Posts
 display_type: posts
 ---
 
-**Jump to**
-
-- [important links](#important-links)
-
-***
-
 **important links**
 
 - [Lore notes](./lore.md)
