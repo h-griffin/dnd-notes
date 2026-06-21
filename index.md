@@ -1,6 +1,7 @@
 ---
 layout: collection
-title: "home"
+title: "Home"
+display_type: home
 ---
  
 -  [All Posts](./_posts)
