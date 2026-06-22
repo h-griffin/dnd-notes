@@ -29,12 +29,12 @@ layout: default
                         {% endfor %}
                     {% endcapture %}
                      
-                    <h3><a href="_posts/{{ slug | relative_url }}">{{ titlecase }}</a></h3> 
+                    <h3><a href="_posts/{{ slug }}">{{ titlecase }}</a></h3> 
 
                     {% if details.tags %}
                         <small><em>{{ details.tags | join: "</em> - <em>" }}</em></small>
                     {% endif %}
-                    <p>{{ details.description }}</p>
+                    <p style="text-indent: 30px each-line;">{{ details.description }}</p>
                 </li>
             {% endfor %}
         </ol>
@@ -86,7 +86,7 @@ layout: default
                 </tr> 
                 <tr>
                     <td style="text-align: left"> </td>
-                    <td style="text-align: center"> <a href="{{ '/posts' | absolute_url }}">All Pages</a> </td>
+                    <td style="text-align: center"> <a href="{{ '/_posts' | absolute_url }}">All Pages</a> </td>
                     <td style="text-align: right"> </td>
                 </tr> 
                 <tr>
