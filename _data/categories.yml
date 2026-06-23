@@ -1,34 +1,34 @@
 chapter-01:
   title: "Clear Grimmhaus Manor"
-  tags: [Grimmhaus Manor, Prime Manor]
-  description: "investigate grimmhaus manor, the family photos and experiments in underground lab before it burns down."
+  tags: [ Grimmhaus Manor, Grimm mausoleum, Prime Manor ]
+  description: "investigate grimmhaus manor, the family photos and experiments in underground lab before destroying a dread altar in the grimm family mausoleum before it burns down."
 chapter-02:
   title: "Find Baston Grimm"
-  tags: [ Prime Manor, city of Grimmwold in Eastern Dalsead, city of Hamarat in Taloa, Ambrosius Casino ]
-  description: "move into new teleporting base at Eton/Indigo's Prime Manor.<br> explore the city of Hamarat in search of Ambrosius Casino and aetheric shards before burning down the casino."
+  tags: [ Prime Manor, city of Grimmwold, city of Hamarat, Ambrosius Casino ]
+  description: "move into new teleporting base at Eton/Indigo's Prime Manor before moving to the city of Hamarat in Taloa, where empire of dawn spies follow while searching for aetheric shards. <br>socialize in the VIP room before robbing the vault and burning down Ambrosious Casino."
 chapter-03:
   title: "Find Shaza El"
-  tags: [city of Takrati in Taloa, temple of Shaza El Mabad] 
+  tags: [ city of Takrati, the desert, temple of Shaza El Mabad ] 
   description: "explore the city of Tikrati and cross the sand to The Temple of Shaza El guided by the Sand Sculptor.<br> the party endures personal nightmares and each granted one question from the el after appeasing the guardian cats then attacking them to enter."
 chapter-04:
   title: "Investigate the AllBloom"
-  tags: [ Batallion-5 HQ in Pillar of Clouds, bridge city of Bruke in the Bogflats, grung city of Angakkar in Tarleighhold]
-  description: "investigate the war between air and sky (birds vs storm) at Batallion 5 hq in the Pilar of Clouds <br> explore the bridge city Bruke and battle agents of the All Bloom in Angakaar, the vacant enchanted grung town, while searching for Samuel the missing bird."
+  tags: [ Pillar of Clouds, Battalion-5 HQ, bridge city of Bruke, grung city of Angakaar ]
+  description: "investigate the war between air and sky (birds vs storm) at Battalion 5 hq in the Pilar of Clouds <br> explore the bridge city Bruke and battle agents of the All Bloom in Angakaar, the vacant enchanted grung town, while searching for Samuel the missing bird."
 chapter-05:
   title: "Pirate Games"
-  tags: [ Port Artorious on Anchorabay, coral pink Cathedral, Port Artorious Prison] 
-  description: "arrive in Port Artorious to celebrate The Pirate Games and aquire a cursed boat. <br> jailbreak the Danger ship crew from Port Artorious Prison while releasing the Empire of Dawn's ancient tiger prisoner."
+  tags: [ Port Artorious, coral pink Cathedral, Decklins Island, Port Artorious Prison ] 
+  description: "arrive in Port Artorious to celebrate The Pirate Games and aquire a cursed boat, descover papers and clues on Decklins Island. <br> jailbreak the Danger ship crew from Port Artorious Prison while releasing the Empire of Dawn's ancient tiger prisoner."
 chapter-06:
   title: "Defeat the AllBloom"
-  tags: [ Requiems Wake, Hiyaro island ] 
+  tags: [ Requiems Wake, Scattered Islands, city of Hyaro ] 
   description: "investigate a beached kraken and take over Requiems Wake while laying low on Decklin's Island after the Five Points Cathedreal turns their back on the AllBloom. <br> the party defeats the Moth from the cocoon blight in hyaru after seeing a forest of petrified elves. <br>"
 chapter-07:
   title: "Establishing Hope"
-  tags: [ Hope, Willow Glade school in Isle of Roses ] 
+  tags: [ Hope, Isle of Roses, Willow Glade school ] 
   description: "establish, defend, and leave new HQ Hope to visit cartographers at orphanage on the isle of roses and aquire wine to sell for entry to Demans."
 chapter-08:
   title: "City of Dimans"
-  tags: [city of Dimans, Beaumont Estate, the Stockyard, Giggleworks, Cloudmark Palace ]
+  tags: [ city of Dimans, Beaumont Estate, Stockyard, Giggleworks, Cloudmark Palace ]
   description: "stay at the Beaumont Estate while wrangling local loose wyrds and orphans from isle of roses hidden in the partys cargo into advanced tech city Dimans (Gotham) <br> The Rat Catcher crashes the town ball before the city border goes under lockdown."
 chapter-09:
   title: "Dimans under lockdown"
@@ -44,17 +44,17 @@ chapter-11:
   description: "Hope gets a scrying pool under the hird tree and the library has a breakthrough in dread books before defending city from an enchanting kpop performance. <br> Etons associate Malekai sheds light on Shaza El and Candle Jack before the party steps into the dark shadows and sees carter randal in another time, earning keys and entry through Ebbonguard to wizard prisons."
 chapter-12:
   title: "Entry to Elysium"
-  tags: [ Hope, the Wildmores, Mossrock lodge, ruined city of T'arhriel, Solaris-Celestia mausoleum, Eleysium city beyond the stars, Elseridge Academy, Zeit Geist World Library, shrine of Infinite Prism, garden of Riven El ] 
+  tags: [ Hope, the Wildmores, Mossrock lodge, Hirdwell, ruined city of T'arhriel, Solaris-Celestia mausoleum, Eleysium city beyond the stars, Elseridge Academy, Zeit Geist World Library, shrine of Infinite Prism, garden of Riven El ] 
   description: "Auri returns to the Wildmores and steal an ice drake in Mossrock while locating a missing person before finding the mausoleum in T'arhriel. <br /> speak with Silvaris the Silver Tree where Arthas takes the place of the yellow star Solara to get into Elysium and speak with the Reverend Mother Pura in the garden of Riven El."
 chapter-13:
   title: "Sailing to Horizons End"
-  tags: [ Requiems Wake, Port Artorious, Korali Cay, floating city of Jetsam, Horizons End ] 
+  tags: [ Requiems Wake, Port Artorious, the Shattered Islands, Korali Cay, floating city of Jetsam, Horizons End ] 
   description: "sail to Port Artorious and help the ragged crew prison break, and resand corallie cay to uncurse the boat to sail to Horizons End and flip upside down to Atton. <br> at the bottom of the ocean Captain Sykes sheds light on Hydronor before clearing The Temple of Bethmora and defeating The Collector at Aton's coral throne freeing the people of the ocean."
 chapter-14:
   title: "Free Aton from the Collector"
-  tags: [ lost city of Aton, Temple of Deeps, Horizons End, Temple of Bethmora, Nocturne, Atons coral throne ]  
+  tags: [ lost city of Aton, Temple of Deeps, the Shattered Islands, Horizons End, Temple of Bethmora, Nocturne, Atons coral throne ]  
   description: "flip upside down from Horizons End to Atton. at the bottom of the ocean Captain Sykes sheds light on Hydronor before clearing The Temple of Bethmora and defeating The Collector at Aton's coral throne freeing the people of the ocean."
 chapter-15:
   title: "Journey to Piers Dias"
-  tags: [ Requiems Wake ]
+  tags: [ Requiems Wake, the Lost Island, T'Avalon ]
   description: "Journey to Piers Dias at the end of the world in search of the flame of valor."

@@ -1,7 +1,7 @@
 ---  
 layout: collection
 display_type: chapter 
-tags: [city of Dimans, Beaumont Estate, the Stockyard, Giggleworks, Cloudmark Palace ball ]  
+tags: [ city of Dimans, Beaumont Estate, Stockyard, Giggleworks, Cloudmark Palace ]  
 prev_title: 7
 prev_url: ../chapter-07
 next_title: 9

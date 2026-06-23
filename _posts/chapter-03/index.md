@@ -1,7 +1,7 @@
 --- 
 layout: collection
 display_type: chapter 
-tags: [city of Takrati in Taloa, temple of Shaza El Mabad]   
+tags: [ city of Takrati, the desert, temple of Shaza El Mabad ]   
 prev_title: 2
 prev_url: ../chapter-02
 next_title: 4

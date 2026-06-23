@@ -1,7 +1,7 @@
 --- 
 layout: collection
 display_type: chapter
-tags: [Port Artorious on Anchorabay, coral pink Cathedral, Port Artorious Prison] 
+tags: [ Port Artorious, coral pink Cathedral, Decklins Island, Port Artorious Prison ] 
 prev_title: 4
 prev_url: ../chapter-04 
 next_title: 6
@@ -9,7 +9,7 @@ next_url: ../chapter-06
 title: "Pirate Games"
 chapter_num: chapter-05
 description: |-  
-  arrive in Port Artorious to celebrate The Pirate Games and aquire a cursed boat. <br>
+  arrive in Port Artorious to celebrate The Pirate Games and aquire a cursed boat, descover papers and clues on Decklins Island. <br>
   
   jailbreak the Danger ship crew from Port Artorious Prison while releasing the Empire of Dawn's ancient tiger prisoner. 
  

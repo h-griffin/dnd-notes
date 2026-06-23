@@ -1,7 +1,7 @@
 ---  
 layout: collection
 display_type: chapter
-tags: [ Hope, the Wildmores, Mossrock lodge, ruined city of T'arhriel, Solaris-Celestia mausoleum, Eleysium city beyond the stars, Elseridge Academy, Zeit Geist World Library, shrine of Infinite Prism, garden of Riven El ]   
+tags: [ Hope, the Wildmores, Mossrock lodge, Hirdwell, ruined city of T'arhriel, Solaris-Celestia mausoleum, Eleysium city beyond the stars, Elseridge Academy, Zeit Geist World Library, shrine of Infinite Prism, garden of Riven El ]   
 prev_title: 11
 prev_url: ../chapter-11
 next_title: 13

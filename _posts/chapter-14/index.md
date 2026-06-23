@@ -1,7 +1,7 @@
 ---  
 layout: collection
 display_type: chapter
-tags: [ lost city of Aton, Temple of Deeps, Horizons End, Temple of Bethmora, Nocturne, Atons coral throne ]  
+tags: [ lost city of Aton, Temple of Deeps, the Shattered Islands, Horizons End, Temple of Bethmora, Nocturne, Atons coral throne ]  
 prev_title: 13
 prev_url: ../chapter-13
 next_title: 15

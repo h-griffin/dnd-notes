@@ -1,7 +1,7 @@
 --- 
 layout: collection
 display_type: chapter
-tags: [ Prime Manor, city of Grimmwold in Eastern Dalsead, city of Hamarat in Taloa, Ambrosius Casino ]   
+tags: [ Prime Manor, city of Grimmwold, city of Hamarat, Ambrosius Casino ]   
 prev_title: 1
 prev_url: ../chapter-01 
 next_title: 3
@@ -9,8 +9,8 @@ next_url: ../chapter-03
 title: "Find Baston Grimm"
 chapter_num: chapter-02
 description: |-
-  move into new teleporting base at Eton/Indigo's Prime Manor.
-  <br> explore the city of Hamarat in search of Ambrosius Casino and aetheric shards before burning down the casino.
+  move into new teleporting base at Eton/Indigo's Prime Manor before moving to the city of Hamarat, Taloa where empire of dawn spies follow while searching for aetheric shards.
+  <br>socialize in the VIP room before robbing the vault and burning down Ambrosious Casino.
 ---  
  
 ## table of contents

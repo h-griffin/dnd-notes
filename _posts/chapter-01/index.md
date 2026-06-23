@@ -1,13 +1,13 @@
 --- 
 layout: collection
 display_type: chapter  
-tags: [Grimmhaus Manor, Prime Manor] 
+tags: [ Grimmhaus Manor, Grimm mausoleum, Prime Manor ] 
 next_title: 2
 next_url: ../chapter-02  
 title: "Clear Grimmhaus Manor" 
 chapter_num: chapter-01
 description: |-
-  investigate grimmhaus manor, the family photos and experiments in underground lab before it burns down.
+  investigate grimmhaus manor, the family photos and experiments in underground lab before destroying a dread altar in the grimm family mausoleum before it burns down.
 --- 
 
 ## table of contents

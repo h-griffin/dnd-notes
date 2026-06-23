@@ -1,7 +1,7 @@
 ---  
 layout: collection
 display_type: chapter
-tags: [Batallion-5 HQ in Pillar of Clouds, bridge city of Bruke in the Bogflats, grung city of Angakkar in Tarleighhold]  
+tags: [ Pillar of Clouds, Battalion-5 HQ, bridge city of Bruke, grung city of Angakaar ]  
 prev_title: 3
 prev_url: ../chapter-03 
 next_title: 5
@@ -9,7 +9,7 @@ next_url: ../chapter-05
 title: "Investigate the AllBloom"
 chapter_num: chapter-04
 description: |- 
-  investigate the war between air and sky (birds vs storm) at Batallion 5 hq in the Pilar of Clouds <br>
+  investigate the war between air and sky (birds vs storm) at the Battalion 5 hq in the Pilar of Clouds <br>
 
   explore the bridge city Bruke and battle agents of the All Bloom in Angakaar, the vacant enchanted grung town, while searching for Samuel the missing bird.
 ---    

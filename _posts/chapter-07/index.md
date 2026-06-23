@@ -1,7 +1,7 @@
 ---  
 layout: collection
 display_type: chapter 
-tags: [ Hope, Willow Glade school in Isle of Roses ]  
+tags: [ Hope, Isle of Roses, Willow Glade school ]  
 prev_title: 6
 prev_url: ../chapter-06
 next_title: 8

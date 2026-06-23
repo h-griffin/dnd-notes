@@ -1,7 +1,7 @@
 ---  
 layout: collection
 display_type: chapter
-tags: [ Requiems Wake, Port Artorious, Korali Cay, floating city of Jetsam, Horizons End ]  
+tags: [ Requiems Wake, Port Artorious, the Shattered Islands, Korali Cay, floating city of Jetsam, Horizons End ]  
 prev_title: 12
 prev_url: ../chapter-12
 next_title: 14

@@ -1,7 +1,7 @@
 --- 
 layout: collection
 display_type: chapter
-tags: [ Requiems Wake, Hiyaro island ] 
+tags: [ Requiems Wake, Scattered Islands, city of Hyaro ] 
 prev_title: 5
 prev_url: ../chapter-05
 next_title: 7
