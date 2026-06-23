@@ -7,7 +7,7 @@ prev_url: ../chapter-05
 next_title: 7
 next_url: ../chapter-07
 title: "Entry to Dimans"
-chapter_num: chapter-06
+category: chapter-06
 description: |-   
   establish, defend, and leave new HQ Hope to visit cartographers at orphanage on the isle of roses and aquire wine to sell for entry to Demans. 
   

@@ -7,7 +7,7 @@ prev_url: ../chapter-03
 next_title: 5
 next_url: ../chapter-05 
 title: "Pirate Games"
-chapter_num: chapter-04
+category: chapter-04
 description: |- 
   arrive in Port Artorious to celebrate The Pirate Games and acquire a cursed boat from the oaktoe shipmaster, discover papers and clues on Decklins Island. 
   <br> jailbreak the Danger ship crew from Port Artorious Prison while releasing the Empire of Dawn's ancient tiger prisoner.

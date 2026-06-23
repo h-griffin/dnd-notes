@@ -13,7 +13,7 @@ layout: default
         
         {% assign latest_post = site.posts.first %}
         {% if latest_post %}
-            <p id="notice">Latest File:<a href="{{ latest_post.url | relative_url }}"> {{ latest_post.page_num }} - {{ latest_post.title }} </a> </p>
+            <p id="notice">Latest File:<a href="{{ latest_post.url | relative_url }}">{{ latest_post.date }} {{ latest_post.title }} </a> </p>
         {% endif %}
         
         <h2>All Chapters</h2>
@@ -51,7 +51,7 @@ layout: default
         <ol>
             {% for cat in site.categories %}
                 <!-- cat[0] is the name, cat[1] is the array of posts -->
-                <h2>{{ cat[0] | capitalize }}</h2>
+                <h3>{{ cat[0] | replace: '-', ' ' | capitalize }}</h3>
                 <ul>
                     {% for post in cat[1] %}
                     <li>
@@ -92,18 +92,20 @@ layout: default
             </tbody>
         </table>
 
-        <!-- {% assign chapter_posts = site.posts | where: "chapter_title", page.chapter_num %} -->
-        {% assign chapter_posts = site.categories[page.chapter_num] %}
+        {% assign chapter_posts = site.categories[page.category] %}
 
-        <h1>{{ page.chapter_num | replace: '-', ' ' | capitalize }}: {{ page.title | capitalize }}</h1> 
-        <p>{{ page.description }}</p> 
+        <h1 style="text-align: center;">{{ page.category | replace: '-', ' ' | capitalize }} <br> {{ page.title | capitalize }}</h1> 
+        <p style="text-indent: 30px each-line;">{{ page.description }}</p> 
         <ul>
             {% for post in chapter_posts %}
                 <li>
                     {% if post.page_num %}
-                        <a href="{{ post.url | relative_url }}"> {{ post.page_num }}: {{ post.title }} </a>
+                        <a href="{{ post.url | relative_url }}"> {{ post.page_num }} - {{ post.title }} 
+                            {% if post.tags %} <small><em>{{ post.tags | join: "</em> - <em>" }}</em></small> {% endif %}
+                        </a>
                     {% else %}
-                        <a href="{{ post.url | relative_url }}"> {{ forloop.index }}: {{ post.title }} </a>
+                        <a href="{{ post.url | relative_url }}">{{ post.title }}
+                            {% if post.tags %} <small><em>{{ post.tags | join: "</em> - <em>" }}</em></small> {% endif %} </a>
                     {% endif %}
                 </li>
             {% endfor %}

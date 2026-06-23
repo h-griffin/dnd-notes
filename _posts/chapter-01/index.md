@@ -4,8 +4,8 @@ display_type: chapter
 tags: [ Grimmhaus Manor, Grimm mausoleum, Prime Manor, city of Grimmwold, city of Hamarat, Ambrosius Casino ] 
 next_title: 2
 next_url: ../chapter-02  
+category: chapter-01  
 title: "Find Baston Grimm" 
-chapter_num: chapter-01
 description: |-
   investigate grimmhaus manor, the family photos and experiments in underground lab before destroying a dread altar in the grimm family mausoleum before it burns down. 
   <br> move into new teleporting base at Eton/Indigo's Prime Manor before moving to the city of Hamarat in Taloa, where empire of dawn spies follow while searching for aetheric shards. 

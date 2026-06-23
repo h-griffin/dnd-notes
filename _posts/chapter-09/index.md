@@ -1,13 +1,13 @@
 ---  
 layout: collection
 display_type: chapter 
-tags: [ Hope, the Wildmores, Mossrock lodge, Hirdwell, ruined city of T'arhriel, Solaris-Celestia mausoleum, Eleysium city beyond the stars, Elseridge Academy, Zeit Geist World Library, shrine of Infinite Prism, garden of Riven El ]   
+tags: [ Hope, the Wildmores, Mossrock lodge, Hirdwell, ruined city of T'arhriel, Solaris-Celestia mausoleum, Eleysium city beyond the stars, Elseridge Academy, Zeit Geist World Library, garden of Riven El ]   
 prev_title: 9
 prev_url: ../chapter-08
 next_title: 10
 next_url: ../chapter-10
 title: "Entry to Elysium"
-chapter_num: chapter-09
+category: chapter-09
 description: |-   
   Auri returns to the Wildmores and steal an ice drake in Mossrock while locating a missing person before finding the mausoleum in T'arhriel. <br />
   

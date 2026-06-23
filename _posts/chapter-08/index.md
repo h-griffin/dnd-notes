@@ -7,7 +7,7 @@ prev_url: ../chapter-07
 next_title: 9
 next_url: ../chapter-09
 title: "Journey to Ebbonguard"
-chapter_num: chapter-08
+category: chapter-08
 description: |-   
   Hope gets a scrying pool under the hird tree and the library has a breakthrough in dread books before defending city from an enchanting kpop performance. <br>
 

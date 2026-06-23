@@ -7,7 +7,7 @@ prev_url: ../chapter-04
 next_title: 6
 next_url: ../chapter-06
 title: "Defeat the AllBloom"
-chapter_num: chapter-05
+category: chapter-05
 description: |-  
   investigate a beached kraken and take over Requiems Wake while laying low on Decklin's Island after the Five Points Cathedral turns their back on the AllBloom. <br>
 

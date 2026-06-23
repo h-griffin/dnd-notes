@@ -7,7 +7,7 @@ prev_url: ../chapter-02
 next_title: 4
 next_url: ../chapter-04
 title: "Investigate the AllBloom: Angakaar"
-chapter_num: chapter-03
+category: chapter-03
 description: |-
    investigate the war between air and sky (birds vs storm) at Battalion 5 hq in the Pilar of Clouds 
    <br> explore the bridge city Bruke and battle agents of the All Bloom in Angakaar, the vacant enchanted grung town, while searching for Samuel the missing bird. 

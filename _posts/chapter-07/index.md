@@ -1,13 +1,13 @@
 ---  
 layout: collection
 display_type: chapter 
-  tags: [ city of Dimans, Feather Downs, Astrolabe, Collegium, Sewers, Opera house ]
+tags: [ city of Dimans, Feather Downs, Astrolabe, Collegium, Sewers, Opera house ]
 prev_title: 6
 prev_url: ../chapter-06
 next_title: 8
 next_url: ../chapter-08
 title: "Dimans under lockdown"
-chapter_num: chapter-07
+category: chapter-07
 description: |-   
   with the city border under lockdown, the party sweeps an underground fight club in the feather downs after confrontations with the stockyard boys. 
   

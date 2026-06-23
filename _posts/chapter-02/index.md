@@ -7,7 +7,7 @@ prev_url: ../chapter-01
 next_title: 3
 next_url: ../chapter-03  
 title: "Find Shaza El"
-chapter_num: chapter-02
+category: chapter-02
 description: |-
   explore the city of Tikrati and cross the sand to The Temple of Shaza El guided by the Sand Sculptor.<br>
 
