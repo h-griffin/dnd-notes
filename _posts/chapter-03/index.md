@@ -1,29 +1,36 @@
 --- 
 layout: collection
 display_type: chapter 
-tags: [ city of Takrati, the desert, temple of Shaza El Mabad ]   
+tags: [ Pillar of Clouds, Battalion-5 HQ, bridge city of Bruke, grung city of Angakaar ]   
 prev_title: 2
 prev_url: ../chapter-02
 next_title: 4
 next_url: ../chapter-04
-title: "Find Shaza El"
+title: "Investigate the AllBloom: Angakaar"
 chapter_num: chapter-03
 description: |-
-  explore the city of Tikrati and cross the sand to The Temple of Shaza El guided by the Sand Sculptor.<br>
-
-  the party endures personal nightmares and each granted one question from the el after appeasing the guardian cats then attacking them to enter. 
+   investigate the war between air and sky (birds vs storm) at Battalion 5 hq in the Pilar of Clouds 
+   <br> explore the bridge city Bruke and battle agents of the All Bloom in Angakaar, the vacant enchanted grung town, while searching for Samuel the missing bird. 
 ---  
 
 ## table of contents
-11. [City of Takrati](./2023-08-23.md)
-12. [The Sand Sculptor](./2023-08-30.md)
-13. [Preparing for Desert Trip](./2023-09-06.md)
-14. [The Vacant Town](./2023-09-13.md)
-15. [Into the Desert](./2023-09-20.md)
-16. [Desert Manticores](./2023-09-27.md)
-17. [The Temple of Shaza El](./2023-10-04.md)
-18. [The Chamber of the El](./2023-10-11.md)
-19. [Shaza Els Deal](./2023-10-18.md)
+20. [The Pillar of Clouds](./2023-10-25.md)
+21. [The Bridge City](./2023-11-01.md)
+22. [The Storm Gem](./2023-11-08.md)
+23. [Thomnas Lightpost](./2023-11-15.md)
+24. [The VIP Room](./2023-11-29.md)
+25. [The Bridge Lockdown](./2023-12-06.md)
+26. [City of Angakkar](./23-12-013.md)
+27. [Recap and Planning](./2023-12-27.md)
+28. [The Toad Mother](./2024-01-02.md)
+29. [The Shade and Mushrooms](./2024-01-10.md)
+30. [Agents of The All Bloom](./2024-01-17.md)
+31. [Pancakes for Angakkar](./2024-01-24.md)
+32. [Defending Angakaar: myconid](./2024-01-31.md)
+33. [Defending Angakaar: himiwari](./2024-02-07.md)
+34. [The Burned Cabin and the Missing Arakokra](./2024-02-14.md)
+35. [The Feast of Saint Carles](./2024-02-21.md)
+36. [The Doctor](./2024-02-28.md)
 
 ## important links
 - [Lore notes](../lore.md)

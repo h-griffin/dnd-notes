@@ -6,19 +6,24 @@ prev_title: 1
 prev_url: ../chapter-01 
 next_title: 3
 next_url: ../chapter-03  
-title: "Find Baston Grimm"
+title: "Find Shaza El"
 chapter_num: chapter-02
 description: |-
-  move into new teleporting base at Eton/Indigo's Prime Manor before moving to the city of Hamarat, Taloa where empire of dawn spies follow while searching for aetheric shards.
-  <br>socialize in the VIP room before robbing the vault and burning down Ambrosious Casino.
+  explore the city of Tikrati and cross the sand to The Temple of Shaza El guided by the Sand Sculptor.<br>
+
+  the party endures personal nightmares and each granted one question from the el after appeasing the guardian cats then attacking them to enter and clearing all floors.
 ---  
  
 ## table of contents
-6. [City of Hamarat](./2023-07-17.md)
-7. [Ambrosius Casino](./2023-07-26.md)
-8. [VIP Room](./2023-08-02.md)
-9. [The Vault](./2023-08-07.md)
-10. [Return to Prime Manor](./2023-08-16.md)
+11. [City of Takrati](./2023-08-23.md)
+12. [The Sand Sculptor](./2023-08-30.md)
+13. [Preparing for Desert Trip](./2023-09-06.md)
+14. [The Vacant Town](./2023-09-13.md)
+15. [Into the Desert](./2023-09-20.md)
+16. [Desert Manticores](./2023-09-27.md)
+17. [The Temple of Shaza El](./2023-10-04.md)
+18. [The Chamber of the El](./2023-10-11.md)
+19. [Shaza Els Deal](./2023-10-18.md)
 
 ## important links
 - [Lore notes](../lore.md)

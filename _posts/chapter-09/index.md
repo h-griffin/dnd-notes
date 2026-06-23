@@ -1,32 +1,33 @@
 ---  
 layout: collection
 display_type: chapter 
-tags: [ city of Dimans, Feather Downs,Astrolabe, Collegium, Sewers ]  
+tags: [ Hope, the Wildmores, Mossrock lodge, Hirdwell, ruined city of T'arhriel, Solaris-Celestia mausoleum, Eleysium city beyond the stars, Elseridge Academy, Zeit Geist World Library, shrine of Infinite Prism, garden of Riven El ]   
 prev_title: 9
 prev_url: ../chapter-08
 next_title: 10
 next_url: ../chapter-10
-title: "Dimans under lockdown"
+title: "Entry to Elysium"
 chapter_num: chapter-09
 description: |-   
-  with the city border under lockdown, the party sweeps an underground fight club in the feather downs after confrontations with the stockyard boys. <br>
-
-  explore the sewers spying on the City of Night after investigating giggleworks basement, formula source, and suspicious arcane experiments, then setting it on fire to bait candle jack unsuccessfully.  
+  Auri returns to the Wildmores and steal an ice drake in Mossrock while locating a missing person before finding the mausoleum in T'arhriel. <br />
+  
+  speak with Silvaris the Silver Tree where Arthas takes the place of the yellow star Solara to get into Elysium and speak with the Reverend Mother Pura in the garden of Riven El. 
 ---   
 
 ## table of contents
-67. [The Erchins](./2024-10-09.md)
-68. [The Fight Club](./2024-10-16.md)
-69. [The Astrolabe](./2024-10-23.md)
-70. [The Dragon Tablet](./2024-10-30.md)
-71. [Krondis at the Collegium](./2024-11-06.md)
-72. [Fight Night](./2024-12-04.md)
-73. [Yulemas](./2024-12-18.md)
-74. [3rd Precinct and Lord Barrow](./2025-01-01.md)
-75. [The Sewer](./2025-01-08.md)
-76. [The Grates](./2025-01-15.md)
-77. [The Pale Man at the White House](./2025-01-22.md)
-78. [Magnum Opus Hall](./2025-01-29.md)
+101. [Kpop attack on Hope](./2025-07-23.md)
+102. [Find Sarandith the Starsmith](./2025-07-30.md)
+103. [Auris House in the Wildmores](./2025-08-06.md)
+104. [Rescuing Tristain in the Wildmores](./2025-08-20.md)
+105. [Negotiating with Tristain in MossRock Lodge](./2025-08-27.md)
+106. [Ice Drake in Moss Rock](./2025-09-07.md)
+107. [Silvaris the Silver Tree](./2025-09-14.md)
+108. [Lakecity and t'arhriel the Ruined City](./2025-09-21.md)
+109. [Solaris and Celistia Burial Crypt](./2025-10-05.md)
+110. [The Starpact](./2025-10-19.md)
+111. [Zeit Geist World Library](./2025-10-26.md)
+112. [Zeit Geist Philosophers](./2025-11-02.md)
+113. [Reverend Mother in the Garden of Riven El](./2025-11-09.md)
 
 ## important links
 - [Lore notes](./lore.md)

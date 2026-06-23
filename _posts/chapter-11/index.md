@@ -1,31 +1,29 @@
 ---  
 layout: collection
 display_type: chapter
-tags: [ Lucky and Blues, The Shadows, wizard prisons, Ebbonguard dead mans island ]  
+tags: [ lost city of Aton, Temple of Deeps, the Shattered Islands, Horizons End, Temple of Bethmora, Nocturne, Atons coral throne ]  
 prev_title: 10
 prev_url: ../chapter-10
 next_title: 12
 next_url: ../chapter-12
-title: "Journey to Ebbonguard"
-chapter_num: chapter-11
+title: "Free Aton from the Collector"
 description: |-    
-  Hope gets a scrying pool under the hird tree and the library has a breakthrough in dread books before defending city from an enchanting kpop performance. <br>
-
-  Etons associate Malekai sheds light on Shaza El and Candle Jack before the party steps into the dark shadows and sees carter randal in another time, earning keys and entry through Ebbonguard to wizard prisons. <br>
+   flip upside down from Horizons End to Atton. at the bottom of the ocean Captain Sykes sheds light on Hydronor before clearing The Temple of Bethmora and defeating The Collector at Aton's coral throne freeing the people of the ocean.
 ---   
 
 ## table of contents
-90. [The Scrying Pool](./2025-04-23.md)
-91. [Rescue Tristain](./2025-04-30.md)
-92. [Hope Upgrades](./2025-05-07.md)
-93. [Lucky and Blues Games with Malekai](./2025-05-14.md)
-94. [Puzzles with Indigo](./2025-05-21.md)
-95. [Quiz for Ebbonguard Keys](./2025-05-28.md)
-96. [Ebbonguard Chess Board](./2025-06-04.md)
-97. [Ebbonguard Chess Board 2](./2025-06-11.md)
-98. [Wizard Prison 1-5](./2025-06-18.md)
-99. [Mouth Maze and Wizard Prison 6](./2025-06-25.md)
-100. [Tylus Starts the End of the World](./2025-07-02.md)
+123. [Water Wall to Attan](./2026-03-08.md)
+124. [Witchs Shell](./2026-03-15.md)
+125. [Underwater Beast Lair](./2026-03-22.md)
+126. [Underwater City of Aton](./2026-03-29.md)
+127. [Captain Sykes](./2026-04-12.md)
+128. [Captain Sykes 2](./2026-04-19.md)
+129. [The Temple of Bethmora](./2026-04-26.md)
+130. [The Temple of Bethmora 2](./2026-05-03.md)
+131. [The Temple of Bethmora 3](./2026-05-10.md)
+132. [Atton](./2026-05-17.md)
+133. [Atton's Throne'](./2026-05-17.md)
+134. [Death of The Collector](./2026-06-07.md)
   
 ## important links
 - [Lore notes](../chapter-14/lore.md)

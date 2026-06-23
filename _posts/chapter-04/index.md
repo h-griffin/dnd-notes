@@ -1,37 +1,33 @@
 ---  
 layout: collection
 display_type: chapter
-tags: [ Pillar of Clouds, Battalion-5 HQ, bridge city of Bruke, grung city of Angakaar ]  
+tags: [ Port Artorious, coral pink Cathedral, Port Artorious Prison, Decklins Island ]  
 prev_title: 3
 prev_url: ../chapter-03 
 next_title: 5
 next_url: ../chapter-05 
-title: "Investigate the AllBloom"
+title: "Pirate Games"
 chapter_num: chapter-04
 description: |- 
-  investigate the war between air and sky (birds vs storm) at the Battalion 5 hq in the Pilar of Clouds <br>
-
-  explore the bridge city Bruke and battle agents of the All Bloom in Angakaar, the vacant enchanted grung town, while searching for Samuel the missing bird.
+  arrive in Port Artorious to celebrate The Pirate Games and acquire a cursed boat from the oaktoe shipmaster, discover papers and clues on Decklins Island. 
+  <br> jailbreak the Danger ship crew from Port Artorious Prison while releasing the Empire of Dawn's ancient tiger prisoner.
 ---    
 
 ## table of contents
-20. [The Pillar of Clouds](./2023-10-25.md)
-21. [The Bridge City](./2023-11-01.md)
-22. [The Storm Gem](./2023-11-08.md)
-23. [Thomnas Lightpost](./2023-11-15.md)
-24. [The VIP Room](./2023-11-29.md)
-25. [The Bridge Lockdown](./2023-12-06.md)
-26. [City of Angakkar](./23-12-013.md)
-27. [Recap and Planning](./2023-12-27.md)
-28. [The Toad Mother](./2024-01-02.md)
-29. [The Shade and Mushrooms](./2024-01-10.md)
-30. [Agents of The All Bloom](./2024-01-17.md)
-31. [Pancakes for Angakkar](./2024-01-24.md)
-32. [Defending Angakaar: myconid](./2024-01-31.md)
-33. [Defending Angakaar: himiwari](./2024-02-07.md)
-34. [The Burned Cabin and the Missing Arakokra](./2024-02-14.md)
-35. [The Feast of Saint Carles](./2024-02-21.md)
-36. [The Doctor](./2024-02-28.md)
+37. [Port Artorious](./2024-03-06.md)
+38. [The Pirate Games](./2024-03-13.md)
+39. [The Cartographers Guild](./2024-03-20.md)
+40. [The Cathedral](./2024-03-27.md)
+41. [Prison Break](./2024-04-03.md)
+42. [Lauhyu Yugan](./2024-04-10.md)
+43. [Decklins Island](./2024-04-17.md)
+44. [Dragon Emporor](./2024-04-24.md)
+45. [Requiems Wake](../chapter-05/2024-05-01.md)
+46. [Cannons & Treasure Fever](../chapter-05/2024-05-08.md)
+47. [Hyaru Beach](../chapter-05/2024-05-22.md)
+48. [Hyaru City](../chapter-05/2024-05-29.md)
+49. [The Erd Tree](../chapter-05/2024-06-05.md)
+50. [The Moth](../chapter-05/2024-06-12.md)
 
 ## important links
 - [Lore notes](./lore.md)

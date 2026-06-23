@@ -1,29 +1,31 @@
 ---  
 layout: collection
 display_type: chapter 
-tags: [ city of Dimans, Beaumont Estate, Stockyard, Giggleworks, Cloudmark Palace ]  
+tags: [ Lucky and Blues, The Dark Shadows, wizard prisons, Ebbonguard dead mans island ]  
 prev_title: 7
 prev_url: ../chapter-07
 next_title: 9
 next_url: ../chapter-09
-title: "City of Dimans"
+title: "Journey to Ebbonguard"
 chapter_num: chapter-08
 description: |-   
-  stay at the Beaumont Estate while wrangling local loose wyrds and orphans from isle of roses hidden in the partys cargo into advanced tech city Dimans (Gotham) <br>
+  Hope gets a scrying pool under the hird tree and the library has a breakthrough in dread books before defending city from an enchanting kpop performance. <br>
 
-  The Rat Catcher crashes the town ball before the city border goes under lockdown.
+  Etons associate Malekai sheds light on Shaza El and Candle Jack before earning keys and entry through Ebbonguard. the party steps into the Dark Shadows and sees carter randal in another time through wizard prisons, before fighting Tylos back in Ebbonguard. 
 ---   
 
 ## table of contents
-59. [City of Dimans](./2024-08-14.md)
-60. [Jukals Managery](./2024-08-21.md)
-61. [Collegium Debate](./2024-08-26.md)
-62. [Mask Shop and Giggleworks](./2024-09-04.md)
-63. [Stockyard Boys](./2024-09-11.md)
-64. [Giggleworks Upgrades and The Pale Man](./2024-09-18.md)
-65. [The Ball](./2024-09-25.md)
-66. [The Rats](./2024-10-02.md)
- 
+90. [The Scrying Pool](./2025-04-23.md)
+91. [Rescue Tristain](./2025-04-30.md)
+92. [Hope Upgrades](./2025-05-07.md)
+93. [Lucky and Blues Games with Malekai](./2025-05-14.md)
+94. [Puzzles with Indigo](./2025-05-21.md)
+95. [Quiz for Ebbonguard Keys](./2025-05-28.md)
+96. [Ebbonguard Chess Board](./2025-06-04.md)
+97. [Ebbonguard Chess Board 2](./2025-06-11.md)
+98. [Wizard Prison 1-5](./2025-06-18.md)
+99. [Mouth Maze and Wizard Prison 6](./2025-06-25.md)
+100. [Tylus Starts the End of the World](./2025-07-02.md)
 
 ## important links
 - [Lore notes](./lore.md)
