@@ -1,7 +1,7 @@
 ---  
 layout: collection
 display_type: chapter
-tags: [ Requiems Wake, the Lost Island, T'Avalon ]  
+tags: [ Requiems Wake, the Lost Island, city of T'Avalon ]  
 prev_title: 11
 prev_url: ../chapter-11
 next_title: 13

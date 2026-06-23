@@ -2,7 +2,7 @@ title: "Ab Aeterno"
 logo: "/assets/img/Ab_Aeterno_World_Map.png"
 sub_logo: "/assets/img/The_Far_Island.png"
 description: >-
-  <ul><li> <a href='https://h-griffin.github.io/dnd-notes/_posts/chapter-12'>Current [Chapter 12]</a> </li><li><a href='https://h-griffin.github.io/dnd-notes/'>All Chapters</a> </li><li> <a href='https://h-griffin.github.io/dnd-notes/_posts'>All Posts </a> </li></ul>
+  <ul><li> <a href='https://h-griffin.github.io/dnd-notes/_posts'>All Posts </a> </li><li><a href='https://h-griffin.github.io/dnd-notes/'>All Chapters</a> </li><li> <a href='https://h-griffin.github.io/dnd-notes/_posts/chapter-12'>Current [Chapter 12]</a> </li></ul>
 show_downloads: false
 theme: jekyll-theme-minimal
 include:
@@ -11,6 +11,4 @@ github:
   is_project_page: true
   repository_nwo: "Ab Aeterno notes"
   repository_url: "https://github.com/h-griffin/dnd-notes"
-  owner_url: "https://github.com/h-griffin"
-beyond_nwo: "Grimmhaus campaign"
-beyond_link: "https://www.dndbeyond.com/campaigns/4131697"
+  owner_url: "https://github.com/h-griffin" 
