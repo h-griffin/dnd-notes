@@ -13,8 +13,8 @@ layout: default
         
         {% assign latest_page = site.pages | sort: "date" | last %}        
         {% if latest_page %}
-            <p id="notice">Latest File:<a href="{{ latest_page.url | relative_url }}">{{ latest_page.url }} 
-                <small><em>{{ latest_page.page_num }}. {{ latest_page.title }} </em></small> </a> </p>
+            <p id="notice">Latest File:<a href="{{ latest_page.url | relative_url }}">{{ latest_page.path }} 
+                <small style="display: inline;"><em>{{ latest_page.page_num }}. {{ latest_page.title }} </em></small> </a> </p>
         {% endif %}
         
         <h2>All Chapters</h2>
@@ -44,8 +44,8 @@ layout: default
         
         {% assign latest_page = site.pages | sort: "date" | last %}        
         {% if latest_page %}
-            <p id="notice">Latest File:<a href="{{ latest_page.url | relative_url }}">{{ latest_page.url }} 
-                <small><em>{{ latest_page.page_num }}. {{ latest_page.title }} </em></small> </a> </p>
+            <p id="notice">Latest File:<a href="{{ latest_page.url | relative_url }}">{{ latest_page.collection }}/{{ latest_page.date | date: "%Y-%m-%d"}} 
+                <small style="display: inline;"><em>{{ latest_page.page_num }}. {{ latest_page.title }} </em></small> </a> </p>
         {% endif %}
 
         <h2>All Posts</h2>
@@ -62,7 +62,7 @@ layout: default
             <ul>
             {% for post in group.items %}
                 {% if post.page_num %}
-                    <li>{{ post.page_num }} - <a href="{{ post.url | relative_url }}"> {{ post.title }} 
+                    <li style="list-style: none;">{{ post.page_num }} - <a href="{{ post.url | relative_url }}"> {{ post.title }} 
                         {% if post.tags %} <small style="display: inline;"><em>{{ post.tags | join: "</em> - <em>" }}</em></small> {% endif %} </a></li>
                 {% endif %}
             {% endfor %}
@@ -108,10 +108,10 @@ layout: default
             {% for post in chapter_posts %}
                  
                     {% if post.page_num %}
-                        <li>{{ post.page_num }} - <a href="{{ post.url | relative_url }}"> {{ post.title }} 
+                        <li style="list-style: none;">{{ post.page_num }} - <a href="{{ post.url | relative_url }}"> {{ post.title }} 
                             {% if post.tags %} <small style="display: inline;"><em>{{ post.tags | join: "</em> - <em>" }}</em></small> {% endif %} </a></li>
                     {% else %}
-                        <li><a href="{{ post.url | relative_url }}">{{ post.title }}
+                        <li style="list-style: none;"><a href="{{ post.url | relative_url }}">{{ post.title }}
                             {% if post.tags %} <small style="display: inline;"><em>{{ post.tags | join: "</em> - <em>" }}</em></small> {% endif %} </a></li>
                     {% endif %}
                 </li>
