@@ -2,7 +2,8 @@
 layout: none
 ---
 [ 
-  {% for page in site.pages %}
+  {% assign sorted_posts = site.pages | sort: 'date' | reverse %}
+  {% for post in sorted_posts %}
    {
      {% if page.title != nil %}
         "title"    : "{{ page.title | escape }}",

@@ -13,7 +13,8 @@ layout: default
         
         {% assign latest_page = site.pages | sort: "date" | last %}        
         {% if latest_page %}
-            <p id="notice">Latest File:<a href="{{ latest_page.url | relative_url }}"> {{ latest_page.page_num }} - {{ latest_page.title }} </a> </p>
+            <p id="notice">Latest File:<a href="{{ latest_page.url | relative_url }}">{{ latest_page.url }} 
+                <small><em>{{ latest_page.page_num }}. {{ latest_page.title }} </em></small> </a> </p>
         {% endif %}
         
         <h2>All Chapters</h2>
@@ -40,38 +41,35 @@ layout: default
         </ol>
     {% when 'posts' %}
         <!-- '/posts'  'posts' all posts with chapter category  --> 
-        {{content}}
-
+        
         {% assign latest_page = site.pages | sort: "date" | last %}        
         {% if latest_page %}
-            <p id="notice">Latest File:<a href="{{ latest_page.url | relative_url }}"> {{ latest_page.page_num }} - {{ latest_page.category }}/{{ latest_page.title }} </a> </p>
+            <p id="notice">Latest File:<a href="{{ latest_page.url | relative_url }}">{{ latest_page.url }} 
+                <small><em>{{ latest_page.page_num }}. {{ latest_page.title }} </em></small> </a> </p>
         {% endif %}
 
         <h2>All Posts</h2>
-        <ol>
-            {% assign all_pages = site.pages | sort: "date" %}
 
-            {% assign grouped_pages = all_pages | group_by: "category" %}
-            {% for group in grouped_pages %} 
+        {% assign all_pages = site.pages | sort: "date" %}
 
-            {% if group.name != "" and group.name != blank %}
-                 
-                <h3>{{ group.name }}</h3>
+        {% assign grouped_pages = all_pages | group_by: "category" | sort: "name" %}
+        {% for group in grouped_pages %} 
+
+        {% if group.name != "" and group.name != blank %}
                 
-                <ul>
-                {% for post in group.items %}
-                    {% if post.page_num %}
-                        <li>{{ post.page_num }} - <a href="{{ post.url | relative_url }}"> {{ post.title }} 
-                            {% if post.tags %} <small style="display: inline;"><em>{{ post.tags | join: "</em> - <em>" }}</em></small> {% endif %} </a></li>
-                    {% else %}
-                        <li>{{ post.category | replace: '-', ' ' | capitalize  }}: <a href="{{ post.url | relative_url }}">{{ post.title }} </a></li>
-                    {% endif %}
-                {% endfor %}
-                </ul>
-                
-            {% endif %}
+            <h3>{{ group.name | replace: '-', ' ' | capitalize  }}</h3>
+            
+            <ul>
+            {% for post in group.items %}
+                {% if post.page_num %}
+                    <li>{{ post.page_num }} - <a href="{{ post.url | relative_url }}"> {{ post.title }} 
+                        {% if post.tags %} <small style="display: inline;"><em>{{ post.tags | join: "</em> - <em>" }}</em></small> {% endif %} </a></li>
+                {% endif %}
             {% endfor %}
-        </ol>
+            </ul>
+            
+        {% endif %}
+        {% endfor %}
     {% when 'chapter' %}
     <!-- all posts in specific category --> 
         <table>
