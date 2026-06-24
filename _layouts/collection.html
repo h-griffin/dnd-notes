@@ -11,9 +11,9 @@ layout: default
         <!-- jump to -->
         {{content}}
         
-        {% assign latest_post = site.posts.first %}
-        {% if latest_post %}
-            <p id="notice">Latest File:<a href="{{ latest_post.url | relative_url }}">{{ latest_post.date }} {{ latest_post.title }} </a> </p>
+        {% assign latest_page = site.pages | sort: "date" | last %}        
+        {% if latest_page %}
+            <p id="notice">Latest File:<a href="{{ latest_page.url | relative_url }}"> {{ latest_page.page_num }} - {{ latest_page.title }} </a> </p>
         {% endif %}
         
         <h2>All Chapters</h2>
@@ -44,23 +44,32 @@ layout: default
 
         {% assign latest_page = site.pages | sort: "date" | last %}        
         {% if latest_page %}
-            <p id="notice">Latest File:<a href="{{ latest_page.url | relative_url }}"> {{ latest_page.page_num }} - {{ latest_page.title }} </a> </p>
+            <p id="notice">Latest File:<a href="{{ latest_page.url | relative_url }}"> {{ latest_page.page_num }} - {{ latest_page.category }}/{{ latest_page.title }} </a> </p>
         {% endif %}
 
         <h2>All Posts</h2>
         <ol>
-            {% for cat in site.categories %}
-                <!-- cat[0] is the name, cat[1] is the array of posts -->
-                <h3>{{ cat[0] | replace: '-', ' ' | capitalize }}</h3>
+            {% assign all_pages = site.pages | sort: "date" %}
+
+            {% assign grouped_pages = all_pages | group_by: "category" %}
+            {% for group in grouped_pages %} 
+
+            {% if group.name != "" and group.name != blank %}
+                 
+                <h3>{{ group.name }}</h3>
+                
                 <ul>
-                    {% for post in cat[1] %}
-                    <li>
-                        <a href="{{ post.url | relative_url }}">{{ post.page_num }} - {{ post.title }}
-                            {% if post.tags %} <small><em>{{ post.tags | join: "</em> - <em>" }}</em></small> {% endif %}
-                        </a>
-                    </li>
-                    {% endfor %}
+                {% for post in group.items %}
+                    {% if post.page_num %}
+                        <li>{{ post.page_num }} - <a href="{{ post.url | relative_url }}"> {{ post.title }} 
+                            {% if post.tags %} <small style="display: inline;"><em>{{ post.tags | join: "</em> - <em>" }}</em></small> {% endif %} </a></li>
+                    {% else %}
+                        <li>{{ post.category | replace: '-', ' ' | capitalize  }}: <a href="{{ post.url | relative_url }}">{{ post.title }} </a></li>
+                    {% endif %}
+                {% endfor %}
                 </ul>
+                
+            {% endif %}
             {% endfor %}
         </ol>
     {% when 'chapter' %}
@@ -96,22 +105,20 @@ layout: default
 
         <h1 style="text-align: center;">{{ page.category | replace: '-', ' ' | capitalize }} <br> {{ page.title | capitalize }}</h1> 
         <p style="text-indent: 30px each-line;">{{ page.description }}</p> 
+        <h2>Table of Contents</h2>
         <ul>
             {% for post in chapter_posts %}
-                <li>
+                 
                     {% if post.page_num %}
-                        <a href="{{ post.url | relative_url }}"> {{ post.page_num }} - {{ post.title }} 
-                            {% if post.tags %} <small><em>{{ post.tags | join: "</em> - <em>" }}</em></small> {% endif %}
-                        </a>
+                        <li>{{ post.page_num }} - <a href="{{ post.url | relative_url }}"> {{ post.title }} 
+                            {% if post.tags %} <small style="display: inline;"><em>{{ post.tags | join: "</em> - <em>" }}</em></small> {% endif %} </a></li>
                     {% else %}
-                        <a href="{{ post.url | relative_url }}">{{ post.title }}
-                            {% if post.tags %} <small><em>{{ post.tags | join: "</em> - <em>" }}</em></small> {% endif %} </a>
+                        <li><a href="{{ post.url | relative_url }}">{{ post.title }}
+                            {% if post.tags %} <small style="display: inline;"><em>{{ post.tags | join: "</em> - <em>" }}</em></small> {% endif %} </a></li>
                     {% endif %}
                 </li>
             {% endfor %}
         </ul>
-
-        {{content}}
     
     {% else %} 
         <h2>{{page.title}}</h2>
