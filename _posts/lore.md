@@ -1,17 +1,23 @@
+---
+layout: default
+title: Lore
+display_type: 
+---
+# the road so far
 
-## Ab Aeterno World Maps
+### Ab Aeterno World Maps
 ![old world map](./assets/img/old_Ab_Aeterno_World_Map.png)
 ![world map](./assets/img/Ab_Aeterno_World_Map.png)
 
-## T'Avalon The Far Island
+### T'Avalon The Far Island
 ![The_Far_Island](./assets/img/The_Far_Island.png)
 
-# AB Aeterno lore notes
+## AB Aeterno lore notes
 - dragons not seen in aetarno in millions of years
 - ebonguard: evil school of magic
 - elephants - oliephansts cross planes in desert of glass but now only held in empire
 
-# High Kingdom of Caledon
+## High Kingdom of Caledon
 - is a feudal system. king > semi kings > Dukes > Lords
 - High King: King of all of the counties in Eastern and Western Dalstead, Regent of the Shattered Islands and High Steward of the Free Cities.
 - Semi-Kings:

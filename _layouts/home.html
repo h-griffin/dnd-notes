@@ -1,0 +1,37 @@
+---
+layout: default
+---
+ 
+ 
+{% assign latest_page = site.pages | sort: "date" | last %}        
+{% if latest_page %}
+    <p id="notice">Latest File: &nbsp; <a href="{{ latest_page.url | relative_url }}">{{ latest_page.path }} 
+        <small style="display: inline;"><em>{{ latest_page.page_num }}. {{ latest_page.title }} </em></small> </a> </p>
+{% endif %}
+     
+{{ content }}
+
+<h2>Feedback</h2>
+<form action="https://api.web3forms.com/submit" method="POST">
+    <input type="hidden" name="access_key" value="806196a1-88cf-49ae-b20f-af1b42e2c04c">
+    <input type="hidden" name="redirect" value="https://h-griffin.github.io/dnd-notes/thanks.html">
+    <input type="hidden" name="subject" value="New Web3 Submission on h-griffin.github.io/dnd-notes" />
+    <input type="hidden" name="from_name" value="Web3 Notification: dnd-notes">
+    <input type="checkbox" name="botcheck" id="" style="display: none;" />
+    
+    <input type="text" name="name" placeholder="Name" required>
+
+    <label>Topic</label>
+    <input type="checkbox" id="feature-request" name="topic" value="feature-request" />
+    <input type="checkbox" id="lore" name="topic" value="lore" />
+    <input type="checkbox" id="spelling" name="topic" value="spelling" />
+    <input type="checkbox" id="other" name="topic" value="other" />
+
+    <textarea name="message" required placeholder="city, pets, plants etc..."></textarea>
+    
+    <button type="submit">Submit Form</button>
+</form>
+
+
+<!-- footer -->
+{% if page.tags %} <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small> {% endif %}

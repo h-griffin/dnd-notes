@@ -1,17 +1,23 @@
+---
+layout: default
+title: Party
+display_type: 
+---
+
 # party
 - team name: the idiots, the bird watchers, snail team 6, seal team idiot, team biscuit, norman and the soggy bottom boys, the eightfold company, the ninefold company?
-- can of endless spagetti & enless water canteen
+- can of endless spaghetti & endless water canteen
 - level
     - 3 session#4 grummhaus dungeon
-    - 4 session#16 takrati desert manticores
+    - 4 session#16 tikrati desert manticores
     - 5 session#20 temple of shaza el
-    - 6 session#30 angakkar flowers
+    - 6 session#30 angakaar flowers
     - 7
-    - 8 session#50 hyaru moth coccoon
+    - 8 session#50 hyaru moth cocoon
 
 ## Paul
 - [Dungeon Master](https://www.dndbeyond.com/members/CourtofAvalon)
-    - [dndbeyond grimmhaus campaign](https://www.dndbeyond.com/campaigns/4131697)
+- [dndbeyond grimmhaus campaign](https://www.dndbeyond.com/campaigns/4131697)
 
 ## Ally
 - [Auri Ravenwoood](https://www.dndbeyond.com/characters/101109154)
