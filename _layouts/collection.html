@@ -15,8 +15,9 @@ layout: default
             <p id="notice">Latest File: &nbsp; <a href="{{ latest_page.url | relative_url }}">{{ latest_page.path }} 
                 <small style="display: inline; text-transform: capitalize;"><em>{{ latest_page.page_num }}. {{ latest_page.title }} </em></small> </a> </p>
         {% endif %}
-
-        <p style="font-weight: bold;">Jump to chapter</p>
+        
+        <h2>All Posts</h2>
+        <p id="jump-to" style="font-weight: bold;">Jump to chapter</p>
         <ol>
             {% for cat in site.data.categories %}
                 <li>
@@ -25,30 +26,55 @@ layout: default
             {% endfor %}
         </ol>
 
-        <h2>All Posts</h2>
-
         {% assign all_pages = site.pages | sort: "date" %}
 
         {% assign grouped_pages = all_pages | group_by: "category" | sort: "name" %}
         {% for group in grouped_pages %} 
 
-        {% if group.name != "" and group.name != blank %}
+            {% if group.name != "" and group.name != blank %}
+                    
+                <h3 id="{{ group.name | slugify }}">{{ group.name | replace: '-', ' ' | capitalize  }}</h3>
                 
-            <h3 id="{{ group.name | slugify }}">{{ group.name | replace: '-', ' ' | capitalize  }}</h3>
-            
-            <ul>
-            {% for post in group.items %}
-                {% if post.page_num %}
-                    <li style="list-style: none;">{{ post.page_num }} - <a href="{{ post.url | relative_url }}" style="text-transform: capitalize;"> {{ post.title }} 
-                        {% if post.tags %} <small style="display: inline; text-transform: unset;"><em>{{ post.tags | join: "</em> - <em>" }}</em></small> {% endif %} </a></li>
-                {% endif %}
-            {% endfor %}
-            </ul>
-            
-        {% endif %}
+                <ul>
+                {% for post in group.items %}
+                    {% if post.page_num %}
+                        <li style="list-style: none;">{{ post.page_num }} - <a href="{{ post.url | relative_url }}" style="text-transform: capitalize;"> {{ post.title }} 
+                            {% if post.tags %} <small style="display: inline; text-transform: unset;"><em>{{ post.tags | join: "</em> - <em>" }}</em></small> {% endif %} </a></li>
+                    {% endif %}
+                {% endfor %}
+                </ul>
+                
+            {% endif %}
         {% endfor %}
+        <a href="#jump-to"><p style="font-weight: bold; text-align: center;">Jump to top ↑</p></a> 
+
+    {% when 'allchapters' %}
+    
+        <h2>All Chapters</h2>
+        <p id="jump-to" style="font-weight: bold;">Jump to chapter</p>
+        <ol>
+            {% for cat in site.data.categories %}
+                <li><a href="#{{ cat[1].title | slugify }}">{{ cat[1].title }}</a></li>
+            {% endfor %}
+        </ol>
+        <ol>
+            {% for cat in site.data.categories %}
+                {% assign slug = cat[0] %}
+                {% assign details = cat[1] %}
+                <li>
+                    <h3><a id="{{ details.title | slugify }}" href="_posts/{{ slug }}" style="text-transform: capitalize;">{{ details.title }}</a></h3> 
+
+                    {% if details.tags %}
+                        <small style="font-weight: bold;"><em>{{ details.tags | join: "</em> - <em>" }}</em></small>
+                    {% endif %}
+                    <p style="text-indent: 30px each-line;">{{ details.description }}</p>
+                </li>
+            {% endfor %}
+        </ol>
+        <a href="#jump-to"><p style="font-weight: bold;  text-align: center;">Jump to top ↑</p></a> 
+    
     {% when 'chapter' %}
-    <!-- all posts in specific category --> 
+        <!-- all posts in specific category --> 
         <table>
             <thead>
                 <tr>
@@ -65,7 +91,7 @@ layout: default
                 </tr> 
                 <tr>
                     <td style="text-align: left"> </td>
-                    <td style="text-align: center"> <a href="{{ '/' | absolute_url }}">All Chapters</a> </td>
+                    <td style="text-align: center"> <a href="{{ '/_posts/chapters' | absolute_url }}">All Chapters</a> </td>
                     <td style="text-align: right"> </td>
                 </tr> 
                 <tr>
@@ -90,30 +116,6 @@ layout: default
                 {% endif %}
             {% endfor %}
         </ul>
-    {% when 'allchapters' %}
-        <p style="font-weight: bold;">Jump to</p>
-        <ol>
-            {% for cat in site.data.categories %}
-                <li><a href="#{{ cat[1].title | slugify }}">{{ cat[1].title }}</a></li>
-            {% endfor %}
-        </ol>
-        
-        <h2>All Chapters</h2>
-        <ol>
-            {% for cat in site.data.categories %}
-                {% assign slug = cat[0] %}
-                {% assign details = cat[1] %}
-                <li>
-                    <h3><a id="{{ details.title | slugify }}" href="_posts/{{ slug }}" style="text-transform: capitalize;">{{ details.title }}</a></h3> 
-
-                    {% if details.tags %}
-                        <small style="font-weight: bold;"><em>{{ details.tags | join: "</em> - <em>" }}</em></small>
-                    {% endif %}
-                    <p style="text-indent: 30px each-line;">{{ details.description }}</p>
-                </li>
-            {% endfor %}
-        </ol>
-    
     {% else %} 
         <h2>{{page.title}}</h2>
         {{content}}

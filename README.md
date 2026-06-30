@@ -39,14 +39,17 @@
 
 ## page layouts
 
-| URL | Page | Layout |
-| :--- | :----: | ---: |
-| '/' | home | home |
-| '/lore' | lore | default |
-| '/party' | party | default |
-| '/_posts' | all pages | collection |
-| '/_posts/chapters' | all chapters | collection |
-| '/_posts/chapter-01' | chapter | collection |
-| '/_posts/chapter-01/yyyy-mm-dd' | page | post |
+| Page | Layout | URL |
+| ---: | :---- | :--- |
+
+| home | home | '/' |
+| lore | default | '/lore' |
+| party | default | '/party' |
+| all pages | collection | '/_posts' |
+| all chapters | collection | '/_posts/chapters' |
+| chapter | collection | '/_posts/chapter-01' |
+| page | post | '/_posts/chapter-01/yyyy-mm-dd' |
+| 404 | default | '/404.html' |
+| thanks | default | '/thanks.html' |
 
 ![map img](./assets/img/Ab_Aeterno_World_Map.png)
