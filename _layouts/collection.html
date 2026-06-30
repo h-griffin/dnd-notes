@@ -39,7 +39,7 @@ layout: default
                 {% for post in group.items %}
                     {% if post.page_num %}
                         <li style="list-style: none;">{{ post.page_num }} - <a href="{{ post.url | relative_url }}" style="text-transform: capitalize;"> {{ post.title }} 
-                            {% if post.tags %} <small style="display: inline;"><em style="text-transform: unset;">{{ post.tags | join: "</em> - <em style="text-transform: unset;">" }}</em></small> {% endif %} </a></li>
+                            {% if post.tags %} <small style="display: inline;"><em style="text-transform: unset;">{{ post.tags | join: "</em> - <em style='text-transform: unset;'>" }}</em></small> {% endif %} </a></li>
                     {% endif %}
                 {% endfor %}
                 </ul>
@@ -111,7 +111,7 @@ layout: default
             {% for post in chapter_posts %}
                 {% if post.page_num %}
                     <li style="list-style: none;">{{ post.page_num }} - <a href="{{ post.url | relative_url }}" style="text-transform: capitalize;"> {{ post.title }} 
-                        {% if post.tags %} <small style="display: inline;"><em style="text-transform: unset;">{{ post.tags | join: "</em> - <em style="text-transform: unset;">" }}</em></small> {% endif %} 
+                        {% if post.tags %} <small style="display: inline;"><em style="text-transform: unset;">{{ post.tags | join: "</em> - <em style='text-transform: unset;'>" }}</em></small> {% endif %} 
                     </a></li>
                 {% endif %}
             {% endfor %}
