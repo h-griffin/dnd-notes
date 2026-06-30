@@ -62,7 +62,7 @@ layout: default
                 {% assign slug = cat[0] %}
                 {% assign details = cat[1] %}
                 <li>
-                    <h3><a id="{{ details.title | slugify }}" href="_posts/{{ slug }}" style="text-transform: capitalize;">{{ details.title }}</a></h3> 
+                    <h3><a id="{{ details.title | slugify }}" href="{{ slug }}" style="text-transform: capitalize;">{{ details.title }}</a></h3> 
 
                     {% if details.tags %}
                         <small style="font-weight: bold;"><em>{{ details.tags | join: "</em> - <em>" }}</em></small>
