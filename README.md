@@ -41,7 +41,6 @@
 
 | Page | Layout | URL |
 | ---: | :---- | :--- |
-
 | home | home | '/' |
 | lore | default | '/lore' |
 | party | default | '/party' |

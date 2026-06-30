@@ -5,7 +5,7 @@ layout: default
  
 {% assign latest_page = site.pages | sort: "date" | last %}        
 {% if latest_page %}
-    <p id="notice">Latest File: &nbsp; <a href="{{ latest_page.url | relative_url }}">{{ latest_page.url }} 
+    <p id="notice">Latest File: &nbsp; <a href="{{ latest_page.url | relative_url }}">/{{ latest_page.category }}/{{ latest_page.date }} 
         <small style="display: inline;"><em>{{ latest_page.page_num }}. {{ latest_page.title }} </em></small> </a> </p>
 {% endif %}
      
@@ -15,25 +15,24 @@ layout: default
 <form action="https://api.web3forms.com/submit" method="POST">
     <input type="hidden" name="access_key" value="806196a1-88cf-49ae-b20f-af1b42e2c04c">
     <input type="hidden" name="redirect" value="https://h-griffin.github.io/dnd-notes/thanks.html">
-    <input type="hidden" name="subject" value="New Web3 Submission on h-griffin.github.io/dnd-notes" />
-    <input type="hidden" name="from_name" value="Web3 Notification: dnd-notes">
+    <input type="hidden" name="subject" value="New Submission on h-griffin.github.io/dnd-notes" />
+    <input type="hidden" name="from_name" value="Web3 dnd-notes Notification">
     <input type="checkbox" name="botcheck" id="" style="display: none;" />
     
+    <label>Name</label>
     <input type="text" name="name" placeholder="Name" required>
     
-    
     <label>Topic</label>
-    <section class="checkboxes">
+    <div class="checkboxes">
+        <label><input type="checkbox" id="feature-request" name="topic" value="feature-request"> <span>Feature Request</span></label>
+        <label><input type="checkbox" id="bug-report" name="topic" value="bug-report"> <span>Bug Report</span></label>
         <label><input type="checkbox" id="lore" name="topic" value="lore"> <span>Lore</span></label>
         <label><input type="checkbox" id="spelling" name="topic" value="spelling"> <span>Spelling</span></label>
         <label><input type="checkbox" id="other" name="topic" value="other"> <span>Other</span></label>
-        <br>
-        <label><input type="checkbox" id="feature-request" name="topic" value="feature-request"> <span>Feature Request</span></label>
-        <label><input type="checkbox" id="bug-report" name="topic" value="bug-report"> <span>Bug Report</span></label>
-    </section>
+    </div>
     
     <label>Message</label>
-    <textarea name="message" required placeholder="city, pets, plants etc..."></textarea>
+    <textarea name="message" required placeholder="page 123 angakaar spelling..."></textarea>
     
     <button type="submit">Submit Form</button>
 </form>

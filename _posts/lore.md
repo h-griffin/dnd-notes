@@ -3,14 +3,14 @@ layout: default
 title: Lore
 display_type: 
 ---
-# the road so far
+# The Road So Far
 
 ### Ab Aeterno World Maps
-![old world map](./assets/img/old_Ab_Aeterno_World_Map.png)
-![world map](./assets/img/Ab_Aeterno_World_Map.png)
+![old world map](../assets/img/old_Ab_Aeterno_World_Map.png)
+![world map](../assets/img/Ab_Aeterno_World_Map.png)
 
 ### T'Avalon The Far Island
-![The_Far_Island](./assets/img/The_Far_Island.png)
+![The_Far_Island](../assets/img/The_Far_Island.png)
 
 ## AB Aeterno lore notes
 - dragons not seen in aetarno in millions of years
