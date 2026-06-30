@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<table> 
+    <thead>
+        <tr>
+        <th style="text-align: left">prev</th>
+        <th style="text-align: center">table of contents</th>
+        <th style="text-align: right">next</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align: left"> </td>
+            <td style="text-align: center"> <a href="{{ '/_posts' | relative_url }}">All Pages</a> </td>
+            <td style="text-align: right"> </td>
+        </tr> 
+        <tr>
+            <td style="text-align: left"> </td>
+            <td style="text-align: center"> <a href="{{ '/_posts/chapters' | relative_url }}">All Chapters</a> </td>
+            <td style="text-align: right"> </td>
+        </tr> 
+        <tr>
+            <td style="text-align: left"> </td>
+            <td style="text-align: center"> <a href="../{{ page.category }}">{{ page.category | replace: '-', ' ' | capitalize }}</a> </td> 
+            <td style="text-align: right"> </td>
+        </tr> 
+        <tr>
+            <td style="text-align: left">{% if page.prev_title %}<a href="{{ page.prev_url }}">⇐ Page {{ page.prev_title }} {% endif %} </a></td>
+            <td style="text-align: center"> </td>
+            <td style="text-align: right">{% if page.next_title %}<a href="{{ page.next_url }}">Page {{ page.next_title }} {% endif %} ⇒</a></td>
+        </tr> 
+    </tbody>
+</table>
+ 
+
+<h1>{{ page.title }}</h1>
+<small>session {{ page.page_num }} - {{ page.date | date: "%-d %B %Y" }} </small>
+<br /> 
+
+{{content}}
+  
+{% if page.tags %}
+  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}

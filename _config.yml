@@ -1,8 +1,14 @@
-title: Ab Aeterno
-logo: /assets/image.png
-description: 8 follies notes
+title: "Ab Aeterno"
+logo: "/assets/img/Ab_Aeterno_World_Map.png"
+sub_logo: "/assets/img/The_Far_Island.png"
+description: >-
+  <p>Cartographer Lore Records</p> <ul><li> <a href='https://h-griffin.github.io/dnd-notes/_posts'>All Posts </a> </li><li><a href='https://h-griffin.github.io/dnd-notes/_posts/chapters'>All Chapters</a> </li><li> <a href='https://h-griffin.github.io/dnd-notes/_posts/chapter-11'>Current [Chapter 11]</a> </li></ul>
 show_downloads: false
-google_analytics:
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: jekyll-theme-minimal
+include:
+  - "_posts"
+github:
+  is_project_page: true
+  repository_nwo: "Ab Aeterno notes"
+  repository_url: "https://github.com/h-griffin/dnd-notes"
+  owner_url: "https://github.com/h-griffin" 

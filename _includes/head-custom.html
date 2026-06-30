@@ -1,0 +1,70 @@
+<!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+{% include head-custom-google-analytics.html %}
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}" -->
+
+<style>
+    #search-demo-container {
+        max-width: 40em;
+        padding: 1em 1em 0 1em;
+        /* padding: 1em; */
+        margin: 1em auto;
+        border: 1px solid lightgrey;
+    }
+
+    #search-input {
+        display: inline-block;
+        padding: .5em;
+        width: 100%;
+        font-size: 0.8em;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+    mark {
+        background-color: #ffe066;
+        color: #000;
+        padding: 0 2px;
+    }
+
+    #notice {
+        background-color: #fff3cd;  
+        color: #664d03;             
+        border: 1px solid #ffe69c;  
+        padding: 15px;             
+        margin-bottom: 20px;     
+        border-radius: 4px;        
+    }
+    form {
+        background-color: whitesmoke;  
+        border: 1px solid grey;  
+        padding: 15px;             
+        margin-bottom: 20px;     
+        border-radius: 4px; 
+        display: flex;
+        flex-direction: column;
+        gap: 15px;       
+    }
+    form input, form textarea{
+        padding: .5em;
+    } 
+    .checkboxes label {
+        display: inline-block;
+        padding-right: 10px;
+        white-space: nowrap;
+    }
+    .checkboxes input, .checkboxes label span{
+        vertical-align: middle;
+    }
+    form button{
+        width: 30%;
+        margin: 0 auto;
+    }
+
+</style>
+
+<!-- end custom head snippets -->
