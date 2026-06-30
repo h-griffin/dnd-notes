@@ -12,7 +12,7 @@ layout: default
         
         {% assign latest_page = site.pages | sort: "date" | last %}        
         {% if latest_page %}
-            <p id="notice">Latest File: &nbsp; <a href="{{ latest_page.url | relative_url }}">/{{ latest_page.category }}/{{ latest_page.date }} 
+            <p id="notice">Latest File: &nbsp; <a href="{{ latest_page.url | relative_url }}">/{{ latest_page.category }}/{{ latest_page.date }}
                 <small style="display: inline; text-transform: capitalize;"><em>{{ latest_page.page_num }}. {{ latest_page.title }} </em></small> </a> </p>
         {% endif %}
         
@@ -39,7 +39,7 @@ layout: default
                 {% for post in group.items %}
                     {% if post.page_num %}
                         <li style="list-style: none;">{{ post.page_num }} - <a href="{{ post.url | relative_url }}" style="text-transform: capitalize;"> {{ post.title }} 
-                            {% if post.tags %} <small style="display: inline; text-transform: unset;"><em>{{ post.tags | join: "</em> - <em>" }}</em></small> {% endif %} </a></li>
+                            {% if post.tags %} <small style="display: inline;"><em style="text-transform: unset;">{{ post.tags | join: "</em> - <em style="text-transform: unset;">" }}</em></small> {% endif %} </a></li>
                     {% endif %}
                 {% endfor %}
                 </ul>
@@ -111,7 +111,7 @@ layout: default
             {% for post in chapter_posts %}
                 {% if post.page_num %}
                     <li style="list-style: none;">{{ post.page_num }} - <a href="{{ post.url | relative_url }}" style="text-transform: capitalize;"> {{ post.title }} 
-                        {% if post.tags %} <small style="display: inline; text-transform: unset;"><em>{{ post.tags | join: "</em> - <em>" }}</em></small> {% endif %} 
+                        {% if post.tags %} <small style="display: inline;"><em style="text-transform: unset;">{{ post.tags | join: "</em> - <em style="text-transform: unset;">" }}</em></small> {% endif %} 
                     </a></li>
                 {% endif %}
             {% endfor %}

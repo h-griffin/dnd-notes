@@ -29,26 +29,27 @@
 - [x] json search highlight and truncate
 - [x] all posts
 - [x] all chapters
-- [ ] home
+- [x] home
 - [ ] lore
 - [ ] party
-- [ ] web3 form suggestion box
-- [ ] jump to (chapters & pages)
+- [x] web3 form suggestion box
+- [x] jump to (chapters & pages)
 - [ ] dark mode
 - [ ] spellcheck- piers dias, Taelos' Dias the sunpalace
+- [ ] page view chapter link
 
 ## page layouts
 
 | Page | Layout | URL |
 | ---: | :---- | :--- |
 | home | home | '/' |
+| 404 | default | '/404.html' |
+| thanks | default | '/thanks.html' |
 | lore | default | '/lore' |
 | party | default | '/party' |
 | all pages | collection | '/_posts' |
 | all chapters | collection | '/_posts/chapters' |
 | chapter | collection | '/_posts/chapter-01' |
 | page | post | '/_posts/chapter-01/yyyy-mm-dd' |
-| 404 | default | '/404.html' |
-| thanks | default | '/thanks.html' |
 
 ![map img](./assets/img/Ab_Aeterno_World_Map.png)
