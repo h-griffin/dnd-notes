@@ -36,7 +36,8 @@
 - [x] jump to (chapters & pages)
 - [ ] dark mode
 - [ ] spellcheck- piers dias, Taelos' Dias the sunpalace
-- [ ] page view chapter link
+- [ ] .gitignore dsstore
+- [ ] collection page tags lowercase?
 
 ## page layouts
 
