@@ -12,6 +12,14 @@ description: |-
   Journey to Piers Dias at the end of the world in search of the flame of valor.
 ---   
 
+
+## missions
+- champion of 3 cities
+    - trial of ascent: up the mountain, gain the monks favor
+- travel to piers lost island dias at the end of the world
+    - to kill tylos who has the flame of valor to destroy the dread
+- (how to kill a god) find out how talryn died the last god to die
+
 ## maybe later missions
 - return to red starholder woman in elysium
 - talk to blue about sykes/hydor
